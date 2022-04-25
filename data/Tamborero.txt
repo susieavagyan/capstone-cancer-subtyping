@@ -1,0 +1,436 @@
+Gene Symbol	Cancer Gene Census	MuSIC	OncodriveFM	OncodriveCLUST	ActiveDriver	MutSig	Putative Driver Category
+AARS2						1	High Confidence Driver
+ABCB1		1	1			1	High Confidence Driver
+ABL1	1				1		High Confidence Driver
+ACVR1B		1	1				High Confidence Driver
+ADAM10			1				High Confidence Driver
+ADCY1		1					High Confidence Driver
+ADORA2A		1					High Confidence Driver
+AHNAK2		1			1		High Confidence Driver
+AJUBA		1	1				High Confidence Driver
+AKAP9	1		1			1	High Confidence Driver
+AKD1						1	High Confidence Driver
+AKT1	1	1	1	1		1	High Confidence Driver
+AMPH		1					High Confidence Driver
+ANAPC1					1		High Confidence Driver
+ANKRD12			1			1	High Confidence Driver
+APAF1			1				High Confidence Driver
+APC	1	1	1	1		1	High Confidence Driver
+AR		1					High Confidence Driver
+ARHGAP32					1		High Confidence Driver
+ARHGAP35		1	1				High Confidence Driver
+ARHGEF6			1				High Confidence Driver
+ARID1A	1	1	1			1	High Confidence Driver
+ARID2	1		1			1	High Confidence Driver
+ARID5B		1	1				High Confidence Driver
+ASPM		1			1		High Confidence Driver
+ASXL1	1	1	1				High Confidence Driver
+ATG13			1				High Confidence Driver
+ATM	1	1	1			1	High Confidence Driver
+ATR		1	1				High Confidence Driver
+ATRX	1	1	1		1	1	High Confidence Driver
+AXIN2		1	1				High Confidence Driver
+B2M			1	1		1	High Confidence Driver
+BAP1	1	1	1			1	High Confidence Driver
+BARD1					1		High Confidence Driver
+BCLAF1		1			1		High Confidence Driver
+BCOR	1					1	High Confidence Driver
+BLM	1		1			1	High Confidence Driver
+BRAF	1	1		1	1	1	High Confidence Driver
+BRCA1	1	1	1			1	High Confidence Driver
+BRCA2	1	1	1			1	High Confidence Driver
+BUB1B	1					1	High Confidence Driver
+CAD			1				High Confidence Driver
+CARM1			1				High Confidence Driver
+CASP8		1	1	1		1	High Confidence Driver
+CAST			1		1		High Confidence Driver
+CBFB	1	1	1	1		1	High Confidence Driver
+CCAR1			1				High Confidence Driver
+CCND1	1	1	1		1	1	High Confidence Driver
+CDC73	1		1				High Confidence Driver
+CDH1	1	1	1			1	High Confidence Driver
+CDK12	1	1	1		1	1	High Confidence Driver
+CDKN1A		1	1			1	High Confidence Driver
+CDKN1B		1	1			1	High Confidence Driver
+CDKN2A	1	1	1	1		1	High Confidence Driver
+CDKN2C	1	1					High Confidence Driver
+CEBPA	1	1	1			1	High Confidence Driver
+CFH		1	1				High Confidence Driver
+CHD4			1			1	High Confidence Driver
+CHD8			1				High Confidence Driver
+CHEK2	1	1		1		1	High Confidence Driver
+CIC	1				1		High Confidence Driver
+CLIP1					1		High Confidence Driver
+CLTC	1		1				High Confidence Driver
+CLTCL1	1				1		High Confidence Driver
+COL18A1		1					High Confidence Driver
+CREB1	1					1	High Confidence Driver
+CRTC1	1	1					High Confidence Driver
+CRTC3	1				1		High Confidence Driver
+CSDE1		1					High Confidence Driver
+CTCF		1	1	1	1	1	High Confidence Driver
+CTNNB1	1	1	1	1	1	1	High Confidence Driver
+CTNND1			1				High Confidence Driver
+CTTN			1				High Confidence Driver
+CUL1			1				High Confidence Driver
+CYLD	1		1				High Confidence Driver
+DDX5	1					1	High Confidence Driver
+DHX9			1				High Confidence Driver
+DICER1	1		1				High Confidence Driver
+DMD		1				1	High Confidence Driver
+DNMT3A	1	1	1	1		1	High Confidence Driver
+DOCK2		1					High Confidence Driver
+EEF1A1			1		1		High Confidence Driver
+EGFR	1	1	1	1	1	1	High Confidence Driver
+EIF4A2	1	1					High Confidence Driver
+ELF3		1	1			1	High Confidence Driver
+EP300	1	1	1			1	High Confidence Driver
+ERBB2	1			1	1	1	High Confidence Driver
+ERBB2IP					1		High Confidence Driver
+ERCC2	1	1	1			1	High Confidence Driver
+ESR1					1		High Confidence Driver
+EWSR1	1					1	High Confidence Driver
+EZH2	1	1					High Confidence Driver
+FANCA	1					1	High Confidence Driver
+FBN2		1	1				High Confidence Driver
+FBXO11	1					1	High Confidence Driver
+FBXW7	1	1	1	1		1	High Confidence Driver
+FES			1				High Confidence Driver
+FGFR2	1	1	1	1		1	High Confidence Driver
+FGFR3	1	1	1	1		1	High Confidence Driver
+FLT3	1	1	1	1	1	1	High Confidence Driver
+FN1			1				High Confidence Driver
+FOXA1		1	1				High Confidence Driver
+FOXA2		1	1	1			High Confidence Driver
+FRG1B		1	1	1			High Confidence Driver
+GATA3	1	1	1			1	High Confidence Driver
+GNAI1			1				High Confidence Driver
+GNAS	1		1			1	High Confidence Driver
+GOLGA5	1		1			1	High Confidence Driver
+GOT2			1	1			High Confidence Driver
+GPHN	1					1	High Confidence Driver
+GPS2		1				1	High Confidence Driver
+GTF2H1			1				High Confidence Driver
+H3F3C		1	1				High Confidence Driver
+HGF		1					High Confidence Driver
+HLA-A		1	1			1	High Confidence Driver
+HLA-B		1	1				High Confidence Driver
+HMGXB4		1	1				High Confidence Driver
+HRAS	1		1	1		1	High Confidence Driver
+HSP90AB1	1		1				High Confidence Driver
+HSPA8					1		High Confidence Driver
+HUWE1					1		High Confidence Driver
+IDH1	1	1	1	1	1	1	High Confidence Driver
+IDH2	1	1	1	1	1	1	High Confidence Driver
+IRS2		1					High Confidence Driver
+ITGA6					1		High Confidence Driver
+JAK2	1					1	High Confidence Driver
+KALRN			1				High Confidence Driver
+KDM5C	1	1	1			1	High Confidence Driver
+KDM6A	1	1	1	1		1	High Confidence Driver
+KEAP1		1	1	1		1	High Confidence Driver
+KIAA1109			1			1	High Confidence Driver
+KIFC3		1					High Confidence Driver
+KIT	1	1		1	1	1	High Confidence Driver
+KRAS	1	1	1	1		1	High Confidence Driver
+LCP1	1					1	High Confidence Driver
+LEPR		1	1				High Confidence Driver
+LIFR	1	1					High Confidence Driver
+LPP	1		1				High Confidence Driver
+LRRK2		1			1		High Confidence Driver
+LUM		1		1			High Confidence Driver
+LYN			1				High Confidence Driver
+LZTR1			1	1			High Confidence Driver
+MALAT1	1	1					High Confidence Driver
+MAP2K4	1	1	1	1		1	High Confidence Driver
+MAP3K1		1	1			1	High Confidence Driver
+MAP3K3					1		High Confidence Driver
+MAP3K4						1	High Confidence Driver
+MAPK8IP1		1					High Confidence Driver
+MAST2			1		1		High Confidence Driver
+MATK			1				High Confidence Driver
+MAX			1	1			High Confidence Driver
+MDC1					1		High Confidence Driver
+MECOM	1	1					High Confidence Driver
+MED12	1					1	High Confidence Driver
+MED13			1				High Confidence Driver
+MED17			1				High Confidence Driver
+MEF2A						1	High Confidence Driver
+METTL14		1	1	1			High Confidence Driver
+MLL	1		1		1		High Confidence Driver
+MLL2	1	1	1		1	1	High Confidence Driver
+MLL3	1	1	1			1	High Confidence Driver
+MLLT10	1					1	High Confidence Driver
+MLLT3	1					1	High Confidence Driver
+MLLT4	1		1		1		High Confidence Driver
+MMP2			1				High Confidence Driver
+MN1	1	1					High Confidence Driver
+MSN	1					1	High Confidence Driver
+MST1				1			High Confidence Driver
+MTOR		1	1				High Confidence Driver
+MYB	1		1			1	High Confidence Driver
+MYH9	1		1			1	High Confidence Driver
+NAV3		1	1				High Confidence Driver
+NBPF10		1		1			High Confidence Driver
+NCOA3					1	1	High Confidence Driver
+NCOA4	1					1	High Confidence Driver
+NCOR1		1	1		1		High Confidence Driver
+NCOR2					1		High Confidence Driver
+NEB			1		1		High Confidence Driver
+NEDD4L			1				High Confidence Driver
+NF1	1	1	1			1	High Confidence Driver
+NFE2L2	1	1	1	1	1	1	High Confidence Driver
+NIN	1					1	High Confidence Driver
+NLRP3		1					High Confidence Driver
+NONO	1					1	High Confidence Driver
+NOTCH1	1	1	1			1	High Confidence Driver
+NPM1	1	1	1			1	High Confidence Driver
+NR1H2						1	High Confidence Driver
+NR4A2						1	High Confidence Driver
+NRAS	1	1	1	1	1	1	High Confidence Driver
+NSD1	1	1	1				High Confidence Driver
+NUMA1	1	1				1	High Confidence Driver
+NUP214	1				1		High Confidence Driver
+NUP93			1				High Confidence Driver
+NUP98	1					1	High Confidence Driver
+PABPC1		1					High Confidence Driver
+PBRM1	1	1	1			1	High Confidence Driver
+PCBP1		1	1				High Confidence Driver
+PCM1	1				1		High Confidence Driver
+PDGFRA	1	1				1	High Confidence Driver
+PHF6	1	1	1			1	High Confidence Driver
+PHLDA1		1				1	High Confidence Driver
+PIK3CA	1	1	1	1		1	High Confidence Driver
+PIK3CB			1				High Confidence Driver
+PIK3CG		1					High Confidence Driver
+PIK3R1	1	1	1	1	1	1	High Confidence Driver
+PIP5K1A			1				High Confidence Driver
+PLCG1			1				High Confidence Driver
+PLEC		1			1		High Confidence Driver
+POTEF		1	1				High Confidence Driver
+PPP2R1A	1	1	1	1		1	High Confidence Driver
+PRKAR1A	1					1	High Confidence Driver
+PRKCD					1		High Confidence Driver
+PRPF8			1				High Confidence Driver
+PSEN1		1					High Confidence Driver
+PTEN	1	1	1	1	1	1	High Confidence Driver
+PTPN11	1	1	1		1	1	High Confidence Driver
+RAC1			1	1		1	High Confidence Driver
+RAD21		1					High Confidence Driver
+RANBP2					1		High Confidence Driver
+RANBP3			1				High Confidence Driver
+RASA1		1	1			1	High Confidence Driver
+RB1	1	1	1			1	High Confidence Driver
+RBMX						1	High Confidence Driver
+RHEB				1			High Confidence Driver
+RHOA					1		High Confidence Driver
+RNF213	1				1		High Confidence Driver
+RNF43						1	High Confidence Driver
+RPGR						1	High Confidence Driver
+RPL22	1	1	1				High Confidence Driver
+RPL5		1	1			1	High Confidence Driver
+RPSAP58		1	1	1			High Confidence Driver
+RUNX1	1	1	1	1		1	High Confidence Driver
+RXRA				1			High Confidence Driver
+SETD2	1	1	1			1	High Confidence Driver
+SF3B1	1	1	1			1	High Confidence Driver
+SGK1		1					High Confidence Driver
+SIN3A		1					High Confidence Driver
+SMAD2		1	1			1	High Confidence Driver
+SMAD4	1	1	1	1		1	High Confidence Driver
+SMARCA4	1		1			1	High Confidence Driver
+SMC1A		1	1				High Confidence Driver
+SMC3		1			1		High Confidence Driver
+SOS1			1				High Confidence Driver
+SOX17		1	1				High Confidence Driver
+SPATA6			1	1			High Confidence Driver
+SPEN		1			1		High Confidence Driver
+SPOP		1	1	1		1	High Confidence Driver
+STAG2		1	1			1	High Confidence Driver
+STAT3					1		High Confidence Driver
+STK11	1	1	1			1	High Confidence Driver
+SUZ12	1		1			1	High Confidence Driver
+SYNE1		1			1		High Confidence Driver
+TAF1		1	1				High Confidence Driver
+TBL1XR1		1				1	High Confidence Driver
+TBX3		1	1			1	High Confidence Driver
+TCF12	1		1				High Confidence Driver
+TCF7			1				High Confidence Driver
+TCF7L2	1	1	1				High Confidence Driver
+TET2	1	1	1			1	High Confidence Driver
+TFDP1			1				High Confidence Driver
+TGFBR2		1	1				High Confidence Driver
+TGIF1		1					High Confidence Driver
+TJP2			1				High Confidence Driver
+TNFRSF10C		1					High Confidence Driver
+TOM1			1				High Confidence Driver
+TOP3A			1				High Confidence Driver
+TP53	1	1	1	1	1	1	High Confidence Driver
+TP53BP1			1		1		High Confidence Driver
+TPR	1				1		High Confidence Driver
+TRIM7						1	High Confidence Driver
+TRIO			1				High Confidence Driver
+TRIP11	1	1					High Confidence Driver
+TSC2	1					1	High Confidence Driver
+TUBA1A			1				High Confidence Driver
+TXNIP		1	1				High Confidence Driver
+U2AF1	1	1	1	1		1	High Confidence Driver
+UHRF1BP1L						1	High Confidence Driver
+VHL	1	1	1	1	1	1	High Confidence Driver
+WHSC1	1		1		1		High Confidence Driver
+WHSC1L1	1		1				High Confidence Driver
+WRN	1					1	High Confidence Driver
+WT1	1	1	1	1		1	High Confidence Driver
+ZFHX3		1	1		1		High Confidence Driver
+ZFP36L1		1	1			1	High Confidence Driver
+ZFP36L2		1		1			High Confidence Driver
+ZMYM2	1		1				High Confidence Driver
+ZNF132						1	High Confidence Driver
+ZNF300						1	High Confidence Driver
+ZNF814		1		1			High Confidence Driver
+ZNF844		1		1			High Confidence Driver
+ZNF91		1	1				High Confidence Driver
+AARS			1				Candidate driver
+ACTB			1				Candidate driver
+ACTG1			1				Candidate driver
+ACVR2A		1	1				Candidate driver
+AHCTF1					1		Candidate driver
+AHCYL2			1				Candidate driver
+AHDC1		1					Candidate driver
+AHNAK					1		Candidate driver
+ANKRD11		1					Candidate driver
+ANKRD6			1				Candidate driver
+ANXA6					1		Candidate driver
+ARAF					1		Candidate driver
+ATF7IP			1				Candidate driver
+BAZ1B					1		Candidate driver
+BAZ2A		1	1				Candidate driver
+BCL9L					1		Candidate driver
+CEP170					1		Candidate driver
+CHD3			1				Candidate driver
+CHD7					1		Candidate driver
+CNOT1			1		1		Candidate driver
+CNOT3			1				Candidate driver
+COBLL1					1		Candidate driver
+CUL3			1				Candidate driver
+CUX1			1				Candidate driver
+CYC1			1				Candidate driver
+DAB2IP			1				Candidate driver
+DCP1B				1			Candidate driver
+DDX3X			1				Candidate driver
+DIDO1		1					Candidate driver
+DIS3L2			1				Candidate driver
+DNM3			1				Candidate driver
+DOCK4			1				Candidate driver
+DOT1L			1				Candidate driver
+DST			1	1			Candidate driver
+EPB41L3		1					Candidate driver
+EPHA3		1					Candidate driver
+EPHB6		1					Candidate driver
+EPPK1		1					Candidate driver
+ERBB4		1					Candidate driver
+FAM129B					1		Candidate driver
+FCHO2			1				Candidate driver
+FLNA					1		Candidate driver
+FOSL2			1				Candidate driver
+G3BP1			1				Candidate driver
+GAB3			1				Candidate driver
+GDI1			1				Candidate driver
+GIGYF2			1				Candidate driver
+GNL3L				1			Candidate driver
+GRIN3A		1					Candidate driver
+HERC1			1				Candidate driver
+HIST1H1C		1					Candidate driver
+HIST1H2BD		1					Candidate driver
+IARS2			1				Candidate driver
+IK		1					Candidate driver
+ING1			1				Candidate driver
+INPP4A			1				Candidate driver
+INTS1					1		Candidate driver
+JMJD1C					1		Candidate driver
+KDM6B		1					Candidate driver
+KIAA0947		1					Candidate driver
+KIF20B					1		Candidate driver
+LTBP1			1				Candidate driver
+LUC7L2			1				Candidate driver
+MACF1			1				Candidate driver
+MAP1A			1				Candidate driver
+MAP1B					1		Candidate driver
+MAP4					1		Candidate driver
+MARCKSL1		1					Candidate driver
+MCM7					1		Candidate driver
+MDN1					1		Candidate driver
+MEGF6			1				Candidate driver
+MGA			1				Candidate driver
+MICAL1			1				Candidate driver
+MKI67					1		Candidate driver
+MME		1					Candidate driver
+MTM1			1				Candidate driver
+MYCBP2			1				Candidate driver
+MYO1D			1				Candidate driver
+NAA15			1				Candidate driver
+NAV1					1		Candidate driver
+NBEA		1					Candidate driver
+NEK1			1				Candidate driver
+NEK8				1			Candidate driver
+NIPBL					1		Candidate driver
+NMT2			1				Candidate driver
+P4HB				1			Candidate driver
+PABPC4			1				Candidate driver
+PDS5A					1		Candidate driver
+POLE			1				Candidate driver
+PPFIA4			1				Candidate driver
+PRDM2		1					Candidate driver
+PRRC2A					1		Candidate driver
+PRX		1					Candidate driver
+PSMD11			1				Candidate driver
+PSME3				1			Candidate driver
+PTPN13					1		Candidate driver
+PWP1					1		Candidate driver
+QKI			1				Candidate driver
+RAB11FIP5					1		Candidate driver
+RAG1			1				Candidate driver
+RALGAPA1			1				Candidate driver
+RANGAP1				1			Candidate driver
+RBFOX2			1				Candidate driver
+RBM10			1				Candidate driver
+RIF1					1		Candidate driver
+RNF111			1				Candidate driver
+RPP38					1		Candidate driver
+RSRC1			1				Candidate driver
+SEC23B			1				Candidate driver
+SETX					1		Candidate driver
+SH3PXD2A					1		Candidate driver
+SLC25A10			1				Candidate driver
+SLC3A2					1		Candidate driver
+SMARCAD1					1		Candidate driver
+SMC4			1				Candidate driver
+SMCHD1			1				Candidate driver
+SMYD4		1					Candidate driver
+SOX9			1				Candidate driver
+SPEG					1		Candidate driver
+SPTAN1			1				Candidate driver
+SRCAP					1		Candidate driver
+SRRM2					1		Candidate driver
+SSX2IP					1		Candidate driver
+STIP1			1				Candidate driver
+SVIL					1		Candidate driver
+TANC2			1				Candidate driver
+TGOLN2		1					Candidate driver
+TICAM1		1					Candidate driver
+TLR4		1					Candidate driver
+TNKS1BP1					1		Candidate driver
+TNPO1			1				Candidate driver
+TPM1					1		Candidate driver
+TTK			1				Candidate driver
+UBE2Z					1		Candidate driver
+UBE4A			1				Candidate driver
+USP28			1				Candidate driver
+USP9X		1					Candidate driver
+UTP14A					1		Candidate driver
+VEZT			1				Candidate driver
+ZEB2			1				Candidate driver
+ZMYM4			1				Candidate driver
+ZMYND8					1		Candidate driver
+ZNF451			1				Candidate driver
+ZNF703		1					Candidate driver

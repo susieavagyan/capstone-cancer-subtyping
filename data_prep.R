@@ -38,23 +38,31 @@ colnames(a)[3] <- "CNA"
 cnv_df <- a
 cnv_df %>% dplyr::rename_all(make.names)
 
-# clinical data
+# clinical data - samples
 clin_df <- read.csv("https://media.githubusercontent.com/media/cBioPortal/datahub/master/public/msk_met_2021/data_clinical_sample.txt", sep = "\t", check.names = FALSE)
 colnames(clin_df) <-  clin_df[4,]
 clin_df <- clin_df[-(1:4), , drop = FALSE]
+
+
+# clinical data - patients
+clinp_df <- read.csv("https://media.githubusercontent.com/media/cBioPortal/datahub/master/public/msk_met_2021/data_clinical_patient.txt", sep = "\t", check.names = FALSE)
+colnames(clinp_df) <-  clinp_df[4,]
+clinp_df <- clinp_df[-(1:4), , drop = FALSE]
 
 ##filter to only colon cancer samples
 coad_read <- clin_df[clin_df$ONCOTREE_CODE %in% c("COAD", "READ"),]
 ##dist of primary and metastatic cancers
 ggplot(coad_read) + geom_bar(aes(SAMPLE_TYPE), stat="count", fill = "#2986e2") + ggtitle("Distribution of patients by sample type") +  theme_classic() 
-        
+
+
 ## select only primary
 coad_read_p <- coad_read[coad_read$SAMPLE_TYPE == "Primary",]
+
 
 mutations_df <- mutations_df[mutations_df$patient_id %in% coad_read_p$SAMPLE_ID,]
 cnv_df <- cnv_df[cnv_df$patient_id %in% coad_read_p$SAMPLE_ID,]
 
-
+clinp_df <- clinp_df[clinp_df$PATIENT_ID %in% coad_read_p$PATIENT_ID, ]
 
 # Load the cancer related list and limit to cancer-related genes 
 cancer_list <-read.csv("C:/Users/susia/AUA/CMHealthcare/final_project/MolecularSubtypes/Data/version_2_mpt_cancer_gene.csv")
@@ -65,12 +73,12 @@ write_csv(coad_read, file = "./data/clinical_raw.csv")
 write_csv(coad_read_p, file = "./data/clinical_primary_raw.csv")
 write_csv(mutations_df, file = "./data/mut_raw.csv")
 write_csv(cnv_df, file = "./data/cnv_raw.csv")
+write_csv(clinp_df, file = "./data/clinical_patients.csv")
 
 # mutations_df <- read.csv("./data/mut_raw.csv")
 # cnv_df <- read.csv("./data/cnv_raw.csv")
 # clin_df <- read.csv("./data/clinical_raw.csv")
-# coad_read_p <- read.csv("./data/clinical_raw.csv")
-
+# coad_read_p <- read.csv("./data/clinical_primary_raw.csv")
 
 
 ##preprocessing

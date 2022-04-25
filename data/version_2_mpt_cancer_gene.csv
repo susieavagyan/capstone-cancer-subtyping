@@ -1,0 +1,1458 @@
+gene,type,freq
+AARS2,cancer related,57505
+ABCB1,cancer related,5243
+ABI1,tsg,10006
+ABL1,oncogene,25
+ABL2,oncogene,27
+ABRAXAS1,tsg,84142
+ACKR3,oncogene,57007
+ACO1,cancer related,48
+ACSL3,cancer related,2181
+ACSL6,cancer related,23305
+ACTB,cancer related,60
+ACTG1,tsg,71
+ACVR1,oncogene,90
+ACVR1B,cancer related,91
+ACVR2A,tsg,92
+ACVR2B,cancer related,93
+ADAM10,cancer related,102
+ADCY1,cancer related,107
+ADGRA2,cancer related,25960
+ADNP,cancer related,23394
+ADORA2A,cancer related,135
+AFDN,oncogene,4301
+AFF1,cancer related,4299
+AFF3,oncogene,3899
+AFF4,oncogene,27125
+AGO1,oncogene,26523
+AGO2,cancer related,27161
+AHNAK2,cancer related,113146
+AJUBA,tsg,84962
+AK9,cancer related,221264
+AKAP9,cancer related,10142
+AKD1,cancer related,221264
+AKT1,oncogene,207
+AKT2,oncogene,208
+AKT3,oncogene,10000
+AL035425.2,cancer related,na
+ALB,cancer related,213
+ALK,oncogene,238
+ALKBH6,cancer related,84964
+ALOX12B,cancer related,242
+ALPK2,cancer related,115701
+AMER1,tsg,139285
+AMPH,cancer related,273
+ANAPC1,cancer related,64682
+ANK3,cancer related,288
+ANKRD11,tsg,29123
+ANKRD12,cancer related,23253
+APAF1,cancer related,317
+APC,tsg,324
+APH1A,cancer related,51107
+APLNR,oncogene/tsg,187
+APOB,cancer related,338
+APOBEC3B,oncogene/tsg,9582
+APOL2,cancer related,23780
+AR,oncogene,367
+ARAF,oncogene,369
+ARFRP1,cancer related,10139
+ARHGAP26,tsg,23092
+ARHGAP32,cancer related,9743
+ARHGAP35,oncogene/tsg,2909
+ARHGEF12,tsg,23365
+ARHGEF28,oncogene,64283
+ARHGEF6,cancer related,9459
+ARID1A,tsg,8289
+ARID1B,tsg,57492
+ARID2,tsg,196528
+ARID3A,tsg,1820
+ARID3B,oncogene,10620
+ARID3C,cancer related,138715
+ARID4A,tsg,5926
+ARID4B,tsg,51742
+ARID5A,cancer related,10865
+ARID5B,tsg,84159
+ARNT,oncogene/tsg,405
+ASMTL,cancer related,8623
+ASPM,cancer related,259266
+ASPSCR1,cancer related,79058
+ASXL1,tsg,171023
+ASXL2,tsg,55252
+ATF1,oncogene,466
+ATF7IP,cancer related,55729
+ATG13,cancer related,9776
+ATG5,cancer related,9474
+ATIC,cancer related,471
+ATM,tsg,472
+ATP1A1,oncogene/tsg,476
+ATP2B3,tsg,492
+ATP6AP1,cancer related,537
+ATP6V1B2,tsg,526
+ATR,tsg,545
+ATRX,tsg,546
+ATXN2,tsg,6311
+ATXN3,cancer related,4287
+ATXN7,oncogene,6314
+AURKA,oncogene,6790
+AURKB,oncogene,9212
+AXIN1,tsg,8312
+AXIN2,tsg,8313
+AXL,oncogene,558
+AZGP1,cancer related,563
+B2M,tsg,567
+B4GALT3,cancer related,8703
+BABAM1,cancer related,29086
+BACH2,tsg,60468
+BAP1,tsg,8314
+BARD1,tsg,580
+BAX,tsg,581
+BBC3,tsg,27113
+BCL10,tsg,8915
+BCL11A,oncogene,53335
+BCL11B,MPT:tsg||||COSMIC:oncogene/tsg,64919
+BCL2,oncogene,596
+BCL2L1,cancer related,598
+BCL2L11,tsg,10018
+BCL2L2,cancer related,599
+BCL3,oncogene,602
+BCL6,oncogene,604
+BCL7A,cancer related,605
+BCL9,oncogene,607
+BCL9L,oncogene/tsg,283149
+BCLAF1,cancer related,9774
+BCOR,tsg,54880
+BCORL1,MPT:tsg||||COSMIC:oncogene/tsg,63035
+BCR,oncogene,613
+BHMT2,cancer related,23743
+BIRC3,oncogene/tsg,330
+BLM,tsg,641
+BMPR1A,MPT:tsg||||COSMIC:oncogene/tsg,657
+BRAF,oncogene,673
+BRCA1,tsg,672
+BRCA2,tsg,675
+BRD3,oncogene,8019
+BRD4,oncogene,23476
+BRD7,cancer related,29117
+BRIP1,tsg,83990
+BRSK1,cancer related,84446
+BTG1,tsg,694
+BTG2,cancer related,7832
+BTK,MPT:oncogene||||COSMIC:oncogene/tsg,695
+BTLA,cancer related,151888
+BUB1B,tsg,701
+C2orf44,cancer related,80304
+C3orf70,cancer related,285382
+CACNA1A,cancer related,773
+CACNA1D,oncogene,776
+CAD,cancer related,790
+CALR,oncogene,811
+CAMTA1,tsg,23261
+CANT1,cancer related,124583
+CAP2,cancer related,10486
+CARD11,oncogene,84433
+CARM1,cancer related,10498
+CARS,tsg,833
+CARS1,cancer related,833
+CASC5,cancer related,57082
+CASP8,tsg,841
+CAST,cancer related,831
+CBFA2T3,tsg,863
+CBFB,tsg,865
+CBL,MPT:tsg||||COSMIC:oncogene/tsg,867
+CBLB,tsg,868
+CBLC,oncogene/tsg,23624
+CBWD3,cancer related,445571
+CCAR1,cancer related,55749
+CCDC120,cancer related,90060
+CCDC6,tsg,8030
+CCN6,cancer related,8838
+CCNB1IP1,tsg,57820
+CCNB3,oncogene,85417
+CCND1,oncogene,595
+CCND2,oncogene,894
+CCND3,oncogene,896
+CCNE1,oncogene,898
+CCNQ,tsg,92002
+CCT6B,cancer related,10693
+CD1D,cancer related,912
+CD22,cancer related,933
+CD274,MPT:oncogene||||COSMIC:tsg,29126
+CD276,cancer related,80381
+CD28,oncogene,940
+CD36,cancer related,948
+CD58,tsg,965
+CD70,cancer related,970
+CD74,oncogene,972
+CD79A,oncogene,973
+CD79B,oncogene,974
+CDC27,cancer related,996
+CDC42,oncogene,998
+CDC73,tsg,79577
+CDH1,tsg,999
+CDH11,tsg,1009
+CDK12,tsg,51755
+CDK4,oncogene,1019
+CDK6,oncogene,1021
+CDK8,oncogene,1024
+CDKN1A,MPT:tsg||||COSMIC:oncogene/tsg,1026
+CDKN1B,tsg,1027
+CDKN2A,tsg,1029
+CDKN2B,tsg,1030
+CDKN2C,tsg,1031
+CDX2,tsg,1045
+CEBPA,tsg,1050
+CENPA,cancer related,1058
+CEP76,cancer related,79959
+CFH,cancer related,3075
+CHCHD7,cancer related,79145
+CHD2,tsg,1106
+CHD3,cancer related,1107
+CHD4,oncogene,1108
+CHD8,cancer related,57680
+CHEK1,tsg,1111
+CHEK2,tsg,11200
+CHIC2,cancer related,26511
+CHN1,cancer related,1123
+CIC,MPT:tsg||||COSMIC:oncogene/tsg,23152
+CIITA,tsg,4261
+CKS1B,cancer related,1163
+CLIP1,cancer related,6249
+CLP1,cancer related,10978
+CLTC,tsg,1213
+CLTCL1,tsg,8218
+CMTR2,tsg,55783
+CNBD1,cancer related,168975
+CNBP,tsg,7555
+CNKSR1,cancer related,10256
+CNOT3,tsg,4849
+CNOT9,cancer related,9125
+CNTRL,cancer related,11064
+COL18A1,cancer related,80781
+COL1A1,cancer related,1277
+COL2A1,cancer related,1280
+COL5A1,cancer related,1289
+COL5A3,cancer related,50509
+COP1,oncogene,64326
+CPS1,cancer related,1373
+CRBN,tsg,51185
+CREB1,oncogene,1385
+CREB3L1,tsg,90993
+CREB3L2,oncogene,64764
+CREB3L3,cancer related,84699
+CREBBP,MPT:tsg||||COSMIC:oncogene/tsg,1387
+CRIPAK,cancer related,na
+CRKL,oncogene,1399
+CRLF2,oncogene,64109
+CRTC1,oncogene,23373
+CRTC3,cancer related,64784
+CSDE1,cancer related,7812
+CSF1,cancer related,1435
+CSF1R,oncogene,1436
+CSF3R,oncogene,1441
+CTCF,tsg,10664
+CTLA4,oncogene,1493
+CTNNA1,cancer related,1495
+CTNNB1,oncogene,1499
+CTNND1,cancer related,1500
+CTR9,tsg,9646
+CTTN,cancer related,2017
+CUL1,cancer related,8454
+CUL3,tsg,8452
+CUL4A,cancer related,8451
+CUL4B,cancer related,8450
+CUX1,MPT:tsg||||COSMIC:oncogene/tsg,1523
+CXCR4,oncogene,7852
+CXORF67,oncogene,340602
+CYLD,tsg,1540
+CYP17A1,cancer related,1586
+CYP19A1,oncogene,1588
+CYSLTR2,oncogene,57105
+DACH1,cancer related,1602
+DAXX,MPT:tsg||||COSMIC:oncogene/tsg,1616
+DAZAP1,cancer related,26528
+DCTN1,cancer related,1639
+DCUN1D1,cancer related,54165
+DDB2,oncogene/tsg,1643
+DDIT3,oncogene,1649
+DDR1,cancer related,780
+DDR2,oncogene,4921
+DDX10,tsg,1662
+DDX3X,tsg,1654
+DDX5,oncogene,1655
+DDX6,oncogene,1656
+DEK,oncogene,7913
+DHX9,cancer related,1660
+DIAPH1,cancer related,1729
+DIAPH2,cancer related,1730
+DICER1,tsg,23405
+DIS3,tsg,22894
+DKK1,cancer related,22943
+DKK2,cancer related,27123
+DKK3,cancer related,27122
+DKK4,cancer related,27121
+DMD,cancer related,1756
+DNAH12,cancer related,201625
+DNAJB1,cancer related,3337
+DNER,cancer related,92737
+DNM2,tsg,1785
+DNMT1,oncogene,1786
+DNMT3A,tsg,1788
+DNMT3B,tsg,1789
+DOCK2,cancer related,1794
+DOT1L,oncogene,84444
+DROSHA,tsg,29102
+DTX1,tsg,1840
+DUSP2,cancer related,1844
+DUSP22,tsg,56940
+DUSP4,tsg,1846
+DUSP9,cancer related,1852
+E2F3,oncogene,1871
+EBF1,tsg,1879
+ECT2L,tsg,345930
+EED,tsg,8726
+EEF1A1,cancer related,1915
+EEF2,cancer related,1938
+EGFL7,oncogene,51162
+EGFR,oncogene,1956
+EGR1,tsg,1958
+EGR3,cancer related,1960
+EIF1AX,oncogene,1964
+EIF2S2,cancer related,8894
+EIF3E,tsg,3646
+EIF4A2,oncogene,1974
+EIF4E,cancer related,1977
+ELF3,MPT:oncogene/tsg||||COSMIC:tsg,1999
+ELF4,oncogene/tsg,2000
+ELK4,oncogene,2005
+ELL,tsg,8178
+ELN,cancer related,2006
+ELOC,cancer related,6921
+ELP2,cancer related,55250
+EML4,cancer related,27436
+EMSY,cancer related,56946
+EP300,tsg,2033
+EP400,tsg,57634
+EPAS1,oncogene/tsg,2034
+EPCAM,tsg,4072
+EPHA2,cancer related,1969
+EPHA3,tsg,2042
+EPHA5,cancer related,2044
+EPHA7,oncogene/tsg,2045
+EPHB1,tsg,2047
+EPHB4,cancer related,2050
+EPHB6,cancer related,2051
+EPOR,oncogene,2057
+EPPK1,cancer related,83481
+EPS15,tsg,2060
+ERBB2,oncogene,2064
+ERBB2IP,cancer related,55914
+ERBB3,oncogene,2065
+ERBB4,MPT:oncogene||||COSMIC:oncogene/tsg,2066
+ERBIN,cancer related,55914
+ERC1,cancer related,23085
+ERCC2,tsg,2068
+ERCC3,tsg,2071
+ERCC4,tsg,2072
+ERCC5,tsg,2073
+ERF,tsg,2077
+ERG,oncogene,2078
+ERRFI1,tsg,54206
+ESCO2,tsg,157570
+ESR1,MPT:oncogene||||COSMIC:oncogene/tsg,2099
+ETAA1,tsg,54465
+ETNK1,tsg,55500
+ETS1,cancer related,2113
+ETV1,oncogene,2115
+ETV4,oncogene,2118
+ETV5,oncogene,2119
+ETV6,tsg,2120
+EWSR1,oncogene,2130
+EXOSC6,cancer related,118460
+EXT1,tsg,2131
+EXT2,tsg,2132
+EZH1,oncogene,2145
+EZH2,oncogene/tsg,2146
+EZHIP,oncogene,340602
+EZR,cancer related,7430
+FAF1,cancer related,11124
+FAM123B,cancer related,139285
+FAM166A,cancer related,401565
+FAM175A,tsg,84142
+FAM46C,tsg,54855
+FAM46D,cancer related,169966
+FAM58A,tsg,92002
+FANCA,tsg,2175
+FANCC,tsg,2176
+FANCD2,tsg,2177
+FANCE,tsg,2178
+FANCF,tsg,2188
+FANCG,tsg,2189
+FANCL,cancer related,55120
+FAS,tsg,355
+FAT1,tsg,2195
+FAT4,tsg,79633
+FBN2,cancer related,2201
+FBXO11,tsg,80204
+FBXO31,cancer related,79791
+FBXW7,tsg,55294
+FCGR2B,oncogene,2213
+FCRL4,oncogene,83417
+FES,oncogene/tsg,2242
+FEV,oncogene,54738
+FGF10,cancer related,2255
+FGF12,cancer related,2257
+FGF14,cancer related,2259
+FGF19,oncogene,9965
+FGF23,cancer related,8074
+FGF3,oncogene,2248
+FGF4,oncogene,2249
+FGF6,cancer related,2251
+FGFBP1,cancer related,9982
+FGFR1,oncogene,2260
+FGFR1OP,cancer related,11116
+FGFR2,oncogene,2263
+FGFR3,oncogene,2261
+FGFR4,oncogene,2264
+FH,tsg,2271
+FHIT,tsg,2272
+FIP1L1,cancer related,81608
+FLCN,tsg,201163
+FLG,cancer related,2312
+FLI1,oncogene,2313
+FLNA,cancer related,2316
+FLT1,oncogene,2321
+FLT3,oncogene,2322
+FLT4,oncogene,2324
+FLYWCH1,cancer related,84256
+FN1,cancer related,2335
+FNBP1,cancer related,23048
+FOXA1,MPT:oncogene/tsg||||COSMIC:oncogene,3169
+FOXA2,cancer related,3170
+FOXF1,oncogene/tsg,2294
+FOXL2,oncogene/tsg,668
+FOXO1,MPT:tsg||||COSMIC:oncogene/tsg,2308
+FOXO3,oncogene/tsg,2309
+FOXO4,oncogene/tsg,4303
+FOXP1,MPT:oncogene/tsg||||COSMIC:oncogene,27086
+FOXQ1,cancer related,94234
+FRG1B,cancer related,284802
+FRG1BP,cancer related,284802
+FRMD7,cancer related,90167
+FRS2,cancer related,10818
+FSTL3,oncogene,10272
+FUBP1,MPT:tsg||||COSMIC:oncogene,8880
+FURIN,oncogene,5045
+FUS,tsg,2521
+FYN,oncogene,2534
+GAB1,oncogene,2549
+GAB2,oncogene,9846
+GABRA6,cancer related,2559
+GADD45B,cancer related,4616
+GAS7,cancer related,8522
+GATA1,oncogene/tsg,2623
+GATA2,oncogene,2624
+GATA3,oncogene/tsg,2625
+GATA4,cancer related,2626
+GATA6,cancer related,2627
+GID4,cancer related,79018
+GLI1,oncogene,2735
+GMPS,cancer related,8833
+GNA11,oncogene,2767
+GNA12,oncogene,2768
+GNA13,oncogene,10672
+GNAI1,cancer related,2770
+GNAQ,oncogene,2776
+GNAS,oncogene,2778
+GNB1,oncogene,2782
+GNPTAB,cancer related,79158
+GOLGA5,cancer related,9950
+GOPC,cancer related,57120
+GOT1,cancer related,2805
+GOT2,cancer related,2806
+GPC3,oncogene/tsg,2719
+GPHN,cancer related,10243
+GPS2,tsg,2874
+GREM1,oncogene,26585
+GRIN2A,tsg,2903
+GRIN2D,cancer related,2906
+GRM3,oncogene,2913
+GSK3B,oncogene,2932
+GTF2H1,cancer related,2965
+GTF2I,oncogene,2969
+GTSE1,cancer related,51512
+GUSB,cancer related,2990
+H1-2,cancer related,3006
+H1-3,tsg,3007
+H1-4,oncogene,3008
+H1-5,tsg,3009
+H2AC11,cancer related,8969
+H2AC16,cancer related,8332
+H2AC17,oncogene,8336
+H2AC6,cancer related,8334
+H2BC11,cancer related,8970
+H2BC12,cancer related,85236
+H2BC17,cancer related,8348
+H2BC4,cancer related,8347
+H2BC5,cancer related,3017
+H2BC8,cancer related,8339
+H3-3A,oncogene,3020
+H3-3B,cancer related,3021
+H3-4,cancer related,8290
+H3-5,cancer related,440093
+H3C1,cancer related,8350
+H3C10,cancer related,8357
+H3C11,cancer related,8354
+H3C12,cancer related,8356
+H3C13,cancer related,653604
+H3C14,cancer related,126961
+H3C15,cancer related,333932
+H3C2,cancer related,8358
+H3C3,cancer related,8352
+H3C4,cancer related,8351
+H3C6,cancer related,8353
+H3C7,cancer related,8968
+H3C8,cancer related,8355
+H3F3A,oncogene,3020
+H3F3AP4,cancer related,440926
+H3F3B,oncogene,3021
+H3F3C,cancer related,440093
+H3P6,cancer related,440926
+H4C5,cancer related,8367
+H4C9,cancer related,8294
+HDAC1,oncogene,3065
+HDAC4,oncogene/tsg,9759
+HDAC7,oncogene,51564
+HERPUD1,cancer related,9709
+HEY1,oncogene,23462
+HGF,oncogene,3082
+HIF1A,oncogene,3091
+HIP1,oncogene,3092
+HIRA,cancer related,7290
+HIST1H1B,tsg,3009
+HIST1H1C,cancer related,3006
+HIST1H1D,tsg,3007
+HIST1H1E,oncogene,3008
+HIST1H2AC,cancer related,8334
+HIST1H2AG,cancer related,8969
+HIST1H2AL,cancer related,8332
+HIST1H2AM,oncogene,8336
+HIST1H2BC,cancer related,8347
+HIST1H2BD,cancer related,3017
+HIST1H2BG,cancer related,8339
+HIST1H2BJ,cancer related,8970
+HIST1H2BK,cancer related,85236
+HIST1H2BO,cancer related,8348
+HIST1H3A,cancer related,8350
+HIST1H3B,oncogene,8358
+HIST1H3C,cancer related,8352
+HIST1H3D,cancer related,8351
+HIST1H3E,cancer related,8353
+HIST1H3F,cancer related,8968
+HIST1H3G,cancer related,8355
+HIST1H3H,cancer related,8357
+HIST1H3I,cancer related,8354
+HIST1H3J,cancer related,8356
+HIST1H4E,cancer related,8367
+HIST1H4I,cancer related,8294
+HIST2H3A,cancer related,333932
+HIST2H3C,cancer related,126961
+HIST2H3D,cancer related,653604
+HIST3H3,cancer related,8290
+HLA-A,tsg,3105
+HLA-B,tsg,3106
+HLA-C,tsg,3107
+HLF,oncogene,3131
+HMGA1,oncogene,3159
+HMGA2,oncogene,8091
+HMGXB4,cancer related,10042
+HNF1A,tsg,6927
+HNRNPA2B1,oncogene,3181
+HOOK3,cancer related,84376
+HOXA11,oncogene/tsg,3207
+HOXA13,oncogene,3209
+HOXA3,cancer related,3200
+HOXA9,oncogene/tsg,3205
+HOXB13,oncogene/tsg,10481
+HOXC11,oncogene,3227
+HOXC13,oncogene,3229
+HOXD11,oncogene,3237
+HOXD13,oncogene,3239
+HRAS,oncogene,3265
+HSD3B1,cancer related,3283
+HSP90AA1,cancer related,3320
+HSP90AB1,cancer related,3326
+HSPA8,cancer related,3312
+HUWE1,cancer related,10075
+ICK,cancer related,22858
+ICOSLG,oncogene,23308
+ID3,tsg,3399
+IDH1,oncogene,3417
+IDH2,oncogene,3418
+IFNGR1,tsg,3459
+IGF1,oncogene,3479
+IGF1R,oncogene,3480
+IGF2,oncogene,3481
+IGH,cancer related,3492
+IGK,cancer related,50802
+IGL,cancer related,3535
+IKBKB,oncogene,3551
+IKBKE,oncogene,9641
+IKZF1,tsg,10320
+IKZF2,cancer related,22807
+IKZF3,oncogene/tsg,22806
+IL10,cancer related,3586
+IL2,cancer related,3558
+IL21R,cancer related,50615
+IL3,oncogene,3562
+IL6ST,oncogene,3572
+IL7R,oncogene,3575
+ING1,cancer related,3621
+INHA,tsg,3623
+INHBA,oncogene/tsg,3624
+INPP4A,cancer related,3631
+INPP4B,tsg,8821
+INPP5D,cancer related,3635
+INPPL1,tsg,3636
+INSR,oncogene,3643
+INTS12,cancer related,57117
+IPO7,cancer related,10527
+IRF1,tsg,3659
+IRF2,cancer related,3660
+IRF4,MPT:oncogene||||COSMIC:oncogene/tsg,3662
+IRF6,cancer related,3664
+IRF8,tsg,3394
+IRS1,oncogene,3667
+IRS2,oncogene,8660
+IRS4,oncogene/tsg,8471
+ITGA6,cancer related,3655
+ITGB7,cancer related,3695
+ITK,cancer related,3702
+ITPKB,cancer related,3707
+JAK1,oncogene/tsg,3716
+JAK2,oncogene,3717
+JAK3,oncogene,3718
+JARID2,oncogene/tsg,3720
+JAZF1,cancer related,221895
+JUN,oncogene,3725
+KALRN,cancer related,8997
+KANSL1,cancer related,284058
+KAT6A,oncogene,7994
+KAT6B,tsg,23522
+KBTBD4,cancer related,55709
+KCNJ5,oncogene,3762
+KDM2B,cancer related,84678
+KDM4C,cancer related,23081
+KDM5A,oncogene,5927
+KDM5C,tsg,8242
+KDM6A,MPT:tsg||||COSMIC:oncogene/tsg,7403
+KDR,oncogene,3791
+KDSR,cancer related,2531
+KEAP1,tsg,9817
+KEL,cancer related,3792
+KIAA1109,cancer related,84162
+KIF1A,cancer related,547
+KIF5B,cancer related,3799
+KIFC3,cancer related,3801
+KIT,oncogene,3815
+KLF2,tsg,10365
+KLF4,oncogene/tsg,9314
+KLF5,oncogene,688
+KLF6,tsg,1316
+KLHL6,cancer related,89857
+KLHL8,cancer related,57563
+KLK2,cancer related,3817
+KMT2A,MPT:tsg||||COSMIC:oncogene,4297
+KMT2B,tsg,9757
+KMT2C,tsg,58508
+KMT2D,MPT:tsg||||COSMIC:oncogene/tsg,8085
+KMT5A,cancer related,387893
+KNL1,tsg,57082
+KNSTRN,oncogene,90417
+KRAS,oncogene,3845
+KRT222,cancer related,125113
+KSR2,oncogene,283455
+KTN1,cancer related,3895
+LASP1,cancer related,3927
+LATS1,tsg,9113
+LATS2,tsg,26524
+LCK,oncogene,3932
+LCP1,cancer related,3936
+LCTL,cancer related,197021
+LEF1,oncogene/tsg,51176
+LEMD2,cancer related,221496
+LEPR,cancer related,3953
+LIFR,cancer related,3977
+LMNA,cancer related,4000
+LMO1,oncogene,4004
+LMO2,oncogene,4005
+LPP,oncogene,4026
+LRIG3,tsg,121227
+LRP1B,tsg,53353
+LRP5,oncogene/tsg,4041
+LRP6,oncogene,4040
+LRRK2,cancer related,120892
+LTB,oncogene/tsg,4050
+LTK,cancer related,4058
+LUM,cancer related,4060
+LYL1,oncogene,4066
+LYN,oncogene,4067
+LZTR1,tsg,8216
+MACF1,cancer related,23499
+MAD2L2,cancer related,10459
+MAF,oncogene,4094
+MAFB,oncogene,9935
+MAGED1,cancer related,9500
+MALAT1,oncogene/tsg,378938
+MALT1,oncogene,10892
+MAML2,oncogene,84441
+MAP2K1,oncogene,5604
+MAP2K2,oncogene,5605
+MAP2K4,MPT:tsg||||COSMIC:oncogene/tsg,6416
+MAP3K1,MPT:tsg||||COSMIC:oncogene/tsg,4214
+MAP3K13,MPT:oncogene||||COSMIC:oncogene/tsg,9175
+MAP3K14,oncogene,9020
+MAP3K3,cancer related,4215
+MAP3K4,cancer related,4216
+MAP3K6,cancer related,9064
+MAP3K7,cancer related,6885
+MAP4K3,cancer related,8491
+MAPK1,oncogene,5594
+MAPK3,oncogene,5595
+MAPK8IP1,cancer related,9479
+MAPKAP1,cancer related,79109
+MAST2,cancer related,23139
+MATK,cancer related,4145
+MAX,tsg,4149
+MBD1,cancer related,4152
+MCL1,oncogene,4170
+MDC1,cancer related,9656
+MDM2,oncogene,4193
+MDM4,oncogene,4194
+MDS2,cancer related,259283
+MECOM,oncogene,2122
+MED12,MPT:oncogene/tsg||||COSMIC:tsg,9968
+MED13,cancer related,9969
+MED17,cancer related,9440
+MED23,cancer related,9439
+MEF2A,cancer related,4205
+MEF2B,oncogene,100271849
+MEF2C,cancer related,4208
+MEN1,tsg,4221
+MERTK,cancer related,10461
+MET,oncogene,4233
+METTL14,cancer related,57721
+MGA,tsg,23269
+MGAM,oncogene,8972
+MGMT,tsg,4255
+MIB1,cancer related,57534
+MIR142,cancer related,406934
+MITF,MPT:oncogene/tsg||||COSMIC:oncogene,4286
+MKI67,cancer related,4288
+MKL1,cancer related,57591
+MKNK1,cancer related,8569
+MLF1,tsg,4291
+MLH1,tsg,4292
+MLL,cancer related,4297
+MLL2,cancer related,8085
+MLL3,cancer related,58508
+MLL4,cancer related,9757
+MLLT1,cancer related,4298
+MLLT10,oncogene,8028
+MLLT11,cancer related,10962
+MLLT3,cancer related,4300
+MLLT4,cancer related,4301
+MLLT6,cancer related,4302
+MMP2,cancer related,4313
+MN1,oncogene,4330
+MNX1,cancer related,3110
+MOB3B,tsg,79817
+MORC4,cancer related,79710
+MPEG1,cancer related,219972
+MPL,oncogene,4352
+MPO,cancer related,4353
+MRE11,tsg,4361
+MRE11A,tsg,4361
+MRTFA,oncogene/tsg,57591
+MSH2,tsg,4436
+MSH3,tsg,4437
+MSH6,tsg,2956
+MSI1,oncogene,4440
+MSI2,oncogene,124540
+MSN,cancer related,4478
+MST1,tsg,4485
+MST1R,oncogene,4486
+MTAP,tsg,4507
+MTCP1,oncogene,4515
+MTOR,oncogene,2475
+MUC1,cancer related,4582
+MUC17,cancer related,140453
+MUC6,cancer related,4588
+MUTYH,tsg,4595
+MXRA5,cancer related,25878
+MYB,oncogene,4602
+MYC,oncogene,4609
+MYCL,oncogene,4610
+MYCL1,cancer related,4610
+MYCN,oncogene,4613
+MYD88,oncogene,4615
+MYH11,cancer related,4629
+MYH9,tsg,4627
+MYO18A,cancer related,399687
+MYO5A,cancer related,4644
+MYOCD,cancer related,93649
+MYOD1,oncogene,4654
+NAB2,tsg,4665
+NACA,cancer related,4666
+NADK,oncogene,65220
+NAV3,cancer related,89795
+NBEAP1,cancer related,606
+NBN,tsg,4683
+NBPF1,cancer related,55672
+NBPF10,cancer related,100132406
+NCOA1,cancer related,8648
+NCOA2,oncogene,10499
+NCOA3,oncogene,8202
+NCOA4,tsg,8031
+NCOR1,tsg,9611
+NCOR2,tsg,9612
+NCSTN,oncogene,23385
+NDRG1,tsg,10397
+NEB,cancer related,4703
+NEDD4L,cancer related,23327
+NEGR1,cancer related,257194
+NF1,tsg,4763
+NF2,tsg,4771
+NFATC2,oncogene,4773
+NFE2,oncogene,4778
+NFE2L2,MPT:oncogene||||COSMIC:oncogene/tsg,4780
+NFE2L3,cancer related,9603
+NFIB,cancer related,4781
+NFKB2,oncogene/tsg,4791
+NFKBIA,tsg,4792
+NFKBIE,tsg,4794
+NIN,cancer related,51199
+NIPBL,cancer related,25836
+NKX2-1,MPT:oncogene||||COSMIC:oncogene/tsg,7080
+NKX3-1,tsg,4824
+NLRP3,cancer related,114548
+NOD1,cancer related,10392
+NONO,cancer related,4841
+NOTCH1,oncogene/tsg,4851
+NOTCH2,oncogene/tsg,4853
+NOTCH3,oncogene/tsg,4854
+NOTCH4,oncogene/tsg,4855
+NPM1,MPT:tsg||||COSMIC:oncogene,4869
+NR1H2,cancer related,7376
+NR4A2,cancer related,4929
+NR4A3,oncogene,8013
+NRAS,oncogene,4893
+NRG1,MPT:oncogene||||COSMIC:tsg,3084
+NSD1,oncogene/tsg,64324
+NSD2,oncogene,7468
+NSD3,oncogene,54904
+NT5C2,oncogene,22978
+NTHL1,tsg,4913
+NTN4,cancer related,59277
+NTRK1,MPT:oncogene||||COSMIC:oncogene/tsg,4914
+NTRK2,oncogene,4915
+NTRK3,oncogene,4916
+NUF2,oncogene,83540
+NUMA1,cancer related,4926
+NUP133,cancer related,55746
+NUP210L,cancer related,91181
+NUP214,cancer related,8021
+NUP93,cancer related,9688
+NUP98,oncogene,4928
+NUTM1,oncogene,256646
+NUTM2A,cancer related,728118
+NUTM2B,cancer related,729262
+ODAM,cancer related,54959
+OLIG2,oncogene,10215
+OMA1,cancer related,115209
+OMD,cancer related,4958
+OR4A16,cancer related,81327
+OR52N1,cancer related,79473
+OTUD7A,cancer related,161725
+P2RY8,MPT:tsg||||COSMIC:oncogene,286530
+PABPC1,oncogene/tsg,26986
+PAFAH1B2,cancer related,5049
+PAG1,cancer related,55824
+PAK1,oncogene,5058
+PAK3,cancer related,5063
+PAK5,oncogene,57144
+PALB2,tsg,79728
+PAPD5,cancer related,64282
+PARK2,tsg,5071
+PARP1,tsg,142
+PARP2,cancer related,10038
+PARP3,cancer related,10039
+PASK,cancer related,23178
+PATZ1,tsg,23598
+PAX3,oncogene,5077
+PAX5,MPT:tsg||||COSMIC:oncogene/tsg,5079
+PAX7,cancer related,5081
+PAX8,oncogene,7849
+PBRM1,tsg,55193
+PBX1,oncogene,5087
+PC,cancer related,5091
+PCBP1,cancer related,5093
+PCLO,cancer related,27445
+PCM1,cancer related,5108
+PCSK7,cancer related,9159
+PDAP1,cancer related,11333
+PDCD1,oncogene,5133
+PDCD11,cancer related,22984
+PDCD1LG2,oncogene,80380
+PDCD2L,cancer related,84306
+PDE4DIP,cancer related,9659
+PDGFB,oncogene,5155
+PDGFRA,oncogene,5156
+PDGFRB,oncogene,5159
+PDK1,cancer related,5163
+PDPK1,cancer related,5170
+PDS5B,tsg,23047
+PDSS2,cancer related,57107
+PER1,tsg,5187
+PGBD5,oncogene,79605
+PGR,oncogene,5241
+PHF1,cancer related,5252
+PHF6,tsg,84295
+PHLDA1,cancer related,22822
+PHOX2B,tsg,8929
+PICALM,cancer related,8301
+PIGA,tsg,5277
+PIK3C2B,cancer related,5287
+PIK3C2G,cancer related,5288
+PIK3C3,cancer related,5289
+PIK3CA,oncogene,5290
+PIK3CB,oncogene,5291
+PIK3CD,oncogene,5293
+PIK3CG,oncogene,5294
+PIK3R1,tsg,5295
+PIK3R2,tsg,5296
+PIK3R3,tsg,8503
+PIM1,oncogene,5292
+PIP5K1A,cancer related,8394
+PLAG1,oncogene,5324
+PLCB4,cancer related,5332
+PLCG1,oncogene,5335
+PLCG2,oncogene,5336
+PLEC,cancer related,5339
+PLK2,cancer related,10769
+PLXNB2,cancer related,23654
+PMAIP1,tsg,5366
+PML,tsg,5371
+PMS1,tsg,5378
+PMS2,tsg,5395
+PNRC1,cancer related,10957
+POLD1,tsg,5424
+POLE,tsg,5426
+POLQ,oncogene/tsg,10721
+POLRMT,cancer related,5442
+POT1,tsg,25913
+POTEF,cancer related,728378
+POU2AF1,oncogene,5450
+POU2F2,cancer related,5452
+POU5F1,oncogene,5460
+PPARG,MPT:oncogene||||COSMIC:tsg,5468
+PPFIBP1,cancer related,8496
+PPM1D,oncogene,8493
+PPP1CB,cancer related,5500
+PPP2R1A,tsg,5518
+PPP2R2A,cancer related,5520
+PPP4R2,cancer related,151987
+PPP6C,tsg,5537
+PRCC,cancer related,5546
+PRDM1,tsg,639
+PRDM14,cancer related,63978
+PRDM16,oncogene,63976
+PREX2,oncogene,80243
+PRF1,tsg,5551
+PRKACA,oncogene,5566
+PRKAR1A,oncogene/tsg,5573
+PRKCD,cancer related,5580
+PRKCI,oncogene,5584
+PRKD1,cancer related,5587
+PRKDC,cancer related,5591
+PRKN,tsg,5071
+PRPF8,cancer related,10594
+PRRX1,cancer related,5396
+PRSS1,cancer related,5644
+PRSS8,cancer related,5652
+PRX,cancer related,57716
+PSEN1,cancer related,5663
+PSIP1,oncogene,11168
+PTCH1,tsg,5727
+PTEN,tsg,5728
+PTK6,oncogene/tsg,5753
+PTK7,cancer related,5754
+PTMA,cancer related,5757
+PTP4A1,cancer related,7803
+PTPDC1,cancer related,138639
+PTPN1,oncogene/tsg,5770
+PTPN11,oncogene,5781
+PTPN13,tsg,5783
+PTPN2,tsg,5771
+PTPN6,tsg,5777
+PTPRB,tsg,5787
+PTPRC,tsg,5788
+PTPRD,tsg,5789
+PTPRK,tsg,5796
+PTPRO,cancer related,5800
+PTPRS,tsg,5802
+PTPRT,tsg,11122
+QKI,oncogene/tsg,9444
+RAB35,oncogene,11021
+RAB40A,cancer related,142684
+RABEP1,cancer related,9135
+RAC1,oncogene,5879
+RAC2,oncogene,5880
+RAD21,MPT:tsg||||COSMIC:oncogene/tsg,5885
+RAD50,tsg,10111
+RAD51,tsg,5888
+RAD51B,tsg,5890
+RAD51C,tsg,5889
+RAD51D,tsg,5892
+RAD52,cancer related,5893
+RAD54L,cancer related,8438
+RAF1,oncogene,5894
+RALGDS,cancer related,5900
+RANBP2,tsg,5903
+RANBP3,cancer related,8498
+RAP1GDS1,oncogene,5910
+RARA,oncogene,5914
+RASA1,tsg,5921
+RASGEF1A,cancer related,221002
+RB1,tsg,5925
+RBM10,tsg,8241
+RBM15,oncogene/tsg,64783
+RBMX,cancer related,27316
+RECQL,tsg,5965
+RECQL4,MPT:tsg||||COSMIC:oncogene/tsg,9401
+REL,oncogene,5966
+RELN,cancer related,5649
+REST,tsg,5978
+RET,oncogene,5979
+RFC1,cancer related,5981
+RFWD2,oncogene,64326
+RHEB,oncogene,6009
+RHOA,MPT:oncogene||||COSMIC:oncogene/tsg,387
+RHOB,cancer related,388
+RHOH,tsg,399
+RICTOR,oncogene,253260
+RIT1,oncogene,6016
+RMI2,tsg,116028
+RNF111,cancer related,54778
+RNF213,cancer related,57674
+RNF217-AS1,cancer related,7955
+RNF43,tsg,54894
+ROBO1,tsg,6091
+ROS1,oncogene,6098
+RPGR,cancer related,6103
+RPL10,tsg,6134
+RPL22,tsg,6146
+RPL5,tsg,6125
+RPN1,cancer related,6184
+RPS15,cancer related,6209
+RPS2,cancer related,6187
+RPS6KA3,cancer related,6197
+RPS6KA4,oncogene,8986
+RPS6KB2,oncogene,6199
+RPSAP58,cancer related,388524
+RPTOR,oncogene,57521
+RQCD1,cancer related,9125
+RRAGC,oncogene,64121
+RRAS,oncogene,6237
+RRAS2,oncogene,22800
+RSBN1L,cancer related,222194
+RSPO2,tsg,340419
+RSPO3,oncogene,84870
+RTEL1,tsg,51750
+RUNX1,MPT:tsg||||COSMIC:oncogene/tsg,861
+RUNX1T1,MPT:oncogene||||COSMIC:oncogene/tsg,862
+RUNX2,cancer related,860
+RXRA,cancer related,6256
+RYBP,tsg,23429
+S1PR2,cancer related,9294
+SACS,cancer related,26278
+SALL4,oncogene,57167
+SAMHD1,tsg,25939
+SBDS,tsg,51119
+SCAF4,cancer related,57466
+SCG5,oncogene,6447
+SDC4,cancer related,6385
+SDHA,tsg,6389
+SDHAF2,tsg,54949
+SDHB,tsg,6390
+SDHC,tsg,6391
+SDHD,tsg,6392
+SEC31A,cancer related,22872
+SELP,cancer related,6403
+SEPTIN12,cancer related,124404
+SEPTIN5,cancer related,5413
+SEPTIN6,cancer related,23157
+SEPTIN9,cancer related,10801
+SEPT12,cancer related,124404
+SEPT5,cancer related,5413
+SEPT6,cancer related,23157
+SEPT9,cancer related,10801
+SERP2,cancer related,387923
+SERPINB13,cancer related,5275
+SERPINB3,oncogene/tsg,6317
+SERPINB4,cancer related,6318
+SESN1,tsg,27244
+SESN2,tsg,83667
+SESN3,tsg,143686
+SET,oncogene,6418
+SETBP1,oncogene,26040
+SETD1A,oncogene,9739
+SETD1B,tsg,23067
+SETD2,tsg,29072
+SETD3,cancer related,84193
+SETD4,cancer related,54093
+SETD5,cancer related,55209
+SETD6,cancer related,79918
+SETD7,cancer related,80854
+SETDB1,MPT:oncogene/tsg||||COSMIC:oncogene,9869
+SETDB2,tsg,83852
+SF1,cancer related,7536
+SF3B1,oncogene,23451
+SFPQ,tsg,6421
+SFRP1,tsg,6422
+SFRP2,oncogene/tsg,6423
+SFRP4,tsg,6424
+SGK1,oncogene,6446
+SH2B3,tsg,10019
+SH2D1A,tsg,4068
+SH3GL1,oncogene,6455
+SHOC2,oncogene,8036
+SHQ1,tsg,55164
+SIN3A,cancer related,25942
+SIRT4,cancer related,23409
+SIX1,oncogene,6495
+SKP2,cancer related,6502
+SLC1A2,cancer related,6506
+SLC1A3,cancer related,6507
+SLC26A3,cancer related,1811
+SLC34A2,tsg,10568
+SLC44A3,cancer related,126969
+SLC45A3,cancer related,85414
+SLC4A5,cancer related,57835
+SLFN11,tsg,91607
+SLX4,tsg,84464
+SMAD2,tsg,4087
+SMAD3,tsg,4088
+SMAD4,tsg,4089
+SMARCA1,cancer related,6594
+SMARCA2,tsg,6595
+SMARCA4,tsg,6597
+SMARCB1,tsg,6598
+SMARCD1,tsg,6602
+SMARCE1,MPT:oncogene/tsg||||COSMIC:tsg,6605
+SMC1A,tsg,8243
+SMC3,tsg,9126
+SMG1,tsg,23049
+SMO,oncogene,6608
+SMYD3,oncogene,64754
+SNCAIP,cancer related,9627
+SND1,oncogene,27044
+SNX25,cancer related,83891
+SNX29,cancer related,92017
+SOCS1,tsg,8651
+SOCS2,cancer related,8835
+SOCS3,tsg,9021
+SOS1,oncogene,6654
+SOX10,cancer related,6663
+SOX17,tsg,64321
+SOX2,oncogene,6657
+SOX9,oncogene/tsg,6662
+SP140,tsg,11262
+SPATA6,cancer related,54558
+SPEN,tsg,23013
+SPOP,tsg,8405
+SPRED1,tsg,161742
+SPRTN,tsg,83932
+SPTA1,cancer related,6708
+SPTAN1,cancer related,6709
+SRC,oncogene,6714
+SRSF2,oncogene,6427
+SRSF3,oncogene,6428
+SS18,oncogene,6760
+SS18L1,cancer related,26039
+SSX1,oncogene,6756
+SSX2,oncogene,6757
+SSX4,oncogene,6759
+STAG1,tsg,10274
+STAG2,tsg,10735
+STAT1,cancer related,6772
+STAT2,cancer related,6773
+STAT3,oncogene,6774
+STAT4,cancer related,6775
+STAT5A,oncogene,6776
+STAT5B,MPT:oncogene||||COSMIC:oncogene/tsg,6777
+STAT6,oncogene,6778
+STIL,oncogene,6491
+STK11,tsg,6794
+STK19,oncogene,8859
+STK40,cancer related,83931
+STRN,cancer related,6801
+STX2,cancer related,2054
+SUFU,tsg,51684
+SUZ12,MPT:tsg||||COSMIC:oncogene/tsg,23512
+SYK,oncogene,6850
+SYNE1,cancer related,23345
+TAF1,cancer related,6872
+TAF15,oncogene,8148
+TAL1,oncogene,6886
+TAL2,oncogene,6887
+TAP1,cancer related,6890
+TAP2,cancer related,6891
+TBC1D12,cancer related,23232
+TBL1XR1,MPT:tsg||||COSMIC:oncogene/tsg,79718
+TBX3,MPT:tsg||||COSMIC:oncogene/tsg,6926
+TCEA1,cancer related,6917
+TCEB1,cancer related,6921
+TCF12,cancer related,6938
+TCF3,MPT:tsg||||COSMIC:oncogene/tsg,6929
+TCF7,cancer related,6932
+TCF7L2,MPT:tsg||||COSMIC:oncogene,6934
+TCL1A,oncogene,8115
+TCL1B,oncogene,9623
+TCP11L2,cancer related,255394
+TDRD10,cancer related,126668
+TEC,oncogene,7006
+TEK,cancer related,7010
+TENT4B,cancer related,64282
+TENT5C,tsg,54855
+TENT5D,cancer related,169966
+TERC,cancer related,7012
+TERT,MPT:oncogene||||COSMIC:oncogene/tsg,7015
+TET1,MPT:tsg||||COSMIC:oncogene/tsg,80312
+TET2,tsg,54790
+TET3,tsg,200424
+TFDP1,cancer related,7027
+TFE3,oncogene,7030
+TFEB,oncogene,7942
+TFG,cancer related,10342
+TFPT,cancer related,29844
+TFRC,cancer related,7037
+TGFBR1,tsg,7046
+TGFBR2,tsg,7048
+TGIF1,cancer related,7050
+THRAP3,cancer related,9967
+TIMM17A,cancer related,10440
+TIPARP,cancer related,25976
+TJP2,cancer related,9414
+TLE1,cancer related,7088
+TLE2,cancer related,7089
+TLE3,cancer related,7090
+TLE4,cancer related,7091
+TLL2,cancer related,7093
+TLR4,cancer related,7099
+TLX1,oncogene,3195
+TLX3,oncogene,30012
+TMEM127,tsg,55654
+TMEM30A,cancer related,55754
+TMPRSS2,cancer related,7113
+TMSB4X,cancer related,7114
+TMSB4XP8,cancer related,7117
+TNF,cancer related,7124
+TNFAIP3,tsg,7128
+TNFRSF10C,cancer related,8794
+TNFRSF11A,cancer related,8792
+TNFRSF14,tsg,8764
+TNFRSF17,oncogene,608
+TOM1,cancer related,10043
+TOP1,tsg,7150
+TOP3A,cancer related,7156
+TP53,MPT:tsg||||COSMIC:oncogene/tsg,7157
+TP53BP1,tsg,7158
+TP63,oncogene/tsg,8626
+TPM3,tsg,7170
+TPM4,cancer related,7171
+TPR,cancer related,7175
+TPX2,cancer related,22974
+TRA,oncogene,6955
+TRAF2,cancer related,7186
+TRAF3,tsg,7187
+TRAF5,tsg,7188
+TRAF7,tsg,84231
+TRB,oncogene,6957
+TRD,oncogene,6964
+TRG,oncogene,6965
+TRIM23,cancer related,373
+TRIM24,oncogene/tsg,8805
+TRIM27,oncogene,5987
+TRIM33,tsg,51592
+TRIM7,cancer related,81786
+TRIO,cancer related,7204
+TRIP11,cancer related,9321
+TRIP13,oncogene/tsg,9319
+TRRAP,oncogene,8295
+TSC1,tsg,7248
+TSC2,tsg,7249
+TSHR,oncogene,7253
+TSHZ2,cancer related,128553
+TSHZ3,cancer related,57616
+TTL,cancer related,150465
+TTLL9,cancer related,164395
+TUBA1A,cancer related,7846
+TUSC3,cancer related,7991
+TXNDC8,cancer related,255220
+TXNIP,cancer related,10628
+TYK2,oncogene,7297
+TYRO3,cancer related,7301
+U2AF1,oncogene,7307
+U2AF2,cancer related,11338
+UBR5,oncogene,51366
+UHRF1BP1L,cancer related,23074
+UNCX,cancer related,340260
+UPF1,cancer related,5976
+USP6,oncogene,9098
+USP8,oncogene,9101
+USP9X,cancer related,8239
+VAV1,oncogene,7409
+VAV2,oncogene,7410
+VEGFA,oncogene,7422
+VEZF1,cancer related,7716
+VHL,tsg,7428
+VTCN1,cancer related,79679
+WAS,oncogene,7454
+WASF3,cancer related,10810
+WDCP,cancer related,80304
+WDR90,cancer related,197335
+WHSC1,oncogene,7468
+WHSC1L1,cancer related,54904
+WIF1,tsg,11197
+WRN,tsg,7486
+WT1,oncogene/tsg,7490
+WWTR1,oncogene,25937
+XBP1,oncogene,7494
+XIAP,oncogene,331
+XIRP2,cancer related,129446
+XPA,tsg,7507
+XPC,tsg,7508
+XPO1,oncogene,7514
+XRCC2,tsg,7516
+YAP1,oncogene,10413
+YES1,oncogene,7525
+YPEL5,cancer related,51646
+YWHAE,tsg,7531
+YY1,oncogene,7528
+YY1AP1,cancer related,55249
+ZBTB16,tsg,7704
+ZBTB20,oncogene/tsg,26137
+ZBTB7A,cancer related,51341
+ZBTB7B,cancer related,51043
+ZC3H12A,cancer related,80149
+ZCCHC12,cancer related,170261
+ZFHX3,tsg,463
+ZFP36L1,tsg,677
+ZFP36L2,cancer related,678
+ZMYM2,cancer related,7750
+ZMYM3,tsg,9203
+ZNF132,cancer related,7691
+ZNF133,cancer related,7692
+ZNF180,cancer related,7733
+ZNF217,cancer related,7764
+ZNF24,cancer related,7572
+ZNF278,cancer related,23598
+ZNF300,cancer related,91975
+ZNF331,tsg,55422
+ZNF384,cancer related,171017
+ZNF471,cancer related,57573
+ZNF483,cancer related,158399
+ZNF521,oncogene,25925
+ZNF620,cancer related,253639
+ZNF703,cancer related,80139
+ZNF750,cancer related,79755
+ZNF814,cancer related,730051
+ZNF844,cancer related,284391
+ZNF91,cancer related,7644
+ZNRF3,tsg,84133
+ZRANB3,cancer related,84083
+ZRSR2,tsg,8233
+NUTM2D,cancer related,728130
+A1CF,oncogene,29974
+ALDH2,cancer related,217
+ANK1,cancer related,286
+ARHGAP5,oncogene,394
+ARHGEF10,tsg,9639
+ARHGEF10L,tsg,55160
+BAZ1A,tsg,11177
+BCL2L12,oncogene,83596
+BIRC6,oncogene,57448
+BMP5,cancer related,653
+C15orf65,cancer related,145788
+CASP3,tsg,836
+CASP9,tsg,842
+CCNC,tsg,892
+CCR7,oncogene,1236
+CD209,cancer related,30835
+CDH10,tsg,1008
+CDH17,oncogene,1015
+CEP89,cancer related,84902
+CHST11,oncogene,50515
+CNTNAP2,tsg,26047
+COL3A1,cancer related,1281
+COX6C,cancer related,1345
+CPEB3,tsg,22849
+CRNKL1,cancer related,51340
+CSMD3,tsg,114788
+CTNNA2,oncogene,1496
+CTNND2,oncogene,1501
+CYP2C8,cancer related,1558
+DCAF12L2,cancer related,340578
+DCC,cancer related,1630
+DGCR8,oncogene,54487
+DUX4L1,cancer related,22947
+FAM131B,cancer related,9715
+FAM135B,cancer related,51059
+FAM47C,cancer related,442444
+FAT3,cancer related,120114
+FBLN2,tsg,2199
+FEN1,tsg,2237
+FOXR1,oncogene,283150
+GPC5,tsg,2262
+HMGN2P46,cancer related,283651
+IGF2BP2,tsg,10644
+ISX,cancer related,91464
+ITGAV,cancer related,3685
+KAT7,oncogene,11143
+KIAA1549,cancer related,57670
+LARP4B,tsg,23185
+LEPROTL1,tsg,23484
+LHFPL6,cancer related,10186
+LSM14A,cancer related,26065
+MACC1,oncogene,346389
+MB21D2,cancer related,151963
+MUC16,oncogene,94025
+MUC4,oncogene,4585
+N4BP2,tsg,55728
+NBEA,cancer related,26960
+NCKIPSD,cancer related,51517
+POLG,tsg,5428
+PRDM2,tsg,7799
+PRKCB,cancer related,5579
+PRPF40B,cancer related,25766
+PWWP2A,cancer related,114825
+RAD17,tsg,5884
+RFWD3,tsg,55159
+RGPD3,cancer related,653489
+RGS7,cancer related,6000
+ROBO2,tsg,6092
+S100A7,cancer related,6278
+SHTN1,cancer related,57698
+SIRPA,tsg,140885
+SIX2,oncogene,10736
+SOX21,tsg,11166
+SPECC1,cancer related,92521
+SRGAP3,cancer related,9901
+TNC,oncogene,3371
+USP44,tsg,84101
+VTI1A,cancer related,143187
+WNK2,tsg,65268
+ZCCHC8,cancer related,55596
+ZEB1,oncogene,6935
+ZNF429,cancer related,353088
+ZNF479,cancer related,90827

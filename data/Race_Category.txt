@@ -1,0 +1,3086 @@
+Study ID	Patient ID	Race Category
+msk_met_2021	P-0000119	White
+msk_met_2021	P-0000241	White
+msk_met_2021	P-0000520	White
+msk_met_2021	P-0000526	White
+msk_met_2021	P-0000552	Black or african american
+msk_met_2021	P-0000616	White
+msk_met_2021	P-0000625	Black or african american
+msk_met_2021	P-0000635	White
+msk_met_2021	P-0000674	White
+msk_met_2021	P-0000678	White
+msk_met_2021	P-0000682	White
+msk_met_2021	P-0000687	White
+msk_met_2021	P-0000695	White
+msk_met_2021	P-0000699	Asian-far east/indian subcont
+msk_met_2021	P-0000714	Pt refused to answer
+msk_met_2021	P-0000721	White
+msk_met_2021	P-0000736	White
+msk_met_2021	P-0000737	White
+msk_met_2021	P-0000738	White
+msk_met_2021	P-0000739	White
+msk_met_2021	P-0000742	White
+msk_met_2021	P-0000744	White
+msk_met_2021	P-0000745	White
+msk_met_2021	P-0000754	Black or african american
+msk_met_2021	P-0000757	Asian-far east/indian subcont
+msk_met_2021	P-0000762	White
+msk_met_2021	P-0000763	Black or african american
+msk_met_2021	P-0000769	White
+msk_met_2021	P-0000772	Pt refused to answer
+msk_met_2021	P-0000777	White
+msk_met_2021	P-0000798	White
+msk_met_2021	P-0000802	White
+msk_met_2021	P-0000827	Black or african american
+msk_met_2021	P-0000843	White
+msk_met_2021	P-0000860	White
+msk_met_2021	P-0000862	White
+msk_met_2021	P-0000868	White
+msk_met_2021	P-0000869	White
+msk_met_2021	P-0000874	White
+msk_met_2021	P-0000885	White
+msk_met_2021	P-0000911	White
+msk_met_2021	P-0000915	White
+msk_met_2021	P-0000933	White
+msk_met_2021	P-0000940	White
+msk_met_2021	P-0000979	Black or african american
+msk_met_2021	P-0000982	White
+msk_met_2021	P-0000994	Asian-far east/indian subcont
+msk_met_2021	P-0000997	White
+msk_met_2021	P-0001017	White
+msk_met_2021	P-0001020	White
+msk_met_2021	P-0001054	White
+msk_met_2021	P-0001079	White
+msk_met_2021	P-0001104	White
+msk_met_2021	P-0001150	White
+msk_met_2021	P-0001151	White
+msk_met_2021	P-0001170	White
+msk_met_2021	P-0001190	White
+msk_met_2021	P-0001192	White
+msk_met_2021	P-0001200	White
+msk_met_2021	P-0001227	White
+msk_met_2021	P-0001287	White
+msk_met_2021	P-0001289	White
+msk_met_2021	P-0001295	White
+msk_met_2021	P-0001302	White
+msk_met_2021	P-0001316	Asian-far east/indian subcont
+msk_met_2021	P-0001317	White
+msk_met_2021	P-0001346	White
+msk_met_2021	P-0001347	White
+msk_met_2021	P-0001371	White
+msk_met_2021	P-0001391	White
+msk_met_2021	P-0001394	White
+msk_met_2021	P-0001424	White
+msk_met_2021	P-0001427	White
+msk_met_2021	P-0001469	Pt refused to answer
+msk_met_2021	P-0001470	White
+msk_met_2021	P-0001472	Asian-far east/indian subcont
+msk_met_2021	P-0001490	White
+msk_met_2021	P-0001499	White
+msk_met_2021	P-0001500	White
+msk_met_2021	P-0001525	Black or african american
+msk_met_2021	P-0001531	White
+msk_met_2021	P-0001534	White
+msk_met_2021	P-0001577	White
+msk_met_2021	P-0001640	White
+msk_met_2021	P-0001647	White
+msk_met_2021	P-0001658	White
+msk_met_2021	P-0001662	Black or african american
+msk_met_2021	P-0001670	White
+msk_met_2021	P-0001676	White
+msk_met_2021	P-0001685	Pt refused to answer
+msk_met_2021	P-0001690	White
+msk_met_2021	P-0001693	White
+msk_met_2021	P-0001702	White
+msk_met_2021	P-0001729	White
+msk_met_2021	P-0001732	White
+msk_met_2021	P-0001734	White
+msk_met_2021	P-0001746	Asian-far east/indian subcont
+msk_met_2021	P-0001754	Black or african american
+msk_met_2021	P-0001761	White
+msk_met_2021	P-0001767	White
+msk_met_2021	P-0001771	Pt refused to answer
+msk_met_2021	P-0001778	White
+msk_met_2021	P-0001807	White
+msk_met_2021	P-0001864	White
+msk_met_2021	P-0001867	White
+msk_met_2021	P-0001909	White
+msk_met_2021	P-0001923	White
+msk_met_2021	P-0001949	Asian-far east/indian subcont
+msk_met_2021	P-0001961	White
+msk_met_2021	P-0001964	Black or african american
+msk_met_2021	P-0002025	White
+msk_met_2021	P-0002032	Asian-far east/indian subcont
+msk_met_2021	P-0002035	Pt refused to answer
+msk_met_2021	P-0002048	White
+msk_met_2021	P-0002068	Black or african american
+msk_met_2021	P-0002070	White
+msk_met_2021	P-0002102	Black or african american
+msk_met_2021	P-0002154	White
+msk_met_2021	P-0002155	White
+msk_met_2021	P-0002164	White
+msk_met_2021	P-0002235	White
+msk_met_2021	P-0002251	White
+msk_met_2021	P-0002268	White
+msk_met_2021	P-0002291	White
+msk_met_2021	P-0002323	White
+msk_met_2021	P-0002327	White
+msk_met_2021	P-0002343	White
+msk_met_2021	P-0002395	White
+msk_met_2021	P-0002407	Pt refused to answer
+msk_met_2021	P-0002438	White
+msk_met_2021	P-0002442	White
+msk_met_2021	P-0002463	White
+msk_met_2021	P-0002475	White
+msk_met_2021	P-0002487	White
+msk_met_2021	P-0002488	White
+msk_met_2021	P-0002512	White
+msk_met_2021	P-0002529	White
+msk_met_2021	P-0002540	White
+msk_met_2021	P-0002542	Asian-far east/indian subcont
+msk_met_2021	P-0002547	White
+msk_met_2021	P-0002565	White
+msk_met_2021	P-0002665	Black or african american
+msk_met_2021	P-0002670	White
+msk_met_2021	P-0002671	White
+msk_met_2021	P-0002702	Asian-far east/indian subcont
+msk_met_2021	P-0002721	White
+msk_met_2021	P-0002724	White
+msk_met_2021	P-0002728	White
+msk_met_2021	P-0002730	White
+msk_met_2021	P-0002752	White
+msk_met_2021	P-0002769	White
+msk_met_2021	P-0002770	White
+msk_met_2021	P-0002778	White
+msk_met_2021	P-0002788	White
+msk_met_2021	P-0002791	White
+msk_met_2021	P-0002792	White
+msk_met_2021	P-0002795	White
+msk_met_2021	P-0002804	White
+msk_met_2021	P-0002814	White
+msk_met_2021	P-0002835	White
+msk_met_2021	P-0002852	White
+msk_met_2021	P-0002855	White
+msk_met_2021	P-0002878	Black or african american
+msk_met_2021	P-0002884	White
+msk_met_2021	P-0002951	White
+msk_met_2021	P-0002960	White
+msk_met_2021	P-0002994	White
+msk_met_2021	P-0003011	White
+msk_met_2021	P-0003035	White
+msk_met_2021	P-0003046	White
+msk_met_2021	P-0003077	Pt refused to answer
+msk_met_2021	P-0003110	Asian-far east/indian subcont
+msk_met_2021	P-0003130	White
+msk_met_2021	P-0003154	White
+msk_met_2021	P-0003183	White
+msk_met_2021	P-0003184	Black or african american
+msk_met_2021	P-0003209	Asian-far east/indian subcont
+msk_met_2021	P-0003210	White
+msk_met_2021	P-0003211	White
+msk_met_2021	P-0003258	White
+msk_met_2021	P-0003285	White
+msk_met_2021	P-0003298	White
+msk_met_2021	P-0003301	Pt refused to answer
+msk_met_2021	P-0003308	White
+msk_met_2021	P-0003348	White
+msk_met_2021	P-0003365	White
+msk_met_2021	P-0003397	White
+msk_met_2021	P-0003437	White
+msk_met_2021	P-0003474	White
+msk_met_2021	P-0003475	White
+msk_met_2021	P-0003483	Pt refused to answer
+msk_met_2021	P-0003501	White
+msk_met_2021	P-0003510	Pt refused to answer
+msk_met_2021	P-0003513	White
+msk_met_2021	P-0003514	Pt refused to answer
+msk_met_2021	P-0003518	Asian-far east/indian subcont
+msk_met_2021	P-0003575	White
+msk_met_2021	P-0003582	White
+msk_met_2021	P-0003611	White
+msk_met_2021	P-0003662	White
+msk_met_2021	P-0003710	White
+msk_met_2021	P-0003717	Asian-far east/indian subcont
+msk_met_2021	P-0003720	White
+msk_met_2021	P-0003725	White
+msk_met_2021	P-0003753	White
+msk_met_2021	P-0003755	Pt refused to answer
+msk_met_2021	P-0003756	White
+msk_met_2021	P-0003774	Other
+msk_met_2021	P-0003780	White
+msk_met_2021	P-0003789	White
+msk_met_2021	P-0003791	White
+msk_met_2021	P-0003793	White
+msk_met_2021	P-0003796	White
+msk_met_2021	P-0003807	White
+msk_met_2021	P-0003839	Black or african american
+msk_met_2021	P-0003886	White
+msk_met_2021	P-0003890	Pt refused to answer
+msk_met_2021	P-0003901	White
+msk_met_2021	P-0003990	White
+msk_met_2021	P-0003999	White
+msk_met_2021	P-0004007	White
+msk_met_2021	P-0004011	Pt refused to answer
+msk_met_2021	P-0004018	White
+msk_met_2021	P-0004051	White
+msk_met_2021	P-0004072	White
+msk_met_2021	P-0004081	White
+msk_met_2021	P-0004083	Black or african american
+msk_met_2021	P-0004140	White
+msk_met_2021	P-0004159	White
+msk_met_2021	P-0004172	White
+msk_met_2021	P-0004220	Black or african american
+msk_met_2021	P-0004251	Black or african american
+msk_met_2021	P-0004322	Other
+msk_met_2021	P-0004323	White
+msk_met_2021	P-0004350	White
+msk_met_2021	P-0004362	White
+msk_met_2021	P-0004369	White
+msk_met_2021	P-0004401	White
+msk_met_2021	P-0004402	Black or african american
+msk_met_2021	P-0004403	White
+msk_met_2021	P-0004431	Asian-far east/indian subcont
+msk_met_2021	P-0004441	White
+msk_met_2021	P-0004454	Asian-far east/indian subcont
+msk_met_2021	P-0004494	White
+msk_met_2021	P-0004502	White
+msk_met_2021	P-0004511	White
+msk_met_2021	P-0004549	White
+msk_met_2021	P-0004566	White
+msk_met_2021	P-0004602	White
+msk_met_2021	P-0004608	White
+msk_met_2021	P-0004624	White
+msk_met_2021	P-0004626	White
+msk_met_2021	P-0004629	White
+msk_met_2021	P-0004652	White
+msk_met_2021	P-0004666	White
+msk_met_2021	P-0004673	White
+msk_met_2021	P-0004679	White
+msk_met_2021	P-0004690	White
+msk_met_2021	P-0004692	White
+msk_met_2021	P-0004697	White
+msk_met_2021	P-0004698	White
+msk_met_2021	P-0004716	White
+msk_met_2021	P-0004736	White
+msk_met_2021	P-0004738	White
+msk_met_2021	P-0004775	White
+msk_met_2021	P-0004781	White
+msk_met_2021	P-0004783	White
+msk_met_2021	P-0004786	Asian-far east/indian subcont
+msk_met_2021	P-0004792	White
+msk_met_2021	P-0004795	Black or african american
+msk_met_2021	P-0004798	White
+msk_met_2021	P-0004803	White
+msk_met_2021	P-0004823	White
+msk_met_2021	P-0004834	White
+msk_met_2021	P-0004844	Pt refused to answer
+msk_met_2021	P-0004845	Pt refused to answer
+msk_met_2021	P-0004862	White
+msk_met_2021	P-0004865	White
+msk_met_2021	P-0004872	White
+msk_met_2021	P-0004886	White
+msk_met_2021	P-0004897	White
+msk_met_2021	P-0004904	White
+msk_met_2021	P-0004928	Native hawaiian or pacific isl
+msk_met_2021	P-0004957	White
+msk_met_2021	P-0004960	White
+msk_met_2021	P-0004967	White
+msk_met_2021	P-0004968	White
+msk_met_2021	P-0004977	White
+msk_met_2021	P-0005003	Pt refused to answer
+msk_met_2021	P-0005011	White
+msk_met_2021	P-0005016	White
+msk_met_2021	P-0005025	Pt refused to answer
+msk_met_2021	P-0005029	White
+msk_met_2021	P-0005091	White
+msk_met_2021	P-0005102	Asian-far east/indian subcont
+msk_met_2021	P-0005103	White
+msk_met_2021	P-0005124	White
+msk_met_2021	P-0005132	White
+msk_met_2021	P-0005137	White
+msk_met_2021	P-0005151	White
+msk_met_2021	P-0005163	Pt refused to answer
+msk_met_2021	P-0005172	White
+msk_met_2021	P-0005189	Asian-far east/indian subcont
+msk_met_2021	P-0005197	Black or african american
+msk_met_2021	P-0005200	White
+msk_met_2021	P-0005207	Black or african american
+msk_met_2021	P-0005210	White
+msk_met_2021	P-0005230	White
+msk_met_2021	P-0005237	White
+msk_met_2021	P-0005240	Asian-far east/indian subcont
+msk_met_2021	P-0005247	White
+msk_met_2021	P-0005307	White
+msk_met_2021	P-0005311	White
+msk_met_2021	P-0005326	White
+msk_met_2021	P-0005327	White
+msk_met_2021	P-0005343	White
+msk_met_2021	P-0005381	White
+msk_met_2021	P-0005384	White
+msk_met_2021	P-0005430	White
+msk_met_2021	P-0005439	White
+msk_met_2021	P-0005443	Pt refused to answer
+msk_met_2021	P-0005446	White
+msk_met_2021	P-0005455	White
+msk_met_2021	P-0005487	White
+msk_met_2021	P-0005502	White
+msk_met_2021	P-0005522	White
+msk_met_2021	P-0005528	White
+msk_met_2021	P-0005529	White
+msk_met_2021	P-0005548	White
+msk_met_2021	P-0005560	White
+msk_met_2021	P-0005569	Black or african american
+msk_met_2021	P-0005589	Pt refused to answer
+msk_met_2021	P-0005591	Asian-far east/indian subcont
+msk_met_2021	P-0005622	White
+msk_met_2021	P-0005623	Pt refused to answer
+msk_met_2021	P-0005634	Asian-far east/indian subcont
+msk_met_2021	P-0005670	White
+msk_met_2021	P-0005715	White
+msk_met_2021	P-0005730	White
+msk_met_2021	P-0005739	White
+msk_met_2021	P-0005742	White
+msk_met_2021	P-0005755	White
+msk_met_2021	P-0005776	White
+msk_met_2021	P-0005788	White
+msk_met_2021	P-0005801	Asian-far east/indian subcont
+msk_met_2021	P-0005823	Asian-far east/indian subcont
+msk_met_2021	P-0005824	Pt refused to answer
+msk_met_2021	P-0005833	Black or african american
+msk_met_2021	P-0005853	White
+msk_met_2021	P-0005858	White
+msk_met_2021	P-0005865	Black or african american
+msk_met_2021	P-0005888	White
+msk_met_2021	P-0005908	White
+msk_met_2021	P-0005910	Asian-far east/indian subcont
+msk_met_2021	P-0005938	Asian-far east/indian subcont
+msk_met_2021	P-0005941	White
+msk_met_2021	P-0005949	Black or african american
+msk_met_2021	P-0005961	Black or african american
+msk_met_2021	P-0005987	White
+msk_met_2021	P-0005996	Asian-far east/indian subcont
+msk_met_2021	P-0005998	Pt refused to answer
+msk_met_2021	P-0006000	White
+msk_met_2021	P-0006023	White
+msk_met_2021	P-0006050	Asian-far east/indian subcont
+msk_met_2021	P-0006075	Asian-far east/indian subcont
+msk_met_2021	P-0006093	White
+msk_met_2021	P-0006110	White
+msk_met_2021	P-0006118	White
+msk_met_2021	P-0006136	White
+msk_met_2021	P-0006138	White
+msk_met_2021	P-0006170	White
+msk_met_2021	P-0006181	White
+msk_met_2021	P-0006183	Black or african american
+msk_met_2021	P-0006184	Pt refused to answer
+msk_met_2021	P-0006202	White
+msk_met_2021	P-0006207	White
+msk_met_2021	P-0006213	White
+msk_met_2021	P-0006219	White
+msk_met_2021	P-0006225	White
+msk_met_2021	P-0006230	White
+msk_met_2021	P-0006261	White
+msk_met_2021	P-0006271	White
+msk_met_2021	P-0006272	White
+msk_met_2021	P-0006275	White
+msk_met_2021	P-0006287	Black or african american
+msk_met_2021	P-0006306	White
+msk_met_2021	P-0006316	Asian-far east/indian subcont
+msk_met_2021	P-0006317	White
+msk_met_2021	P-0006329	Asian-far east/indian subcont
+msk_met_2021	P-0006345	White
+msk_met_2021	P-0006359	White
+msk_met_2021	P-0006365	White
+msk_met_2021	P-0006390	White
+msk_met_2021	P-0006394	Asian-far east/indian subcont
+msk_met_2021	P-0006405	Pt refused to answer
+msk_met_2021	P-0006434	White
+msk_met_2021	P-0006460	White
+msk_met_2021	P-0006468	Black or african american
+msk_met_2021	P-0006512	White
+msk_met_2021	P-0006548	Pt refused to answer
+msk_met_2021	P-0006559	White
+msk_met_2021	P-0006564	White
+msk_met_2021	P-0006575	White
+msk_met_2021	P-0006581	White
+msk_met_2021	P-0006587	White
+msk_met_2021	P-0006592	White
+msk_met_2021	P-0006608	White
+msk_met_2021	P-0006612	White
+msk_met_2021	P-0006616	White
+msk_met_2021	P-0006636	Asian-far east/indian subcont
+msk_met_2021	P-0006646	White
+msk_met_2021	P-0006647	White
+msk_met_2021	P-0006649	White
+msk_met_2021	P-0006657	White
+msk_met_2021	P-0006658	White
+msk_met_2021	P-0006659	White
+msk_met_2021	P-0006669	White
+msk_met_2021	P-0006680	White
+msk_met_2021	P-0006681	White
+msk_met_2021	P-0006683	White
+msk_met_2021	P-0006685	White
+msk_met_2021	P-0006686	White
+msk_met_2021	P-0006687	White
+msk_met_2021	P-0006693	White
+msk_met_2021	P-0006701	White
+msk_met_2021	P-0006704	Black or african american
+msk_met_2021	P-0006706	White
+msk_met_2021	P-0006707	White
+msk_met_2021	P-0006708	White
+msk_met_2021	P-0006711	White
+msk_met_2021	P-0006715	White
+msk_met_2021	P-0006717	White
+msk_met_2021	P-0006721	White
+msk_met_2021	P-0006726	Pt refused to answer
+msk_met_2021	P-0006729	White
+msk_met_2021	P-0006730	White
+msk_met_2021	P-0006735	White
+msk_met_2021	P-0006737	White
+msk_met_2021	P-0006740	White
+msk_met_2021	P-0006743	Black or african american
+msk_met_2021	P-0006744	White
+msk_met_2021	P-0006750	Pt refused to answer
+msk_met_2021	P-0006753	Pt refused to answer
+msk_met_2021	P-0006759	White
+msk_met_2021	P-0006761	White
+msk_met_2021	P-0006763	White
+msk_met_2021	P-0006766	White
+msk_met_2021	P-0006770	Asian-far east/indian subcont
+msk_met_2021	P-0006778	White
+msk_met_2021	P-0006794	White
+msk_met_2021	P-0006813	Pt refused to answer
+msk_met_2021	P-0006816	White
+msk_met_2021	P-0006819	White
+msk_met_2021	P-0006821	White
+msk_met_2021	P-0006822	White
+msk_met_2021	P-0006825	White
+msk_met_2021	P-0006835	White
+msk_met_2021	P-0006853	White
+msk_met_2021	P-0006860	White
+msk_met_2021	P-0006861	White
+msk_met_2021	P-0006864	White
+msk_met_2021	P-0006872	White
+msk_met_2021	P-0006887	Pt refused to answer
+msk_met_2021	P-0006888	White
+msk_met_2021	P-0006889	White
+msk_met_2021	P-0006890	White
+msk_met_2021	P-0006906	White
+msk_met_2021	P-0006933	White
+msk_met_2021	P-0006936	White
+msk_met_2021	P-0006960	White
+msk_met_2021	P-0006967	White
+msk_met_2021	P-0006968	Asian-far east/indian subcont
+msk_met_2021	P-0006978	White
+msk_met_2021	P-0006983	White
+msk_met_2021	P-0006999	Black or african american
+msk_met_2021	P-0007012	White
+msk_met_2021	P-0007035	White
+msk_met_2021	P-0007039	White
+msk_met_2021	P-0007055	White
+msk_met_2021	P-0007066	Pt refused to answer
+msk_met_2021	P-0007069	Pt refused to answer
+msk_met_2021	P-0007070	White
+msk_met_2021	P-0007077	White
+msk_met_2021	P-0007079	White
+msk_met_2021	P-0007081	White
+msk_met_2021	P-0007085	White
+msk_met_2021	P-0007090	White
+msk_met_2021	P-0007092	White
+msk_met_2021	P-0007097	White
+msk_met_2021	P-0007112	White
+msk_met_2021	P-0007115	Black or african american
+msk_met_2021	P-0007120	White
+msk_met_2021	P-0007126	White
+msk_met_2021	P-0007128	White
+msk_met_2021	P-0007132	White
+msk_met_2021	P-0007133	White
+msk_met_2021	P-0007135	Pt refused to answer
+msk_met_2021	P-0007140	White
+msk_met_2021	P-0007144	Black or african american
+msk_met_2021	P-0007147	Black or african american
+msk_met_2021	P-0007162	White
+msk_met_2021	P-0007168	White
+msk_met_2021	P-0007169	White
+msk_met_2021	P-0007171	White
+msk_met_2021	P-0007175	White
+msk_met_2021	P-0007177	White
+msk_met_2021	P-0007180	White
+msk_met_2021	P-0007181	White
+msk_met_2021	P-0007185	White
+msk_met_2021	P-0007203	White
+msk_met_2021	P-0007207	White
+msk_met_2021	P-0007214	Black or african american
+msk_met_2021	P-0007218	White
+msk_met_2021	P-0007222	White
+msk_met_2021	P-0007226	White
+msk_met_2021	P-0007272	White
+msk_met_2021	P-0007279	White
+msk_met_2021	P-0007287	White
+msk_met_2021	P-0007294	White
+msk_met_2021	P-0007296	White
+msk_met_2021	P-0007303	Asian-far east/indian subcont
+msk_met_2021	P-0007305	White
+msk_met_2021	P-0007315	White
+msk_met_2021	P-0007334	White
+msk_met_2021	P-0007342	Asian-far east/indian subcont
+msk_met_2021	P-0007357	White
+msk_met_2021	P-0007361	White
+msk_met_2021	P-0007365	Asian-far east/indian subcont
+msk_met_2021	P-0007368	White
+msk_met_2021	P-0007373	White
+msk_met_2021	P-0007377	Pt refused to answer
+msk_met_2021	P-0007380	White
+msk_met_2021	P-0007381	White
+msk_met_2021	P-0007389	Black or african american
+msk_met_2021	P-0007391	White
+msk_met_2021	P-0007405	White
+msk_met_2021	P-0007410	Asian-far east/indian subcont
+msk_met_2021	P-0007414	White
+msk_met_2021	P-0007419	White
+msk_met_2021	P-0007483	White
+msk_met_2021	P-0007486	Asian-far east/indian subcont
+msk_met_2021	P-0007488	White
+msk_met_2021	P-0007489	White
+msk_met_2021	P-0007490	White
+msk_met_2021	P-0007495	White
+msk_met_2021	P-0007511	White
+msk_met_2021	P-0007541	White
+msk_met_2021	P-0007548	White
+msk_met_2021	P-0007550	White
+msk_met_2021	P-0007554	Black or african american
+msk_met_2021	P-0007555	White
+msk_met_2021	P-0007560	White
+msk_met_2021	P-0007567	White
+msk_met_2021	P-0007581	White
+msk_met_2021	P-0007584	White
+msk_met_2021	P-0007586	White
+msk_met_2021	P-0007588	White
+msk_met_2021	P-0007590	White
+msk_met_2021	P-0007591	White
+msk_met_2021	P-0007592	White
+msk_met_2021	P-0007593	White
+msk_met_2021	P-0007596	White
+msk_met_2021	P-0007600	White
+msk_met_2021	P-0007602	White
+msk_met_2021	P-0007631	White
+msk_met_2021	P-0007632	White
+msk_met_2021	P-0007637	White
+msk_met_2021	P-0007645	White
+msk_met_2021	P-0007654	Asian-far east/indian subcont
+msk_met_2021	P-0007657	White
+msk_met_2021	P-0007664	White
+msk_met_2021	P-0007669	White
+msk_met_2021	P-0007676	White
+msk_met_2021	P-0007686	White
+msk_met_2021	P-0007688	White
+msk_met_2021	P-0007691	Pt refused to answer
+msk_met_2021	P-0007698	White
+msk_met_2021	P-0007739	White
+msk_met_2021	P-0007740	White
+msk_met_2021	P-0007746	White
+msk_met_2021	P-0007771	White
+msk_met_2021	P-0007774	White
+msk_met_2021	P-0007781	White
+msk_met_2021	P-0007793	White
+msk_met_2021	P-0007804	White
+msk_met_2021	P-0007831	White
+msk_met_2021	P-0007836	Pt refused to answer
+msk_met_2021	P-0007843	White
+msk_met_2021	P-0007860	White
+msk_met_2021	P-0007863	Pt refused to answer
+msk_met_2021	P-0007866	White
+msk_met_2021	P-0007868	White
+msk_met_2021	P-0007869	White
+msk_met_2021	P-0007882	White
+msk_met_2021	P-0007883	White
+msk_met_2021	P-0007889	White
+msk_met_2021	P-0007893	White
+msk_met_2021	P-0007909	White
+msk_met_2021	P-0007912	White
+msk_met_2021	P-0007929	White
+msk_met_2021	P-0007931	White
+msk_met_2021	P-0007975	White
+msk_met_2021	P-0007979	White
+msk_met_2021	P-0007990	White
+msk_met_2021	P-0007996	White
+msk_met_2021	P-0007997	White
+msk_met_2021	P-0007998	White
+msk_met_2021	P-0007999	White
+msk_met_2021	P-0008019	White
+msk_met_2021	P-0008022	White
+msk_met_2021	P-0008031	White
+msk_met_2021	P-0008042	White
+msk_met_2021	P-0008059	White
+msk_met_2021	P-0008063	White
+msk_met_2021	P-0008068	White
+msk_met_2021	P-0008075	White
+msk_met_2021	P-0008079	White
+msk_met_2021	P-0008083	White
+msk_met_2021	P-0008094	Other
+msk_met_2021	P-0008095	White
+msk_met_2021	P-0008128	White
+msk_met_2021	P-0008133	White
+msk_met_2021	P-0008141	Pt refused to answer
+msk_met_2021	P-0008159	Black or african american
+msk_met_2021	P-0008173	White
+msk_met_2021	P-0008180	Asian-far east/indian subcont
+msk_met_2021	P-0008226	White
+msk_met_2021	P-0008259	White
+msk_met_2021	P-0008267	Pt refused to answer
+msk_met_2021	P-0008283	Pt refused to answer
+msk_met_2021	P-0008308	White
+msk_met_2021	P-0008317	Pt refused to answer
+msk_met_2021	P-0008321	White
+msk_met_2021	P-0008343	White
+msk_met_2021	P-0008350	White
+msk_met_2021	P-0008357	White
+msk_met_2021	P-0008377	White
+msk_met_2021	P-0008396	White
+msk_met_2021	P-0008429	White
+msk_met_2021	P-0008467	White
+msk_met_2021	P-0008483	White
+msk_met_2021	P-0008504	White
+msk_met_2021	P-0008521	White
+msk_met_2021	P-0008529	Black or african american
+msk_met_2021	P-0008534	White
+msk_met_2021	P-0008551	White
+msk_met_2021	P-0008565	White
+msk_met_2021	P-0008579	White
+msk_met_2021	P-0008582	White
+msk_met_2021	P-0008583	White
+msk_met_2021	P-0008584	White
+msk_met_2021	P-0008588	White
+msk_met_2021	P-0008590	White
+msk_met_2021	P-0008594	White
+msk_met_2021	P-0008600	White
+msk_met_2021	P-0008651	White
+msk_met_2021	P-0008652	Black or african american
+msk_met_2021	P-0008662	White
+msk_met_2021	P-0008671	White
+msk_met_2021	P-0008683	White
+msk_met_2021	P-0008690	Pt refused to answer
+msk_met_2021	P-0008721	Pt refused to answer
+msk_met_2021	P-0008724	White
+msk_met_2021	P-0008727	White
+msk_met_2021	P-0008729	White
+msk_met_2021	P-0008735	White
+msk_met_2021	P-0008745	White
+msk_met_2021	P-0008746	White
+msk_met_2021	P-0008747	White
+msk_met_2021	P-0008753	White
+msk_met_2021	P-0008782	White
+msk_met_2021	P-0008841	White
+msk_met_2021	P-0008853	Black or african american
+msk_met_2021	P-0008868	White
+msk_met_2021	P-0008875	White
+msk_met_2021	P-0008913	Asian-far east/indian subcont
+msk_met_2021	P-0008941	White
+msk_met_2021	P-0009000	White
+msk_met_2021	P-0009012	Pt refused to answer
+msk_met_2021	P-0009013	White
+msk_met_2021	P-0009016	White
+msk_met_2021	P-0009053	White
+msk_met_2021	P-0009058	White
+msk_met_2021	P-0009059	White
+msk_met_2021	P-0009062	White
+msk_met_2021	P-0009114	Pt refused to answer
+msk_met_2021	P-0009121	White
+msk_met_2021	P-0009139	White
+msk_met_2021	P-0009142	White
+msk_met_2021	P-0009145	White
+msk_met_2021	P-0009149	White
+msk_met_2021	P-0009163	White
+msk_met_2021	P-0009167	White
+msk_met_2021	P-0009169	Asian-far east/indian subcont
+msk_met_2021	P-0009170	White
+msk_met_2021	P-0009185	White
+msk_met_2021	P-0009192	White
+msk_met_2021	P-0009200	White
+msk_met_2021	P-0009224	White
+msk_met_2021	P-0009252	White
+msk_met_2021	P-0009294	White
+msk_met_2021	P-0009302	White
+msk_met_2021	P-0009303	White
+msk_met_2021	P-0009305	White
+msk_met_2021	P-0009341	White
+msk_met_2021	P-0009355	Asian-far east/indian subcont
+msk_met_2021	P-0009362	White
+msk_met_2021	P-0009363	Black or african american
+msk_met_2021	P-0009377	White
+msk_met_2021	P-0009418	White
+msk_met_2021	P-0009433	White
+msk_met_2021	P-0009445	Asian-far east/indian subcont
+msk_met_2021	P-0009488	White
+msk_met_2021	P-0009519	White
+msk_met_2021	P-0009561	White
+msk_met_2021	P-0009617	White
+msk_met_2021	P-0009645	Asian-far east/indian subcont
+msk_met_2021	P-0009650	Black or african american
+msk_met_2021	P-0009690	Pt refused to answer
+msk_met_2021	P-0009703	White
+msk_met_2021	P-0009707	White
+msk_met_2021	P-0009712	White
+msk_met_2021	P-0009716	Pt refused to answer
+msk_met_2021	P-0009741	White
+msk_met_2021	P-0009751	White
+msk_met_2021	P-0009757	Asian-far east/indian subcont
+msk_met_2021	P-0009798	White
+msk_met_2021	P-0009830	White
+msk_met_2021	P-0009838	White
+msk_met_2021	P-0009842	White
+msk_met_2021	P-0009850	Pt refused to answer
+msk_met_2021	P-0009851	White
+msk_met_2021	P-0009863	White
+msk_met_2021	P-0009871	White
+msk_met_2021	P-0009902	White
+msk_met_2021	P-0009905	White
+msk_met_2021	P-0009949	White
+msk_met_2021	P-0009954	Asian-far east/indian subcont
+msk_met_2021	P-0009964	White
+msk_met_2021	P-0009971	White
+msk_met_2021	P-0009972	Pt refused to answer
+msk_met_2021	P-0009993	White
+msk_met_2021	P-0010007	Black or african american
+msk_met_2021	P-0010014	White
+msk_met_2021	P-0010018	White
+msk_met_2021	P-0010020	White
+msk_met_2021	P-0010022	White
+msk_met_2021	P-0010044	White
+msk_met_2021	P-0010049	Pt refused to answer
+msk_met_2021	P-0010062	White
+msk_met_2021	P-0010074	White
+msk_met_2021	P-0010098	White
+msk_met_2021	P-0010112	Black or african american
+msk_met_2021	P-0010125	Asian-far east/indian subcont
+msk_met_2021	P-0010134	White
+msk_met_2021	P-0010138	White
+msk_met_2021	P-0010139	Pt refused to answer
+msk_met_2021	P-0010141	White
+msk_met_2021	P-0010146	White
+msk_met_2021	P-0010159	White
+msk_met_2021	P-0010160	White
+msk_met_2021	P-0010167	White
+msk_met_2021	P-0010203	White
+msk_met_2021	P-0010207	White
+msk_met_2021	P-0010219	White
+msk_met_2021	P-0010238	White
+msk_met_2021	P-0010243	White
+msk_met_2021	P-0010268	Black or african american
+msk_met_2021	P-0010275	White
+msk_met_2021	P-0010308	White
+msk_met_2021	P-0010330	White
+msk_met_2021	P-0010342	Black or african american
+msk_met_2021	P-0010343	White
+msk_met_2021	P-0010350	White
+msk_met_2021	P-0010352	White
+msk_met_2021	P-0010360	White
+msk_met_2021	P-0010363	White
+msk_met_2021	P-0010364	White
+msk_met_2021	P-0010365	White
+msk_met_2021	P-0010406	Black or african american
+msk_met_2021	P-0010407	White
+msk_met_2021	P-0010422	White
+msk_met_2021	P-0010425	White
+msk_met_2021	P-0010428	White
+msk_met_2021	P-0010432	White
+msk_met_2021	P-0010499	White
+msk_met_2021	P-0010506	White
+msk_met_2021	P-0010509	White
+msk_met_2021	P-0010512	White
+msk_met_2021	P-0010513	White
+msk_met_2021	P-0010535	White
+msk_met_2021	P-0010587	White
+msk_met_2021	P-0010599	Asian-far east/indian subcont
+msk_met_2021	P-0010627	White
+msk_met_2021	P-0010665	Black or african american
+msk_met_2021	P-0010673	White
+msk_met_2021	P-0010680	White
+msk_met_2021	P-0010734	Pt refused to answer
+msk_met_2021	P-0010742	White
+msk_met_2021	P-0010749	White
+msk_met_2021	P-0010751	White
+msk_met_2021	P-0010781	Black or african american
+msk_met_2021	P-0010783	White
+msk_met_2021	P-0010798	White
+msk_met_2021	P-0010832	White
+msk_met_2021	P-0010861	White
+msk_met_2021	P-0010929	White
+msk_met_2021	P-0010932	Pt refused to answer
+msk_met_2021	P-0010960	White
+msk_met_2021	P-0010966	White
+msk_met_2021	P-0010968	White
+msk_met_2021	P-0010985	White
+msk_met_2021	P-0011027	White
+msk_met_2021	P-0011039	White
+msk_met_2021	P-0011068	White
+msk_met_2021	P-0011071	White
+msk_met_2021	P-0011074	White
+msk_met_2021	P-0011084	White
+msk_met_2021	P-0011108	Pt refused to answer
+msk_met_2021	P-0011109	White
+msk_met_2021	P-0011110	White
+msk_met_2021	P-0011120	White
+msk_met_2021	P-0011124	Asian-far east/indian subcont
+msk_met_2021	P-0011131	White
+msk_met_2021	P-0011144	White
+msk_met_2021	P-0011158	White
+msk_met_2021	P-0011182	White
+msk_met_2021	P-0011184	White
+msk_met_2021	P-0011195	White
+msk_met_2021	P-0011226	White
+msk_met_2021	P-0011235	White
+msk_met_2021	P-0011255	White
+msk_met_2021	P-0011258	White
+msk_met_2021	P-0011259	White
+msk_met_2021	P-0011264	White
+msk_met_2021	P-0011283	White
+msk_met_2021	P-0011287	White
+msk_met_2021	P-0011288	White
+msk_met_2021	P-0011291	Asian-far east/indian subcont
+msk_met_2021	P-0011296	White
+msk_met_2021	P-0011300	White
+msk_met_2021	P-0011306	White
+msk_met_2021	P-0011324	White
+msk_met_2021	P-0011347	White
+msk_met_2021	P-0011357	Asian-far east/indian subcont
+msk_met_2021	P-0011366	White
+msk_met_2021	P-0011374	Black or african american
+msk_met_2021	P-0011380	Black or african american
+msk_met_2021	P-0011384	White
+msk_met_2021	P-0011396	White
+msk_met_2021	P-0011445	White
+msk_met_2021	P-0011455	White
+msk_met_2021	P-0011468	White
+msk_met_2021	P-0011484	White
+msk_met_2021	P-0011510	White
+msk_met_2021	P-0011512	White
+msk_met_2021	P-0011520	White
+msk_met_2021	P-0011533	White
+msk_met_2021	P-0011545	White
+msk_met_2021	P-0011563	Asian-far east/indian subcont
+msk_met_2021	P-0011603	White
+msk_met_2021	P-0012032	White
+msk_met_2021	P-0012033	Black or african american
+msk_met_2021	P-0012074	White
+msk_met_2021	P-0012100	White
+msk_met_2021	P-0012110	Black or african american
+msk_met_2021	P-0012115	Asian-far east/indian subcont
+msk_met_2021	P-0012133	Asian-far east/indian subcont
+msk_met_2021	P-0012135	White
+msk_met_2021	P-0012147	Asian-far east/indian subcont
+msk_met_2021	P-0012233	White
+msk_met_2021	P-0012249	Black or african american
+msk_met_2021	P-0012266	White
+msk_met_2021	P-0012268	Black or african american
+msk_met_2021	P-0012277	Pt refused to answer
+msk_met_2021	P-0012281	White
+msk_met_2021	P-0012313	White
+msk_met_2021	P-0012340	Black or african american
+msk_met_2021	P-0012366	Black or african american
+msk_met_2021	P-0012383	White
+msk_met_2021	P-0012384	White
+msk_met_2021	P-0012389	Black or african american
+msk_met_2021	P-0012399	White
+msk_met_2021	P-0012402	Asian-far east/indian subcont
+msk_met_2021	P-0012406	White
+msk_met_2021	P-0012415	White
+msk_met_2021	P-0012418	White
+msk_met_2021	P-0012419	Pt refused to answer
+msk_met_2021	P-0012426	White
+msk_met_2021	P-0012447	White
+msk_met_2021	P-0012554	White
+msk_met_2021	P-0012566	White
+msk_met_2021	P-0012623	Pt refused to answer
+msk_met_2021	P-0012625	White
+msk_met_2021	P-0012653	Pt refused to answer
+msk_met_2021	P-0012683	White
+msk_met_2021	P-0012685	Black or african american
+msk_met_2021	P-0012695	White
+msk_met_2021	P-0012708	Asian-far east/indian subcont
+msk_met_2021	P-0012722	White
+msk_met_2021	P-0012723	White
+msk_met_2021	P-0012728	White
+msk_met_2021	P-0012742	Black or african american
+msk_met_2021	P-0012747	White
+msk_met_2021	P-0012779	White
+msk_met_2021	P-0012781	White
+msk_met_2021	P-0012810	Asian-far east/indian subcont
+msk_met_2021	P-0012823	White
+msk_met_2021	P-0012847	White
+msk_met_2021	P-0012859	White
+msk_met_2021	P-0012877	White
+msk_met_2021	P-0012878	White
+msk_met_2021	P-0012900	White
+msk_met_2021	P-0012912	White
+msk_met_2021	P-0012965	White
+msk_met_2021	P-0012974	White
+msk_met_2021	P-0013010	White
+msk_met_2021	P-0013020	White
+msk_met_2021	P-0013055	White
+msk_met_2021	P-0013062	White
+msk_met_2021	P-0013082	White
+msk_met_2021	P-0013087	White
+msk_met_2021	P-0013088	White
+msk_met_2021	P-0013096	White
+msk_met_2021	P-0013103	Black or african american
+msk_met_2021	P-0013121	White
+msk_met_2021	P-0013144	White
+msk_met_2021	P-0013146	Pt refused to answer
+msk_met_2021	P-0013156	White
+msk_met_2021	P-0013159	White
+msk_met_2021	P-0013201	White
+msk_met_2021	P-0013227	White
+msk_met_2021	P-0013258	White
+msk_met_2021	P-0013263	White
+msk_met_2021	P-0013277	White
+msk_met_2021	P-0013285	White
+msk_met_2021	P-0013290	Other
+msk_met_2021	P-0013300	White
+msk_met_2021	P-0013354	White
+msk_met_2021	P-0013357	White
+msk_met_2021	P-0013374	White
+msk_met_2021	P-0013375	White
+msk_met_2021	P-0013395	White
+msk_met_2021	P-0013397	White
+msk_met_2021	P-0013400	White
+msk_met_2021	P-0013404	White
+msk_met_2021	P-0013407	White
+msk_met_2021	P-0013441	White
+msk_met_2021	P-0013461	Asian-far east/indian subcont
+msk_met_2021	P-0013462	White
+msk_met_2021	P-0013488	White
+msk_met_2021	P-0013492	White
+msk_met_2021	P-0013495	White
+msk_met_2021	P-0013551	White
+msk_met_2021	P-0013594	White
+msk_met_2021	P-0013648	White
+msk_met_2021	P-0013704	White
+msk_met_2021	P-0013758	Black or african american
+msk_met_2021	P-0013760	White
+msk_met_2021	P-0013772	White
+msk_met_2021	P-0013784	White
+msk_met_2021	P-0013785	White
+msk_met_2021	P-0013786	White
+msk_met_2021	P-0013788	White
+msk_met_2021	P-0013799	White
+msk_met_2021	P-0013828	Black or african american
+msk_met_2021	P-0013856	White
+msk_met_2021	P-0013876	Asian-far east/indian subcont
+msk_met_2021	P-0013881	White
+msk_met_2021	P-0013894	White
+msk_met_2021	P-0013907	White
+msk_met_2021	P-0013929	White
+msk_met_2021	P-0013941	White
+msk_met_2021	P-0013947	White
+msk_met_2021	P-0013955	Pt refused to answer
+msk_met_2021	P-0013963	Pt refused to answer
+msk_met_2021	P-0013975	White
+msk_met_2021	P-0013981	White
+msk_met_2021	P-0013982	White
+msk_met_2021	P-0014010	White
+msk_met_2021	P-0014020	White
+msk_met_2021	P-0014021	White
+msk_met_2021	P-0014026	Asian-far east/indian subcont
+msk_met_2021	P-0014066	White
+msk_met_2021	P-0014116	White
+msk_met_2021	P-0014119	Asian-far east/indian subcont
+msk_met_2021	P-0014133	Asian-far east/indian subcont
+msk_met_2021	P-0014143	White
+msk_met_2021	P-0014168	White
+msk_met_2021	P-0014182	White
+msk_met_2021	P-0014195	White
+msk_met_2021	P-0014252	White
+msk_met_2021	P-0014258	White
+msk_met_2021	P-0014296	White
+msk_met_2021	P-0014415	White
+msk_met_2021	P-0014456	White
+msk_met_2021	P-0014499	White
+msk_met_2021	P-0014514	White
+msk_met_2021	P-0014543	Asian-far east/indian subcont
+msk_met_2021	P-0014553	White
+msk_met_2021	P-0014555	White
+msk_met_2021	P-0014565	Black or african american
+msk_met_2021	P-0014596	White
+msk_met_2021	P-0014616	White
+msk_met_2021	P-0014651	White
+msk_met_2021	P-0014694	Other
+msk_met_2021	P-0014768	Asian-far east/indian subcont
+msk_met_2021	P-0014787	Asian-far east/indian subcont
+msk_met_2021	P-0014827	White
+msk_met_2021	P-0014832	White
+msk_met_2021	P-0014848	Pt refused to answer
+msk_met_2021	P-0014858	White
+msk_met_2021	P-0014863	White
+msk_met_2021	P-0014874	White
+msk_met_2021	P-0014897	White
+msk_met_2021	P-0014899	White
+msk_met_2021	P-0014945	White
+msk_met_2021	P-0014971	White
+msk_met_2021	P-0014994	White
+msk_met_2021	P-0015016	White
+msk_met_2021	P-0015055	Asian-far east/indian subcont
+msk_met_2021	P-0015068	Black or african american
+msk_met_2021	P-0015074	Pt refused to answer
+msk_met_2021	P-0015114	Asian-far east/indian subcont
+msk_met_2021	P-0015121	White
+msk_met_2021	P-0015128	White
+msk_met_2021	P-0015146	White
+msk_met_2021	P-0015149	White
+msk_met_2021	P-0015190	White
+msk_met_2021	P-0015208	Black or african american
+msk_met_2021	P-0015210	White
+msk_met_2021	P-0015221	Black or african american
+msk_met_2021	P-0015237	White
+msk_met_2021	P-0015244	Asian-far east/indian subcont
+msk_met_2021	P-0015252	White
+msk_met_2021	P-0015263	White
+msk_met_2021	P-0015276	White
+msk_met_2021	P-0015295	White
+msk_met_2021	P-0015298	White
+msk_met_2021	P-0015354	Asian-far east/indian subcont
+msk_met_2021	P-0015376	White
+msk_met_2021	P-0015380	Black or african american
+msk_met_2021	P-0015403	White
+msk_met_2021	P-0015411	White
+msk_met_2021	P-0015416	White
+msk_met_2021	P-0015417	White
+msk_met_2021	P-0015474	White
+msk_met_2021	P-0015477	White
+msk_met_2021	P-0015518	White
+msk_met_2021	P-0015534	Asian-far east/indian subcont
+msk_met_2021	P-0015536	White
+msk_met_2021	P-0015566	Black or african american
+msk_met_2021	P-0015642	White
+msk_met_2021	P-0015647	White
+msk_met_2021	P-0015699	Native american-am ind/alaska
+msk_met_2021	P-0015700	White
+msk_met_2021	P-0015711	White
+msk_met_2021	P-0015721	White
+msk_met_2021	P-0015727	White
+msk_met_2021	P-0015730	White
+msk_met_2021	P-0015732	White
+msk_met_2021	P-0015735	Asian-far east/indian subcont
+msk_met_2021	P-0015775	White
+msk_met_2021	P-0015781	White
+msk_met_2021	P-0015782	White
+msk_met_2021	P-0015783	White
+msk_met_2021	P-0015790	Other
+msk_met_2021	P-0015834	White
+msk_met_2021	P-0015835	White
+msk_met_2021	P-0015851	White
+msk_met_2021	P-0015868	No value entered
+msk_met_2021	P-0015870	Asian-far east/indian subcont
+msk_met_2021	P-0015884	White
+msk_met_2021	P-0015893	White
+msk_met_2021	P-0015940	White
+msk_met_2021	P-0015946	White
+msk_met_2021	P-0016030	White
+msk_met_2021	P-0016044	White
+msk_met_2021	P-0016066	Asian-far east/indian subcont
+msk_met_2021	P-0016067	White
+msk_met_2021	P-0016111	White
+msk_met_2021	P-0016140	No value entered
+msk_met_2021	P-0016169	White
+msk_met_2021	P-0016183	Asian-far east/indian subcont
+msk_met_2021	P-0016189	White
+msk_met_2021	P-0016200	Black or african american
+msk_met_2021	P-0016206	White
+msk_met_2021	P-0016227	White
+msk_met_2021	P-0016235	Asian-far east/indian subcont
+msk_met_2021	P-0016266	White
+msk_met_2021	P-0016278	White
+msk_met_2021	P-0016293	White
+msk_met_2021	P-0016314	White
+msk_met_2021	P-0016338	White
+msk_met_2021	P-0016367	White
+msk_met_2021	P-0016441	White
+msk_met_2021	P-0016485	Asian-far east/indian subcont
+msk_met_2021	P-0016487	White
+msk_met_2021	P-0016508	White
+msk_met_2021	P-0016522	White
+msk_met_2021	P-0016560	White
+msk_met_2021	P-0016565	White
+msk_met_2021	P-0016573	White
+msk_met_2021	P-0016603	White
+msk_met_2021	P-0016606	White
+msk_met_2021	P-0016641	White
+msk_met_2021	P-0016662	White
+msk_met_2021	P-0016696	White
+msk_met_2021	P-0016704	White
+msk_met_2021	P-0016764	White
+msk_met_2021	P-0016767	Asian-far east/indian subcont
+msk_met_2021	P-0016778	No value entered
+msk_met_2021	P-0016830	White
+msk_met_2021	P-0016847	White
+msk_met_2021	P-0016850	White
+msk_met_2021	P-0016864	White
+msk_met_2021	P-0016890	White
+msk_met_2021	P-0016932	Pt refused to answer
+msk_met_2021	P-0016937	White
+msk_met_2021	P-0016956	Pt refused to answer
+msk_met_2021	P-0016962	White
+msk_met_2021	P-0016963	White
+msk_met_2021	P-0016967	White
+msk_met_2021	P-0016984	White
+msk_met_2021	P-0017008	Black or african american
+msk_met_2021	P-0017019	White
+msk_met_2021	P-0017022	White
+msk_met_2021	P-0017037	White
+msk_met_2021	P-0017039	White
+msk_met_2021	P-0017051	White
+msk_met_2021	P-0017063	White
+msk_met_2021	P-0017067	White
+msk_met_2021	P-0017170	White
+msk_met_2021	P-0017243	Asian-far east/indian subcont
+msk_met_2021	P-0017263	Other
+msk_met_2021	P-0017270	White
+msk_met_2021	P-0017273	White
+msk_met_2021	P-0017308	White
+msk_met_2021	P-0017315	White
+msk_met_2021	P-0017360	White
+msk_met_2021	P-0017367	White
+msk_met_2021	P-0017459	White
+msk_met_2021	P-0017465	White
+msk_met_2021	P-0017487	White
+msk_met_2021	P-0017489	White
+msk_met_2021	P-0017510	White
+msk_met_2021	P-0017565	Asian-far east/indian subcont
+msk_met_2021	P-0017583	White
+msk_met_2021	P-0017589	White
+msk_met_2021	P-0017593	White
+msk_met_2021	P-0017621	White
+msk_met_2021	P-0017655	White
+msk_met_2021	P-0017661	White
+msk_met_2021	P-0017664	No value entered
+msk_met_2021	P-0017697	Black or african american
+msk_met_2021	P-0017705	White
+msk_met_2021	P-0017736	No value entered
+msk_met_2021	P-0017746	White
+msk_met_2021	P-0017765	White
+msk_met_2021	P-0017766	White
+msk_met_2021	P-0017800	White
+msk_met_2021	P-0017807	Black or african american
+msk_met_2021	P-0017827	White
+msk_met_2021	P-0017828	Black or african american
+msk_met_2021	P-0017839	White
+msk_met_2021	P-0017894	No value entered
+msk_met_2021	P-0017899	White
+msk_met_2021	P-0017919	White
+msk_met_2021	P-0017925	White
+msk_met_2021	P-0017934	White
+msk_met_2021	P-0017983	White
+msk_met_2021	P-0017986	White
+msk_met_2021	P-0017992	White
+msk_met_2021	P-0017994	White
+msk_met_2021	P-0017995	White
+msk_met_2021	P-0018015	White
+msk_met_2021	P-0018070	White
+msk_met_2021	P-0018075	White
+msk_met_2021	P-0018084	White
+msk_met_2021	P-0018096	White
+msk_met_2021	P-0018103	Native american-am ind/alaska
+msk_met_2021	P-0018104	White
+msk_met_2021	P-0018105	White
+msk_met_2021	P-0018109	White
+msk_met_2021	P-0018129	White
+msk_met_2021	P-0018153	White
+msk_met_2021	P-0018176	White
+msk_met_2021	P-0018208	White
+msk_met_2021	P-0018214	White
+msk_met_2021	P-0018218	No value entered
+msk_met_2021	P-0018219	Black or african american
+msk_met_2021	P-0018241	White
+msk_met_2021	P-0018248	White
+msk_met_2021	P-0018249	White
+msk_met_2021	P-0018285	White
+msk_met_2021	P-0018294	White
+msk_met_2021	P-0018300	White
+msk_met_2021	P-0018306	White
+msk_met_2021	P-0018329	White
+msk_met_2021	P-0018349	No value entered
+msk_met_2021	P-0018352	White
+msk_met_2021	P-0018368	Black or african american
+msk_met_2021	P-0018374	Black or african american
+msk_met_2021	P-0018392	White
+msk_met_2021	P-0018402	Black or african american
+msk_met_2021	P-0018412	White
+msk_met_2021	P-0018436	White
+msk_met_2021	P-0018437	White
+msk_met_2021	P-0018438	White
+msk_met_2021	P-0018448	Black or african american
+msk_met_2021	P-0018455	White
+msk_met_2021	P-0018471	White
+msk_met_2021	P-0018485	White
+msk_met_2021	P-0018488	White
+msk_met_2021	P-0018514	White
+msk_met_2021	P-0018526	Black or african american
+msk_met_2021	P-0018554	Asian-far east/indian subcont
+msk_met_2021	P-0018578	Other
+msk_met_2021	P-0018580	White
+msk_met_2021	P-0018585	White
+msk_met_2021	P-0018593	White
+msk_met_2021	P-0018613	No value entered
+msk_met_2021	P-0018651	White
+msk_met_2021	P-0018669	White
+msk_met_2021	P-0018686	White
+msk_met_2021	P-0018696	White
+msk_met_2021	P-0018700	White
+msk_met_2021	P-0018701	Other
+msk_met_2021	P-0018716	No value entered
+msk_met_2021	P-0018721	White
+msk_met_2021	P-0018753	White
+msk_met_2021	P-0018760	Other
+msk_met_2021	P-0018777	White
+msk_met_2021	P-0018792	Asian-far east/indian subcont
+msk_met_2021	P-0018794	Black or african american
+msk_met_2021	P-0018830	White
+msk_met_2021	P-0018831	White
+msk_met_2021	P-0018837	White
+msk_met_2021	P-0018841	White
+msk_met_2021	P-0018846	Black or african american
+msk_met_2021	P-0018855	White
+msk_met_2021	P-0018880	White
+msk_met_2021	P-0018933	White
+msk_met_2021	P-0018946	White
+msk_met_2021	P-0018949	White
+msk_met_2021	P-0018959	White
+msk_met_2021	P-0018971	Black or african american
+msk_met_2021	P-0019000	White
+msk_met_2021	P-0019010	Black or african american
+msk_met_2021	P-0019021	Asian-far east/indian subcont
+msk_met_2021	P-0019044	White
+msk_met_2021	P-0019062	White
+msk_met_2021	P-0019065	White
+msk_met_2021	P-0019096	White
+msk_met_2021	P-0019100	White
+msk_met_2021	P-0019102	White
+msk_met_2021	P-0019126	White
+msk_met_2021	P-0019129	White
+msk_met_2021	P-0019142	White
+msk_met_2021	P-0019146	Black or african american
+msk_met_2021	P-0019183	White
+msk_met_2021	P-0019248	Pt refused to answer
+msk_met_2021	P-0019257	White
+msk_met_2021	P-0019267	White
+msk_met_2021	P-0019369	White
+msk_met_2021	P-0019372	White
+msk_met_2021	P-0019376	White
+msk_met_2021	P-0019377	White
+msk_met_2021	P-0019428	White
+msk_met_2021	P-0019449	White
+msk_met_2021	P-0019464	White
+msk_met_2021	P-0019475	White
+msk_met_2021	P-0019514	White
+msk_met_2021	P-0019529	White
+msk_met_2021	P-0019547	White
+msk_met_2021	P-0019587	White
+msk_met_2021	P-0019593	Black or african american
+msk_met_2021	P-0019594	White
+msk_met_2021	P-0019621	White
+msk_met_2021	P-0019626	White
+msk_met_2021	P-0019629	White
+msk_met_2021	P-0019637	White
+msk_met_2021	P-0019685	White
+msk_met_2021	P-0019699	White
+msk_met_2021	P-0019710	White
+msk_met_2021	P-0019711	White
+msk_met_2021	P-0019737	White
+msk_met_2021	P-0019780	White
+msk_met_2021	P-0019785	Asian-far east/indian subcont
+msk_met_2021	P-0019806	Pt refused to answer
+msk_met_2021	P-0019816	White
+msk_met_2021	P-0019846	White
+msk_met_2021	P-0019869	Black or african american
+msk_met_2021	P-0019880	White
+msk_met_2021	P-0019900	White
+msk_met_2021	P-0019949	White
+msk_met_2021	P-0019960	White
+msk_met_2021	P-0019964	White
+msk_met_2021	P-0019989	White
+msk_met_2021	P-0020075	Black or african american
+msk_met_2021	P-0020081	Other
+msk_met_2021	P-0020088	Other
+msk_met_2021	P-0020114	White
+msk_met_2021	P-0020135	White
+msk_met_2021	P-0020143	White
+msk_met_2021	P-0020144	White
+msk_met_2021	P-0020152	White
+msk_met_2021	P-0020153	White
+msk_met_2021	P-0020221	Pt refused to answer
+msk_met_2021	P-0020232	White
+msk_met_2021	P-0020234	Black or african american
+msk_met_2021	P-0020245	White
+msk_met_2021	P-0020251	White
+msk_met_2021	P-0020263	White
+msk_met_2021	P-0020300	White
+msk_met_2021	P-0020302	Asian-far east/indian subcont
+msk_met_2021	P-0020306	White
+msk_met_2021	P-0020311	White
+msk_met_2021	P-0020330	White
+msk_met_2021	P-0020331	White
+msk_met_2021	P-0020338	White
+msk_met_2021	P-0020343	Asian-far east/indian subcont
+msk_met_2021	P-0020365	White
+msk_met_2021	P-0020383	White
+msk_met_2021	P-0020384	White
+msk_met_2021	P-0020395	White
+msk_met_2021	P-0020399	White
+msk_met_2021	P-0020418	White
+msk_met_2021	P-0020423	Black or african american
+msk_met_2021	P-0020431	White
+msk_met_2021	P-0020461	White
+msk_met_2021	P-0020472	Black or african american
+msk_met_2021	P-0020473	White
+msk_met_2021	P-0020480	White
+msk_met_2021	P-0020481	White
+msk_met_2021	P-0020493	White
+msk_met_2021	P-0020500	White
+msk_met_2021	P-0020573	White
+msk_met_2021	P-0020577	Black or african american
+msk_met_2021	P-0020578	White
+msk_met_2021	P-0020588	White
+msk_met_2021	P-0020607	White
+msk_met_2021	P-0020634	White
+msk_met_2021	P-0020642	White
+msk_met_2021	P-0020661	White
+msk_met_2021	P-0020670	Asian-far east/indian subcont
+msk_met_2021	P-0020681	White
+msk_met_2021	P-0020689	White
+msk_met_2021	P-0020693	White
+msk_met_2021	P-0020733	Other
+msk_met_2021	P-0020739	White
+msk_met_2021	P-0020748	White
+msk_met_2021	P-0020756	Other
+msk_met_2021	P-0020771	White
+msk_met_2021	P-0020791	Asian-far east/indian subcont
+msk_met_2021	P-0020806	White
+msk_met_2021	P-0020826	White
+msk_met_2021	P-0020834	White
+msk_met_2021	P-0020837	White
+msk_met_2021	P-0020838	White
+msk_met_2021	P-0020845	White
+msk_met_2021	P-0020863	White
+msk_met_2021	P-0020875	White
+msk_met_2021	P-0020878	White
+msk_met_2021	P-0020884	White
+msk_met_2021	P-0020926	White
+msk_met_2021	P-0020946	White
+msk_met_2021	P-0020954	White
+msk_met_2021	P-0020971	White
+msk_met_2021	P-0020990	Asian-far east/indian subcont
+msk_met_2021	P-0020999	White
+msk_met_2021	P-0021007	White
+msk_met_2021	P-0021010	White
+msk_met_2021	P-0021012	Asian-far east/indian subcont
+msk_met_2021	P-0021018	White
+msk_met_2021	P-0021033	Asian-far east/indian subcont
+msk_met_2021	P-0021049	White
+msk_met_2021	P-0021072	White
+msk_met_2021	P-0021073	Black or african american
+msk_met_2021	P-0021074	White
+msk_met_2021	P-0021078	White
+msk_met_2021	P-0021090	White
+msk_met_2021	P-0021116	Black or african american
+msk_met_2021	P-0021119	Black or african american
+msk_met_2021	P-0021147	White
+msk_met_2021	P-0021153	White
+msk_met_2021	P-0021154	White
+msk_met_2021	P-0021194	White
+msk_met_2021	P-0021200	Black or african american
+msk_met_2021	P-0021232	White
+msk_met_2021	P-0021281	White
+msk_met_2021	P-0021290	White
+msk_met_2021	P-0021292	White
+msk_met_2021	P-0021304	White
+msk_met_2021	P-0021312	White
+msk_met_2021	P-0021325	White
+msk_met_2021	P-0021346	White
+msk_met_2021	P-0021351	White
+msk_met_2021	P-0021352	Black or african american
+msk_met_2021	P-0021363	White
+msk_met_2021	P-0021393	White
+msk_met_2021	P-0021397	White
+msk_met_2021	P-0021400	White
+msk_met_2021	P-0021418	White
+msk_met_2021	P-0021427	White
+msk_met_2021	P-0021430	Other
+msk_met_2021	P-0021481	White
+msk_met_2021	P-0021497	White
+msk_met_2021	P-0021518	White
+msk_met_2021	P-0021536	White
+msk_met_2021	P-0021537	White
+msk_met_2021	P-0021550	White
+msk_met_2021	P-0021563	White
+msk_met_2021	P-0021645	Pt refused to answer
+msk_met_2021	P-0021650	Asian-far east/indian subcont
+msk_met_2021	P-0021724	White
+msk_met_2021	P-0021744	White
+msk_met_2021	P-0021772	White
+msk_met_2021	P-0021803	White
+msk_met_2021	P-0021828	White
+msk_met_2021	P-0021885	Black or african american
+msk_met_2021	P-0021926	White
+msk_met_2021	P-0021985	White
+msk_met_2021	P-0021991	No value entered
+msk_met_2021	P-0021998	White
+msk_met_2021	P-0022043	No value entered
+msk_met_2021	P-0022065	White
+msk_met_2021	P-0022090	White
+msk_met_2021	P-0022095	White
+msk_met_2021	P-0022109	White
+msk_met_2021	P-0022111	White
+msk_met_2021	P-0022132	White
+msk_met_2021	P-0022137	White
+msk_met_2021	P-0022141	Asian-far east/indian subcont
+msk_met_2021	P-0022150	White
+msk_met_2021	P-0022152	White
+msk_met_2021	P-0022230	White
+msk_met_2021	P-0022243	White
+msk_met_2021	P-0022284	Pt refused to answer
+msk_met_2021	P-0022329	White
+msk_met_2021	P-0022330	White
+msk_met_2021	P-0022356	White
+msk_met_2021	P-0022376	White
+msk_met_2021	P-0022382	No value entered
+msk_met_2021	P-0022385	White
+msk_met_2021	P-0022407	White
+msk_met_2021	P-0022409	White
+msk_met_2021	P-0022438	White
+msk_met_2021	P-0022456	White
+msk_met_2021	P-0022477	White
+msk_met_2021	P-0022490	White
+msk_met_2021	P-0022506	White
+msk_met_2021	P-0022508	White
+msk_met_2021	P-0022537	White
+msk_met_2021	P-0022555	White
+msk_met_2021	P-0022567	White
+msk_met_2021	P-0022581	White
+msk_met_2021	P-0022586	Pt refused to answer
+msk_met_2021	P-0022598	White
+msk_met_2021	P-0022612	White
+msk_met_2021	P-0022667	White
+msk_met_2021	P-0022691	White
+msk_met_2021	P-0022699	Other
+msk_met_2021	P-0022734	White
+msk_met_2021	P-0022758	White
+msk_met_2021	P-0022783	Asian-far east/indian subcont
+msk_met_2021	P-0022790	White
+msk_met_2021	P-0022797	White
+msk_met_2021	P-0022814	Asian-far east/indian subcont
+msk_met_2021	P-0022815	White
+msk_met_2021	P-0022818	White
+msk_met_2021	P-0022822	White
+msk_met_2021	P-0022873	White
+msk_met_2021	P-0022879	White
+msk_met_2021	P-0022889	Asian-far east/indian subcont
+msk_met_2021	P-0022906	White
+msk_met_2021	P-0022916	White
+msk_met_2021	P-0022917	White
+msk_met_2021	P-0022921	White
+msk_met_2021	P-0022928	White
+msk_met_2021	P-0022945	Black or african american
+msk_met_2021	P-0022947	White
+msk_met_2021	P-0022957	White
+msk_met_2021	P-0022972	White
+msk_met_2021	P-0022977	Asian-far east/indian subcont
+msk_met_2021	P-0022997	White
+msk_met_2021	P-0023022	White
+msk_met_2021	P-0023057	White
+msk_met_2021	P-0023109	White
+msk_met_2021	P-0023128	White
+msk_met_2021	P-0023130	Black or african american
+msk_met_2021	P-0023162	White
+msk_met_2021	P-0023187	White
+msk_met_2021	P-0023203	Black or african american
+msk_met_2021	P-0023251	White
+msk_met_2021	P-0023271	White
+msk_met_2021	P-0023272	White
+msk_met_2021	P-0023295	Asian-far east/indian subcont
+msk_met_2021	P-0023353	Asian-far east/indian subcont
+msk_met_2021	P-0023364	White
+msk_met_2021	P-0023420	Asian-far east/indian subcont
+msk_met_2021	P-0023444	Black or african american
+msk_met_2021	P-0023448	White
+msk_met_2021	P-0023461	White
+msk_met_2021	P-0023511	White
+msk_met_2021	P-0023513	White
+msk_met_2021	P-0023516	White
+msk_met_2021	P-0023517	Asian-far east/indian subcont
+msk_met_2021	P-0023526	Black or african american
+msk_met_2021	P-0023551	White
+msk_met_2021	P-0023565	No value entered
+msk_met_2021	P-0023588	Native american-am ind/alaska
+msk_met_2021	P-0023616	White
+msk_met_2021	P-0023623	White
+msk_met_2021	P-0023639	White
+msk_met_2021	P-0023675	White
+msk_met_2021	P-0023700	White
+msk_met_2021	P-0023731	White
+msk_met_2021	P-0023751	White
+msk_met_2021	P-0023776	White
+msk_met_2021	P-0023881	White
+msk_met_2021	P-0023901	White
+msk_met_2021	P-0023933	White
+msk_met_2021	P-0023943	White
+msk_met_2021	P-0023952	White
+msk_met_2021	P-0023974	White
+msk_met_2021	P-0024030	White
+msk_met_2021	P-0024040	Asian-far east/indian subcont
+msk_met_2021	P-0024069	White
+msk_met_2021	P-0024071	White
+msk_met_2021	P-0024113	White
+msk_met_2021	P-0024122	White
+msk_met_2021	P-0024150	White
+msk_met_2021	P-0024155	White
+msk_met_2021	P-0024162	Asian-far east/indian subcont
+msk_met_2021	P-0024201	White
+msk_met_2021	P-0024214	White
+msk_met_2021	P-0024239	White
+msk_met_2021	P-0024260	White
+msk_met_2021	P-0024286	White
+msk_met_2021	P-0024298	Asian-far east/indian subcont
+msk_met_2021	P-0024302	White
+msk_met_2021	P-0024312	White
+msk_met_2021	P-0024341	White
+msk_met_2021	P-0024383	White
+msk_met_2021	P-0024390	White
+msk_met_2021	P-0024418	White
+msk_met_2021	P-0024423	White
+msk_met_2021	P-0024425	White
+msk_met_2021	P-0024428	White
+msk_met_2021	P-0024443	White
+msk_met_2021	P-0024445	White
+msk_met_2021	P-0024453	White
+msk_met_2021	P-0024491	White
+msk_met_2021	P-0024494	White
+msk_met_2021	P-0024497	White
+msk_met_2021	P-0024502	No value entered
+msk_met_2021	P-0024513	White
+msk_met_2021	P-0024539	White
+msk_met_2021	P-0024566	White
+msk_met_2021	P-0024570	White
+msk_met_2021	P-0024586	White
+msk_met_2021	P-0024597	White
+msk_met_2021	P-0024603	White
+msk_met_2021	P-0024604	White
+msk_met_2021	P-0024651	White
+msk_met_2021	P-0024655	White
+msk_met_2021	P-0024664	Black or african american
+msk_met_2021	P-0024692	White
+msk_met_2021	P-0024745	White
+msk_met_2021	P-0024749	White
+msk_met_2021	P-0024765	White
+msk_met_2021	P-0024768	Asian-far east/indian subcont
+msk_met_2021	P-0024777	Other
+msk_met_2021	P-0024823	White
+msk_met_2021	P-0024832	White
+msk_met_2021	P-0024835	White
+msk_met_2021	P-0024837	White
+msk_met_2021	P-0024865	White
+msk_met_2021	P-0024892	White
+msk_met_2021	P-0024910	White
+msk_met_2021	P-0024915	Other
+msk_met_2021	P-0024924	Other
+msk_met_2021	P-0024928	White
+msk_met_2021	P-0024967	White
+msk_met_2021	P-0024973	White
+msk_met_2021	P-0024987	Black or african american
+msk_met_2021	P-0025001	White
+msk_met_2021	P-0025046	White
+msk_met_2021	P-0025047	White
+msk_met_2021	P-0025051	White
+msk_met_2021	P-0025073	White
+msk_met_2021	P-0025088	Asian-far east/indian subcont
+msk_met_2021	P-0025089	White
+msk_met_2021	P-0025099	White
+msk_met_2021	P-0025119	White
+msk_met_2021	P-0025132	White
+msk_met_2021	P-0025145	White
+msk_met_2021	P-0025157	White
+msk_met_2021	P-0025169	White
+msk_met_2021	P-0025192	Black or african american
+msk_met_2021	P-0025201	Other
+msk_met_2021	P-0025215	White
+msk_met_2021	P-0025244	White
+msk_met_2021	P-0025255	White
+msk_met_2021	P-0025290	White
+msk_met_2021	P-0025348	White
+msk_met_2021	P-0025362	Native american-am ind/alaska
+msk_met_2021	P-0025391	No value entered
+msk_met_2021	P-0025406	Asian-far east/indian subcont
+msk_met_2021	P-0025444	White
+msk_met_2021	P-0025449	Asian-far east/indian subcont
+msk_met_2021	P-0025463	No value entered
+msk_met_2021	P-0025468	White
+msk_met_2021	P-0025470	White
+msk_met_2021	P-0025472	White
+msk_met_2021	P-0025510	White
+msk_met_2021	P-0025547	White
+msk_met_2021	P-0025558	White
+msk_met_2021	P-0025591	White
+msk_met_2021	P-0025596	White
+msk_met_2021	P-0025610	White
+msk_met_2021	P-0025641	White
+msk_met_2021	P-0025683	White
+msk_met_2021	P-0025685	Pt refused to answer
+msk_met_2021	P-0025686	White
+msk_met_2021	P-0025694	White
+msk_met_2021	P-0025695	White
+msk_met_2021	P-0025702	White
+msk_met_2021	P-0025715	White
+msk_met_2021	P-0025772	No value entered
+msk_met_2021	P-0025791	Black or african american
+msk_met_2021	P-0025792	White
+msk_met_2021	P-0025803	White
+msk_met_2021	P-0025832	White
+msk_met_2021	P-0025869	White
+msk_met_2021	P-0025883	White
+msk_met_2021	P-0025886	Asian-far east/indian subcont
+msk_met_2021	P-0025925	White
+msk_met_2021	P-0025935	White
+msk_met_2021	P-0025942	White
+msk_met_2021	P-0025986	White
+msk_met_2021	P-0026011	White
+msk_met_2021	P-0026018	White
+msk_met_2021	P-0026020	White
+msk_met_2021	P-0026038	Asian-far east/indian subcont
+msk_met_2021	P-0026054	Native american-am ind/alaska
+msk_met_2021	P-0026122	White
+msk_met_2021	P-0026124	White
+msk_met_2021	P-0026197	White
+msk_met_2021	P-0026233	White
+msk_met_2021	P-0026234	White
+msk_met_2021	P-0026246	Black or african american
+msk_met_2021	P-0026277	White
+msk_met_2021	P-0026296	Asian-far east/indian subcont
+msk_met_2021	P-0026306	White
+msk_met_2021	P-0026392	Other
+msk_met_2021	P-0026394	White
+msk_met_2021	P-0026398	White
+msk_met_2021	P-0026425	White
+msk_met_2021	P-0026449	White
+msk_met_2021	P-0026453	Unknown
+msk_met_2021	P-0026465	White
+msk_met_2021	P-0026468	White
+msk_met_2021	P-0026473	White
+msk_met_2021	P-0026480	White
+msk_met_2021	P-0026502	White
+msk_met_2021	P-0026511	White
+msk_met_2021	P-0026548	White
+msk_met_2021	P-0026557	White
+msk_met_2021	P-0026655	White
+msk_met_2021	P-0026674	White
+msk_met_2021	P-0026678	White
+msk_met_2021	P-0026681	Black or african american
+msk_met_2021	P-0026683	Asian-far east/indian subcont
+msk_met_2021	P-0026699	Other
+msk_met_2021	P-0026721	White
+msk_met_2021	P-0026753	White
+msk_met_2021	P-0026772	White
+msk_met_2021	P-0026796	White
+msk_met_2021	P-0026799	White
+msk_met_2021	P-0026847	White
+msk_met_2021	P-0026867	White
+msk_met_2021	P-0026873	White
+msk_met_2021	P-0026877	White
+msk_met_2021	P-0026890	White
+msk_met_2021	P-0026908	White
+msk_met_2021	P-0026928	White
+msk_met_2021	P-0026933	White
+msk_met_2021	P-0026945	White
+msk_met_2021	P-0026955	White
+msk_met_2021	P-0026962	White
+msk_met_2021	P-0026972	White
+msk_met_2021	P-0026988	Other
+msk_met_2021	P-0026990	Other
+msk_met_2021	P-0026994	White
+msk_met_2021	P-0027016	Asian-far east/indian subcont
+msk_met_2021	P-0027020	White
+msk_met_2021	P-0027039	White
+msk_met_2021	P-0027077	White
+msk_met_2021	P-0027078	White
+msk_met_2021	P-0027098	Other
+msk_met_2021	P-0027113	White
+msk_met_2021	P-0027126	White
+msk_met_2021	P-0027137	White
+msk_met_2021	P-0027140	No value entered
+msk_met_2021	P-0027279	White
+msk_met_2021	P-0027286	White
+msk_met_2021	P-0027288	White
+msk_met_2021	P-0027298	White
+msk_met_2021	P-0027310	White
+msk_met_2021	P-0027322	White
+msk_met_2021	P-0027324	White
+msk_met_2021	P-0027352	White
+msk_met_2021	P-0027355	No value entered
+msk_met_2021	P-0027356	No value entered
+msk_met_2021	P-0027390	White
+msk_met_2021	P-0027422	Pt refused to answer
+msk_met_2021	P-0027427	Asian-far east/indian subcont
+msk_met_2021	P-0027430	Native american-am ind/alaska
+msk_met_2021	P-0027438	White
+msk_met_2021	P-0027476	Black or african american
+msk_met_2021	P-0027479	Black or african american
+msk_met_2021	P-0027487	White
+msk_met_2021	P-0027494	White
+msk_met_2021	P-0027501	No value entered
+msk_met_2021	P-0027508	White
+msk_met_2021	P-0027547	White
+msk_met_2021	P-0027551	Black or african american
+msk_met_2021	P-0027590	White
+msk_met_2021	P-0027597	White
+msk_met_2021	P-0027608	White
+msk_met_2021	P-0027609	Other
+msk_met_2021	P-0027647	White
+msk_met_2021	P-0027655	Black or african american
+msk_met_2021	P-0027656	White
+msk_met_2021	P-0027662	White
+msk_met_2021	P-0027680	Asian-far east/indian subcont
+msk_met_2021	P-0027695	White
+msk_met_2021	P-0027697	White
+msk_met_2021	P-0027712	White
+msk_met_2021	P-0027737	White
+msk_met_2021	P-0027740	White
+msk_met_2021	P-0027746	White
+msk_met_2021	P-0027760	White
+msk_met_2021	P-0027761	White
+msk_met_2021	P-0027763	White
+msk_met_2021	P-0027766	White
+msk_met_2021	P-0027819	White
+msk_met_2021	P-0027854	Asian-far east/indian subcont
+msk_met_2021	P-0027858	White
+msk_met_2021	P-0027864	Asian-far east/indian subcont
+msk_met_2021	P-0027881	White
+msk_met_2021	P-0027929	White
+msk_met_2021	P-0027984	White
+msk_met_2021	P-0027987	White
+msk_met_2021	P-0028062	White
+msk_met_2021	P-0028069	Asian-far east/indian subcont
+msk_met_2021	P-0028074	White
+msk_met_2021	P-0028174	White
+msk_met_2021	P-0028203	White
+msk_met_2021	P-0028247	White
+msk_met_2021	P-0028248	White
+msk_met_2021	P-0028257	White
+msk_met_2021	P-0028261	White
+msk_met_2021	P-0028266	White
+msk_met_2021	P-0028274	White
+msk_met_2021	P-0028296	White
+msk_met_2021	P-0028303	White
+msk_met_2021	P-0028344	White
+msk_met_2021	P-0028348	White
+msk_met_2021	P-0028356	Other
+msk_met_2021	P-0028359	Asian-far east/indian subcont
+msk_met_2021	P-0028375	White
+msk_met_2021	P-0028405	White
+msk_met_2021	P-0028415	No value entered
+msk_met_2021	P-0028441	Black or african american
+msk_met_2021	P-0028464	White
+msk_met_2021	P-0028474	Black or african american
+msk_met_2021	P-0028475	Other
+msk_met_2021	P-0028481	Black or african american
+msk_met_2021	P-0028512	White
+msk_met_2021	P-0028525	White
+msk_met_2021	P-0028571	White
+msk_met_2021	P-0028584	Asian-far east/indian subcont
+msk_met_2021	P-0028604	Black or african american
+msk_met_2021	P-0028608	Black or african american
+msk_met_2021	P-0028613	Asian-far east/indian subcont
+msk_met_2021	P-0028625	White
+msk_met_2021	P-0028642	White
+msk_met_2021	P-0028646	Black or african american
+msk_met_2021	P-0028660	White
+msk_met_2021	P-0028661	White
+msk_met_2021	P-0028710	White
+msk_met_2021	P-0028722	White
+msk_met_2021	P-0028759	White
+msk_met_2021	P-0028772	White
+msk_met_2021	P-0028793	White
+msk_met_2021	P-0028803	Other
+msk_met_2021	P-0028842	White
+msk_met_2021	P-0028857	White
+msk_met_2021	P-0028864	White
+msk_met_2021	P-0028872	Black or african american
+msk_met_2021	P-0028875	White
+msk_met_2021	P-0028879	White
+msk_met_2021	P-0028886	White
+msk_met_2021	P-0028891	White
+msk_met_2021	P-0028892	Black or african american
+msk_met_2021	P-0028929	White
+msk_met_2021	P-0028937	White
+msk_met_2021	P-0028949	Black or african american
+msk_met_2021	P-0028967	Asian-far east/indian subcont
+msk_met_2021	P-0028972	White
+msk_met_2021	P-0028979	White
+msk_met_2021	P-0028990	Black or african american
+msk_met_2021	P-0029022	White
+msk_met_2021	P-0029114	White
+msk_met_2021	P-0029119	White
+msk_met_2021	P-0029141	Black or african american
+msk_met_2021	P-0029143	White
+msk_met_2021	P-0029169	White
+msk_met_2021	P-0029172	Black or african american
+msk_met_2021	P-0029184	White
+msk_met_2021	P-0029215	White
+msk_met_2021	P-0029237	White
+msk_met_2021	P-0029280	White
+msk_met_2021	P-0029304	White
+msk_met_2021	P-0029321	White
+msk_met_2021	P-0029338	White
+msk_met_2021	P-0029364	White
+msk_met_2021	P-0029370	White
+msk_met_2021	P-0029382	White
+msk_met_2021	P-0029388	Black or african american
+msk_met_2021	P-0029394	White
+msk_met_2021	P-0029398	Other
+msk_met_2021	P-0029399	Black or african american
+msk_met_2021	P-0029460	White
+msk_met_2021	P-0029495	White
+msk_met_2021	P-0029516	Black or african american
+msk_met_2021	P-0029522	Other
+msk_met_2021	P-0029535	White
+msk_met_2021	P-0029540	White
+msk_met_2021	P-0029584	White
+msk_met_2021	P-0029586	White
+msk_met_2021	P-0029609	Other
+msk_met_2021	P-0029646	White
+msk_met_2021	P-0029708	Black or african american
+msk_met_2021	P-0029734	White
+msk_met_2021	P-0029767	White
+msk_met_2021	P-0029820	White
+msk_met_2021	P-0029821	White
+msk_met_2021	P-0029822	White
+msk_met_2021	P-0029828	White
+msk_met_2021	P-0029834	White
+msk_met_2021	P-0029918	White
+msk_met_2021	P-0029928	White
+msk_met_2021	P-0029929	White
+msk_met_2021	P-0029965	White
+msk_met_2021	P-0029978	White
+msk_met_2021	P-0029979	Asian-far east/indian subcont
+msk_met_2021	P-0029998	White
+msk_met_2021	P-0030006	Black or african american
+msk_met_2021	P-0030008	White
+msk_met_2021	P-0030019	White
+msk_met_2021	P-0030025	White
+msk_met_2021	P-0030088	White
+msk_met_2021	P-0030121	White
+msk_met_2021	P-0030127	White
+msk_met_2021	P-0030129	White
+msk_met_2021	P-0030131	Black or african american
+msk_met_2021	P-0030138	White
+msk_met_2021	P-0030147	White
+msk_met_2021	P-0030150	White
+msk_met_2021	P-0030189	Asian-far east/indian subcont
+msk_met_2021	P-0030196	White
+msk_met_2021	P-0030216	Black or african american
+msk_met_2021	P-0030230	White
+msk_met_2021	P-0030231	White
+msk_met_2021	P-0030236	White
+msk_met_2021	P-0030238	White
+msk_met_2021	P-0030244	White
+msk_met_2021	P-0030259	White
+msk_met_2021	P-0030269	Asian-far east/indian subcont
+msk_met_2021	P-0030293	White
+msk_met_2021	P-0030297	White
+msk_met_2021	P-0030331	White
+msk_met_2021	P-0030336	White
+msk_met_2021	P-0030367	White
+msk_met_2021	P-0030412	White
+msk_met_2021	P-0030449	White
+msk_met_2021	P-0030452	Black or african american
+msk_met_2021	P-0030455	White
+msk_met_2021	P-0030459	Other
+msk_met_2021	P-0030463	White
+msk_met_2021	P-0030470	White
+msk_met_2021	P-0030479	Black or african american
+msk_met_2021	P-0030483	Asian-far east/indian subcont
+msk_met_2021	P-0030496	White
+msk_met_2021	P-0030526	Asian-far east/indian subcont
+msk_met_2021	P-0030527	White
+msk_met_2021	P-0030540	White
+msk_met_2021	P-0030554	No value entered
+msk_met_2021	P-0030586	White
+msk_met_2021	P-0030630	White
+msk_met_2021	P-0030636	White
+msk_met_2021	P-0030657	Other
+msk_met_2021	P-0030672	White
+msk_met_2021	P-0030701	White
+msk_met_2021	P-0030708	White
+msk_met_2021	P-0030721	White
+msk_met_2021	P-0030735	White
+msk_met_2021	P-0030745	White
+msk_met_2021	P-0030753	Asian-far east/indian subcont
+msk_met_2021	P-0030768	White
+msk_met_2021	P-0030775	White
+msk_met_2021	P-0030828	Asian-far east/indian subcont
+msk_met_2021	P-0030844	White
+msk_met_2021	P-0030880	White
+msk_met_2021	P-0030892	White
+msk_met_2021	P-0030909	White
+msk_met_2021	P-0030927	White
+msk_met_2021	P-0030960	White
+msk_met_2021	P-0030980	White
+msk_met_2021	P-0030988	White
+msk_met_2021	P-0031038	White
+msk_met_2021	P-0031043	Black or african american
+msk_met_2021	P-0031047	White
+msk_met_2021	P-0031052	White
+msk_met_2021	P-0031058	White
+msk_met_2021	P-0031078	White
+msk_met_2021	P-0031083	White
+msk_met_2021	P-0031088	White
+msk_met_2021	P-0031091	White
+msk_met_2021	P-0031102	Black or african american
+msk_met_2021	P-0031103	White
+msk_met_2021	P-0031140	White
+msk_met_2021	P-0031146	Pt refused to answer
+msk_met_2021	P-0031174	White
+msk_met_2021	P-0031188	White
+msk_met_2021	P-0031206	White
+msk_met_2021	P-0031207	White
+msk_met_2021	P-0031216	White
+msk_met_2021	P-0031248	White
+msk_met_2021	P-0031253	White
+msk_met_2021	P-0031282	White
+msk_met_2021	P-0031302	White
+msk_met_2021	P-0031335	Black or african american
+msk_met_2021	P-0031350	White
+msk_met_2021	P-0031360	White
+msk_met_2021	P-0031378	Asian-far east/indian subcont
+msk_met_2021	P-0031409	Other
+msk_met_2021	P-0031450	White
+msk_met_2021	P-0031454	White
+msk_met_2021	P-0031465	White
+msk_met_2021	P-0031467	Asian-far east/indian subcont
+msk_met_2021	P-0031482	Pt refused to answer
+msk_met_2021	P-0031487	White
+msk_met_2021	P-0031508	White
+msk_met_2021	P-0031511	Black or african american
+msk_met_2021	P-0031522	White
+msk_met_2021	P-0031538	White
+msk_met_2021	P-0031553	Black or african american
+msk_met_2021	P-0031578	White
+msk_met_2021	P-0031584	White
+msk_met_2021	P-0031600	White
+msk_met_2021	P-0031666	Asian-far east/indian subcont
+msk_met_2021	P-0031699	White
+msk_met_2021	P-0031777	White
+msk_met_2021	P-0031792	No value entered
+msk_met_2021	P-0031802	White
+msk_met_2021	P-0031803	Other
+msk_met_2021	P-0031832	White
+msk_met_2021	P-0031842	White
+msk_met_2021	P-0031853	Asian-far east/indian subcont
+msk_met_2021	P-0031873	Asian-far east/indian subcont
+msk_met_2021	P-0031968	White
+msk_met_2021	P-0032014	White
+msk_met_2021	P-0032017	Black or african american
+msk_met_2021	P-0032018	White
+msk_met_2021	P-0032020	White
+msk_met_2021	P-0032032	Black or african american
+msk_met_2021	P-0032052	White
+msk_met_2021	P-0032055	Other
+msk_met_2021	P-0032060	White
+msk_met_2021	P-0032066	Asian-far east/indian subcont
+msk_met_2021	P-0032070	White
+msk_met_2021	P-0032081	White
+msk_met_2021	P-0032106	White
+msk_met_2021	P-0032123	Black or african american
+msk_met_2021	P-0032129	White
+msk_met_2021	P-0032137	Asian-far east/indian subcont
+msk_met_2021	P-0032191	Black or african american
+msk_met_2021	P-0032209	White
+msk_met_2021	P-0032238	White
+msk_met_2021	P-0032254	White
+msk_met_2021	P-0032267	Black or african american
+msk_met_2021	P-0032269	White
+msk_met_2021	P-0032278	White
+msk_met_2021	P-0032285	Other
+msk_met_2021	P-0032287	White
+msk_met_2021	P-0032296	White
+msk_met_2021	P-0032334	White
+msk_met_2021	P-0032343	White
+msk_met_2021	P-0032402	White
+msk_met_2021	P-0032439	Asian-far east/indian subcont
+msk_met_2021	P-0032440	White
+msk_met_2021	P-0032447	White
+msk_met_2021	P-0032467	White
+msk_met_2021	P-0032489	Asian-far east/indian subcont
+msk_met_2021	P-0032492	White
+msk_met_2021	P-0032505	White
+msk_met_2021	P-0032523	White
+msk_met_2021	P-0032530	White
+msk_met_2021	P-0032569	White
+msk_met_2021	P-0032612	Asian-far east/indian subcont
+msk_met_2021	P-0032620	Asian-far east/indian subcont
+msk_met_2021	P-0032622	No value entered
+msk_met_2021	P-0032633	White
+msk_met_2021	P-0032634	White
+msk_met_2021	P-0032667	White
+msk_met_2021	P-0032668	Black or african american
+msk_met_2021	P-0032669	Asian-far east/indian subcont
+msk_met_2021	P-0032674	Asian-far east/indian subcont
+msk_met_2021	P-0032696	White
+msk_met_2021	P-0032698	White
+msk_met_2021	P-0032702	White
+msk_met_2021	P-0032717	White
+msk_met_2021	P-0032743	White
+msk_met_2021	P-0032750	Unknown
+msk_met_2021	P-0032754	White
+msk_met_2021	P-0032824	White
+msk_met_2021	P-0032851	White
+msk_met_2021	P-0032854	Asian-far east/indian subcont
+msk_met_2021	P-0032860	Black or african american
+msk_met_2021	P-0032934	White
+msk_met_2021	P-0032961	White
+msk_met_2021	P-0032966	Other
+msk_met_2021	P-0032983	Pt refused to answer
+msk_met_2021	P-0033060	White
+msk_met_2021	P-0033066	White
+msk_met_2021	P-0033100	White
+msk_met_2021	P-0033101	White
+msk_met_2021	P-0033127	White
+msk_met_2021	P-0033131	White
+msk_met_2021	P-0033141	Black or african american
+msk_met_2021	P-0033172	White
+msk_met_2021	P-0033174	White
+msk_met_2021	P-0033196	White
+msk_met_2021	P-0033204	White
+msk_met_2021	P-0033348	Pt refused to answer
+msk_met_2021	P-0033350	White
+msk_met_2021	P-0033382	White
+msk_met_2021	P-0033408	White
+msk_met_2021	P-0033412	White
+msk_met_2021	P-0033425	White
+msk_met_2021	P-0033429	White
+msk_met_2021	P-0033440	White
+msk_met_2021	P-0033503	White
+msk_met_2021	P-0033509	White
+msk_met_2021	P-0033565	White
+msk_met_2021	P-0033566	White
+msk_met_2021	P-0033598	White
+msk_met_2021	P-0033608	No value entered
+msk_met_2021	P-0033617	White
+msk_met_2021	P-0033643	White
+msk_met_2021	P-0033675	White
+msk_met_2021	P-0033716	White
+msk_met_2021	P-0033720	White
+msk_met_2021	P-0033725	White
+msk_met_2021	P-0033748	White
+msk_met_2021	P-0033800	Pt refused to answer
+msk_met_2021	P-0033803	White
+msk_met_2021	P-0033814	Asian-far east/indian subcont
+msk_met_2021	P-0033817	Asian-far east/indian subcont
+msk_met_2021	P-0033852	White
+msk_met_2021	P-0033938	White
+msk_met_2021	P-0033954	Black or african american
+msk_met_2021	P-0033958	White
+msk_met_2021	P-0033986	White
+msk_met_2021	P-0033991	White
+msk_met_2021	P-0033994	White
+msk_met_2021	P-0034024	White
+msk_met_2021	P-0034040	White
+msk_met_2021	P-0034063	White
+msk_met_2021	P-0034088	White
+msk_met_2021	P-0034092	White
+msk_met_2021	P-0034093	Asian-far east/indian subcont
+msk_met_2021	P-0034137	White
+msk_met_2021	P-0034138	Black or african american
+msk_met_2021	P-0034167	White
+msk_met_2021	P-0034175	White
+msk_met_2021	P-0034191	White
+msk_met_2021	P-0034192	White
+msk_met_2021	P-0034233	Black or african american
+msk_met_2021	P-0034257	White
+msk_met_2021	P-0034264	White
+msk_met_2021	P-0034274	White
+msk_met_2021	P-0034302	White
+msk_met_2021	P-0034305	White
+msk_met_2021	P-0034332	Asian-far east/indian subcont
+msk_met_2021	P-0034380	Pt refused to answer
+msk_met_2021	P-0034381	White
+msk_met_2021	P-0034411	White
+msk_met_2021	P-0034413	Asian-far east/indian subcont
+msk_met_2021	P-0034419	White
+msk_met_2021	P-0034478	Asian-far east/indian subcont
+msk_met_2021	P-0034499	White
+msk_met_2021	P-0034500	White
+msk_met_2021	P-0034504	White
+msk_met_2021	P-0034566	White
+msk_met_2021	P-0034581	Black or african american
+msk_met_2021	P-0034640	Asian-far east/indian subcont
+msk_met_2021	P-0034763	White
+msk_met_2021	P-0034774	Asian-far east/indian subcont
+msk_met_2021	P-0034777	Asian-far east/indian subcont
+msk_met_2021	P-0034787	No value entered
+msk_met_2021	P-0034795	Asian-far east/indian subcont
+msk_met_2021	P-0034853	Asian-far east/indian subcont
+msk_met_2021	P-0034854	Asian-far east/indian subcont
+msk_met_2021	P-0034875	White
+msk_met_2021	P-0034877	White
+msk_met_2021	P-0034934	White
+msk_met_2021	P-0034986	Asian-far east/indian subcont
+msk_met_2021	P-0034996	White
+msk_met_2021	P-0035017	White
+msk_met_2021	P-0035033	White
+msk_met_2021	P-0035078	White
+msk_met_2021	P-0035100	White
+msk_met_2021	P-0035155	White
+msk_met_2021	P-0035165	Pt refused to answer
+msk_met_2021	P-0035167	White
+msk_met_2021	P-0035217	White
+msk_met_2021	P-0035288	White
+msk_met_2021	P-0035320	Other
+msk_met_2021	P-0035333	White
+msk_met_2021	P-0035367	White
+msk_met_2021	P-0035372	White
+msk_met_2021	P-0035452	White
+msk_met_2021	P-0035515	White
+msk_met_2021	P-0035516	Black or african american
+msk_met_2021	P-0035534	White
+msk_met_2021	P-0035548	White
+msk_met_2021	P-0035549	White
+msk_met_2021	P-0035585	Black or african american
+msk_met_2021	P-0035586	White
+msk_met_2021	P-0035635	White
+msk_met_2021	P-0035647	White
+msk_met_2021	P-0035693	Asian-far east/indian subcont
+msk_met_2021	P-0035723	White
+msk_met_2021	P-0035742	Asian-far east/indian subcont
+msk_met_2021	P-0035751	White
+msk_met_2021	P-0035755	White
+msk_met_2021	P-0035773	White
+msk_met_2021	P-0035789	Pt refused to answer
+msk_met_2021	P-0035816	White
+msk_met_2021	P-0035830	White
+msk_met_2021	P-0035913	White
+msk_met_2021	P-0035917	White
+msk_met_2021	P-0035926	White
+msk_met_2021	P-0036012	White
+msk_met_2021	P-0036023	White
+msk_met_2021	P-0036028	White
+msk_met_2021	P-0036035	White
+msk_met_2021	P-0036050	White
+msk_met_2021	P-0036053	White
+msk_met_2021	P-0036054	White
+msk_met_2021	P-0036086	White
+msk_met_2021	P-0036087	White
+msk_met_2021	P-0036096	White
+msk_met_2021	P-0036268	White
+msk_met_2021	P-0036289	White
+msk_met_2021	P-0036309	White
+msk_met_2021	P-0036323	White
+msk_met_2021	P-0036324	White
+msk_met_2021	P-0036334	White
+msk_met_2021	P-0036347	White
+msk_met_2021	P-0036369	White
+msk_met_2021	P-0036382	White
+msk_met_2021	P-0036385	White
+msk_met_2021	P-0036389	White
+msk_met_2021	P-0036448	White
+msk_met_2021	P-0036450	White
+msk_met_2021	P-0036503	White
+msk_met_2021	P-0036525	White
+msk_met_2021	P-0036534	White
+msk_met_2021	P-0036584	White
+msk_met_2021	P-0036598	Black or african american
+msk_met_2021	P-0036600	White
+msk_met_2021	P-0036621	White
+msk_met_2021	P-0036622	Asian-far east/indian subcont
+msk_met_2021	P-0036643	White
+msk_met_2021	P-0036666	White
+msk_met_2021	P-0036678	White
+msk_met_2021	P-0036681	White
+msk_met_2021	P-0036703	White
+msk_met_2021	P-0036724	Asian-far east/indian subcont
+msk_met_2021	P-0036729	White
+msk_met_2021	P-0036732	White
+msk_met_2021	P-0036742	White
+msk_met_2021	P-0036748	White
+msk_met_2021	P-0036755	White
+msk_met_2021	P-0036760	White
+msk_met_2021	P-0036767	White
+msk_met_2021	P-0036769	Asian-far east/indian subcont
+msk_met_2021	P-0036824	White
+msk_met_2021	P-0036830	White
+msk_met_2021	P-0036834	White
+msk_met_2021	P-0036848	White
+msk_met_2021	P-0036852	White
+msk_met_2021	P-0036881	White
+msk_met_2021	P-0036892	Pt refused to answer
+msk_met_2021	P-0036916	White
+msk_met_2021	P-0036921	Native hawaiian or pacific isl
+msk_met_2021	P-0036924	White
+msk_met_2021	P-0036939	White
+msk_met_2021	P-0036999	Black or african american
+msk_met_2021	P-0037000	White
+msk_met_2021	P-0037028	Other
+msk_met_2021	P-0037030	White
+msk_met_2021	P-0037066	White
+msk_met_2021	P-0037075	White
+msk_met_2021	P-0037077	White
+msk_met_2021	P-0037084	Asian-far east/indian subcont
+msk_met_2021	P-0037104	White
+msk_met_2021	P-0037111	White
+msk_met_2021	P-0037115	White
+msk_met_2021	P-0037120	White
+msk_met_2021	P-0037123	Asian-far east/indian subcont
+msk_met_2021	P-0037135	White
+msk_met_2021	P-0037180	White
+msk_met_2021	P-0037194	White
+msk_met_2021	P-0037246	White
+msk_met_2021	P-0037319	White
+msk_met_2021	P-0037331	White
+msk_met_2021	P-0037340	White
+msk_met_2021	P-0037351	White
+msk_met_2021	P-0037355	White
+msk_met_2021	P-0037377	White
+msk_met_2021	P-0037381	White
+msk_met_2021	P-0037392	Asian-far east/indian subcont
+msk_met_2021	P-0037410	White
+msk_met_2021	P-0037411	White
+msk_met_2021	P-0037447	White
+msk_met_2021	P-0037457	Black or african american
+msk_met_2021	P-0037482	White
+msk_met_2021	P-0037483	White
+msk_met_2021	P-0037484	White
+msk_met_2021	P-0037486	White
+msk_met_2021	P-0037490	White
+msk_met_2021	P-0037505	White
+msk_met_2021	P-0037524	Asian-far east/indian subcont
+msk_met_2021	P-0037531	White
+msk_met_2021	P-0037532	White
+msk_met_2021	P-0037537	Other
+msk_met_2021	P-0037571	White
+msk_met_2021	P-0037616	White
+msk_met_2021	P-0037653	Other
+msk_met_2021	P-0037657	White
+msk_met_2021	P-0037670	White
+msk_met_2021	P-0037673	White
+msk_met_2021	P-0037712	White
+msk_met_2021	P-0037734	White
+msk_met_2021	P-0037791	White
+msk_met_2021	P-0037795	White
+msk_met_2021	P-0037811	White
+msk_met_2021	P-0037838	White
+msk_met_2021	P-0037865	Black or african american
+msk_met_2021	P-0037867	White
+msk_met_2021	P-0037875	White
+msk_met_2021	P-0037877	White
+msk_met_2021	P-0037880	Black or african american
+msk_met_2021	P-0037898	White
+msk_met_2021	P-0037904	White
+msk_met_2021	P-0037919	White
+msk_met_2021	P-0037964	White
+msk_met_2021	P-0037966	White
+msk_met_2021	P-0037967	Unknown
+msk_met_2021	P-0037968	White
+msk_met_2021	P-0037971	White
+msk_met_2021	P-0037972	White
+msk_met_2021	P-0037987	White
+msk_met_2021	P-0038014	White
+msk_met_2021	P-0038036	White
+msk_met_2021	P-0038038	Black or african american
+msk_met_2021	P-0038051	White
+msk_met_2021	P-0038159	White
+msk_met_2021	P-0038162	White
+msk_met_2021	P-0038188	No value entered
+msk_met_2021	P-0038195	White
+msk_met_2021	P-0038202	White
+msk_met_2021	P-0038207	White
+msk_met_2021	P-0038216	Asian-far east/indian subcont
+msk_met_2021	P-0038219	White
+msk_met_2021	P-0038224	Pt refused to answer
+msk_met_2021	P-0038236	White
+msk_met_2021	P-0038239	Black or african american
+msk_met_2021	P-0038246	White
+msk_met_2021	P-0038287	White
+msk_met_2021	P-0038290	White
+msk_met_2021	P-0038293	White
+msk_met_2021	P-0038331	White
+msk_met_2021	P-0038378	White
+msk_met_2021	P-0038383	White
+msk_met_2021	P-0038423	White
+msk_met_2021	P-0038429	White
+msk_met_2021	P-0038514	White
+msk_met_2021	P-0038533	No value entered
+msk_met_2021	P-0038548	Asian-far east/indian subcont
+msk_met_2021	P-0038553	White
+msk_met_2021	P-0038567	White
+msk_met_2021	P-0038599	Black or african american
+msk_met_2021	P-0038600	White
+msk_met_2021	P-0038612	White
+msk_met_2021	P-0038626	White
+msk_met_2021	P-0038638	White
+msk_met_2021	P-0038647	Asian-far east/indian subcont
+msk_met_2021	P-0038680	White
+msk_met_2021	P-0038682	White
+msk_met_2021	P-0038684	White
+msk_met_2021	P-0038690	White
+msk_met_2021	P-0038691	White
+msk_met_2021	P-0038726	White
+msk_met_2021	P-0038746	White
+msk_met_2021	P-0038747	White
+msk_met_2021	P-0038756	White
+msk_met_2021	P-0038803	White
+msk_met_2021	P-0038825	White
+msk_met_2021	P-0038827	White
+msk_met_2021	P-0038847	White
+msk_met_2021	P-0038880	Black or african american
+msk_met_2021	P-0038881	White
+msk_met_2021	P-0038903	White
+msk_met_2021	P-0038908	White
+msk_met_2021	P-0038963	White
+msk_met_2021	P-0038985	White
+msk_met_2021	P-0039030	White
+msk_met_2021	P-0039032	White
+msk_met_2021	P-0039042	White
+msk_met_2021	P-0039049	Other
+msk_met_2021	P-0039055	White
+msk_met_2021	P-0039058	White
+msk_met_2021	P-0039086	White
+msk_met_2021	P-0039088	White
+msk_met_2021	P-0039122	White
+msk_met_2021	P-0039124	White
+msk_met_2021	P-0039133	White
+msk_met_2021	P-0039147	Asian-far east/indian subcont
+msk_met_2021	P-0039163	White
+msk_met_2021	P-0039173	White
+msk_met_2021	P-0039177	White
+msk_met_2021	P-0039187	White
+msk_met_2021	P-0039209	White
+msk_met_2021	P-0039229	White
+msk_met_2021	P-0039259	White
+msk_met_2021	P-0039260	White
+msk_met_2021	P-0039264	White
+msk_met_2021	P-0039272	White
+msk_met_2021	P-0039283	White
+msk_met_2021	P-0039319	Asian-far east/indian subcont
+msk_met_2021	P-0039323	White
+msk_met_2021	P-0039374	White
+msk_met_2021	P-0039375	White
+msk_met_2021	P-0039389	White
+msk_met_2021	P-0039393	White
+msk_met_2021	P-0039424	White
+msk_met_2021	P-0039437	White
+msk_met_2021	P-0039441	White
+msk_met_2021	P-0039443	White
+msk_met_2021	P-0039460	White
+msk_met_2021	P-0039469	White
+msk_met_2021	P-0039484	White
+msk_met_2021	P-0039557	White
+msk_met_2021	P-0039589	White
+msk_met_2021	P-0039608	White
+msk_met_2021	P-0039633	White
+msk_met_2021	P-0039659	White
+msk_met_2021	P-0039681	White
+msk_met_2021	P-0039693	White
+msk_met_2021	P-0039695	Black or african american
+msk_met_2021	P-0039752	White
+msk_met_2021	P-0039766	White
+msk_met_2021	P-0039775	White
+msk_met_2021	P-0039800	White
+msk_met_2021	P-0039835	White
+msk_met_2021	P-0039858	White
+msk_met_2021	P-0039864	White
+msk_met_2021	P-0039867	White
+msk_met_2021	P-0039889	White
+msk_met_2021	P-0039934	Black or african american
+msk_met_2021	P-0039938	White
+msk_met_2021	P-0039944	White
+msk_met_2021	P-0039966	White
+msk_met_2021	P-0039970	White
+msk_met_2021	P-0039990	White
+msk_met_2021	P-0039999	White
+msk_met_2021	P-0040026	White
+msk_met_2021	P-0040030	White
+msk_met_2021	P-0040054	White
+msk_met_2021	P-0040064	White
+msk_met_2021	P-0040087	White
+msk_met_2021	P-0040093	Black or african american
+msk_met_2021	P-0040107	White
+msk_met_2021	P-0040112	White
+msk_met_2021	P-0040116	White
+msk_met_2021	P-0040121	White
+msk_met_2021	P-0040131	White
+msk_met_2021	P-0040132	Asian-far east/indian subcont
+msk_met_2021	P-0040155	White
+msk_met_2021	P-0040164	Unknown
+msk_met_2021	P-0040182	White
+msk_met_2021	P-0040250	White
+msk_met_2021	P-0040263	White
+msk_met_2021	P-0040266	White
+msk_met_2021	P-0040338	Unknown
+msk_met_2021	P-0040353	No value entered
+msk_met_2021	P-0040354	White
+msk_met_2021	P-0040355	White
+msk_met_2021	P-0040361	Asian-far east/indian subcont
+msk_met_2021	P-0040362	Black or african american
+msk_met_2021	P-0040368	Other
+msk_met_2021	P-0040371	White
+msk_met_2021	P-0040373	White
+msk_met_2021	P-0040380	Black or african american
+msk_met_2021	P-0040449	Asian-far east/indian subcont
+msk_met_2021	P-0040450	White
+msk_met_2021	P-0040460	White
+msk_met_2021	P-0040492	White
+msk_met_2021	P-0040496	White
+msk_met_2021	P-0040508	White
+msk_met_2021	P-0040541	White
+msk_met_2021	P-0040545	Black or african american
+msk_met_2021	P-0040550	White
+msk_met_2021	P-0040596	White
+msk_met_2021	P-0040597	White
+msk_met_2021	P-0040601	Asian-far east/indian subcont
+msk_met_2021	P-0040607	White
+msk_met_2021	P-0040630	White
+msk_met_2021	P-0040642	White
+msk_met_2021	P-0040654	White
+msk_met_2021	P-0040678	White
+msk_met_2021	P-0040685	White
+msk_met_2021	P-0040697	Asian-far east/indian subcont
+msk_met_2021	P-0040699	White
+msk_met_2021	P-0040724	White
+msk_met_2021	P-0040758	Native american-am ind/alaska
+msk_met_2021	P-0040768	White
+msk_met_2021	P-0040783	Unknown
+msk_met_2021	P-0040784	White
+msk_met_2021	P-0040787	White
+msk_met_2021	P-0040814	White
+msk_met_2021	P-0040829	White
+msk_met_2021	P-0040831	White
+msk_met_2021	P-0040844	White
+msk_met_2021	P-0040851	White
+msk_met_2021	P-0040868	Black or african american
+msk_met_2021	P-0040889	White
+msk_met_2021	P-0040917	White
+msk_met_2021	P-0040919	Asian-far east/indian subcont
+msk_met_2021	P-0040923	White
+msk_met_2021	P-0040948	White
+msk_met_2021	P-0040957	Pt refused to answer
+msk_met_2021	P-0040977	Black or african american
+msk_met_2021	P-0041005	White
+msk_met_2021	P-0041072	Asian-far east/indian subcont
+msk_met_2021	P-0041091	Black or african american
+msk_met_2021	P-0041120	White
+msk_met_2021	P-0041142	White
+msk_met_2021	P-0041151	Black or african american
+msk_met_2021	P-0041164	White
+msk_met_2021	P-0041169	White
+msk_met_2021	P-0041183	White
+msk_met_2021	P-0041186	White
+msk_met_2021	P-0041213	White
+msk_met_2021	P-0041239	White
+msk_met_2021	P-0041252	White
+msk_met_2021	P-0041272	White
+msk_met_2021	P-0041283	White
+msk_met_2021	P-0041286	White
+msk_met_2021	P-0041307	White
+msk_met_2021	P-0041308	White
+msk_met_2021	P-0041317	White
+msk_met_2021	P-0041323	Black or african american
+msk_met_2021	P-0041362	White
+msk_met_2021	P-0041381	White
+msk_met_2021	P-0041391	White
+msk_met_2021	P-0041420	White
+msk_met_2021	P-0041436	White
+msk_met_2021	P-0041528	Black or african american
+msk_met_2021	P-0041542	Asian-far east/indian subcont
+msk_met_2021	P-0041595	White
+msk_met_2021	P-0041605	White
+msk_met_2021	P-0041612	White
+msk_met_2021	P-0041696	White
+msk_met_2021	P-0041699	White
+msk_met_2021	P-0041701	White
+msk_met_2021	P-0041731	White
+msk_met_2021	P-0041849	White
+msk_met_2021	P-0041855	White
+msk_met_2021	P-0041870	White
+msk_met_2021	P-0041871	White
+msk_met_2021	P-0041903	White
+msk_met_2021	P-0041956	White
+msk_met_2021	P-0041966	White
+msk_met_2021	P-0041972	White
+msk_met_2021	P-0041974	White
+msk_met_2021	P-0041975	White
+msk_met_2021	P-0042001	White
+msk_met_2021	P-0042004	White
+msk_met_2021	P-0042009	No value entered
+msk_met_2021	P-0042011	Black or african american
+msk_met_2021	P-0042018	White
+msk_met_2021	P-0042024	Unknown
+msk_met_2021	P-0042054	White
+msk_met_2021	P-0042064	Other
+msk_met_2021	P-0042066	White
+msk_met_2021	P-0042079	No value entered
+msk_met_2021	P-0042087	Asian-far east/indian subcont
+msk_met_2021	P-0042102	White
+msk_met_2021	P-0042105	Black or african american
+msk_met_2021	P-0042137	White
+msk_met_2021	P-0042141	White
+msk_met_2021	P-0042160	White
+msk_met_2021	P-0042166	White
+msk_met_2021	P-0042175	Asian-far east/indian subcont
+msk_met_2021	P-0042211	White
+msk_met_2021	P-0042239	White
+msk_met_2021	P-0042250	White
+msk_met_2021	P-0042255	Asian-far east/indian subcont
+msk_met_2021	P-0042316	Black or african american
+msk_met_2021	P-0042405	White
+msk_met_2021	P-0042489	Asian-far east/indian subcont
+msk_met_2021	P-0042512	Pt refused to answer
+msk_met_2021	P-0042528	White
+msk_met_2021	P-0042542	White
+msk_met_2021	P-0042547	Black or african american
+msk_met_2021	P-0042554	White
+msk_met_2021	P-0042598	White
+msk_met_2021	P-0042610	White
+msk_met_2021	P-0042615	White
+msk_met_2021	P-0042628	Asian-far east/indian subcont
+msk_met_2021	P-0042629	White
+msk_met_2021	P-0042648	White
+msk_met_2021	P-0042650	White
+msk_met_2021	P-0042676	White
+msk_met_2021	P-0042737	Black or african american
+msk_met_2021	P-0042741	Asian-far east/indian subcont
+msk_met_2021	P-0042750	White
+msk_met_2021	P-0042765	White
+msk_met_2021	P-0042818	White
+msk_met_2021	P-0042822	Asian-far east/indian subcont
+msk_met_2021	P-0042829	White
+msk_met_2021	P-0042861	Asian-far east/indian subcont
+msk_met_2021	P-0042875	White
+msk_met_2021	P-0042880	White
+msk_met_2021	P-0042914	Black or african american
+msk_met_2021	P-0042915	White
+msk_met_2021	P-0042956	White
+msk_met_2021	P-0043001	White
+msk_met_2021	P-0043003	White
+msk_met_2021	P-0043005	Other
+msk_met_2021	P-0043074	White
+msk_met_2021	P-0043095	White
+msk_met_2021	P-0043130	White
+msk_met_2021	P-0043154	Other
+msk_met_2021	P-0043169	White
+msk_met_2021	P-0043173	White
+msk_met_2021	P-0043237	White
+msk_met_2021	P-0043251	Asian-far east/indian subcont
+msk_met_2021	P-0043252	White
+msk_met_2021	P-0043254	Asian-far east/indian subcont
+msk_met_2021	P-0043293	Asian-far east/indian subcont
+msk_met_2021	P-0043331	White
+msk_met_2021	P-0043333	White
+msk_met_2021	P-0043338	White
+msk_met_2021	P-0043351	White
+msk_met_2021	P-0043352	White
+msk_met_2021	P-0043361	Black or african american
+msk_met_2021	P-0043371	White
+msk_met_2021	P-0043377	Black or african american
+msk_met_2021	P-0043397	White
+msk_met_2021	P-0043415	White
+msk_met_2021	P-0043425	Native hawaiian or pacific isl
+msk_met_2021	P-0043515	Other
+msk_met_2021	P-0043522	Asian-far east/indian subcont
+msk_met_2021	P-0043532	White
+msk_met_2021	P-0043558	White
+msk_met_2021	P-0043567	White
+msk_met_2021	P-0043580	White
+msk_met_2021	P-0043582	White
+msk_met_2021	P-0043595	White
+msk_met_2021	P-0043599	No value entered
+msk_met_2021	P-0043615	No value entered
+msk_met_2021	P-0043620	Black or african american
+msk_met_2021	P-0043622	White
+msk_met_2021	P-0043653	White
+msk_met_2021	P-0043710	Black or african american
+msk_met_2021	P-0043718	White
+msk_met_2021	P-0043719	Black or african american
+msk_met_2021	P-0043732	White
+msk_met_2021	P-0043769	Other
+msk_met_2021	P-0043781	White
+msk_met_2021	P-0043813	Other
+msk_met_2021	P-0043868	White
+msk_met_2021	P-0043870	White
+msk_met_2021	P-0043907	White
+msk_met_2021	P-0043924	White
+msk_met_2021	P-0043934	White
+msk_met_2021	P-0043936	White
+msk_met_2021	P-0043939	White
+msk_met_2021	P-0043943	White
+msk_met_2021	P-0044008	Other
+msk_met_2021	P-0044020	White
+msk_met_2021	P-0044047	White
+msk_met_2021	P-0044063	Asian-far east/indian subcont
+msk_met_2021	P-0044103	White
+msk_met_2021	P-0044124	White
+msk_met_2021	P-0044143	White
+msk_met_2021	P-0044150	White
+msk_met_2021	P-0044184	White
+msk_met_2021	P-0044209	White
+msk_met_2021	P-0044217	White
+msk_met_2021	P-0044219	White
+msk_met_2021	P-0044254	White
+msk_met_2021	P-0044318	White
+msk_met_2021	P-0044330	No value entered
+msk_met_2021	P-0044361	No value entered
+msk_met_2021	P-0044364	White
+msk_met_2021	P-0044367	White
+msk_met_2021	P-0044369	White
+msk_met_2021	P-0044371	White
+msk_met_2021	P-0044388	White
+msk_met_2021	P-0044406	White
+msk_met_2021	P-0044407	Black or african american
+msk_met_2021	P-0044412	White
+msk_met_2021	P-0044433	White
+msk_met_2021	P-0044434	Asian-far east/indian subcont
+msk_met_2021	P-0044437	White
+msk_met_2021	P-0044439	White
+msk_met_2021	P-0044449	Other
+msk_met_2021	P-0044472	White
+msk_met_2021	P-0044477	Asian-far east/indian subcont
+msk_met_2021	P-0044484	White
+msk_met_2021	P-0044492	Black or african american
+msk_met_2021	P-0044539	Other
+msk_met_2021	P-0044540	White
+msk_met_2021	P-0044543	White
+msk_met_2021	P-0044544	White
+msk_met_2021	P-0044566	White
+msk_met_2021	P-0044567	White
+msk_met_2021	P-0044568	White
+msk_met_2021	P-0044574	White
+msk_met_2021	P-0044576	White
+msk_met_2021	P-0044582	Black or african american
+msk_met_2021	P-0044645	White
+msk_met_2021	P-0044664	White
+msk_met_2021	P-0044666	Asian-far east/indian subcont
+msk_met_2021	P-0044735	White
+msk_met_2021	P-0044744	White
+msk_met_2021	P-0044782	White
+msk_met_2021	P-0044791	White
+msk_met_2021	P-0044805	Other
+msk_met_2021	P-0044827	Asian-far east/indian subcont
+msk_met_2021	P-0044833	White
+msk_met_2021	P-0044856	Black or african american
+msk_met_2021	P-0044858	White
+msk_met_2021	P-0044883	White
+msk_met_2021	P-0044889	White
+msk_met_2021	P-0044903	White
+msk_met_2021	P-0044956	White
+msk_met_2021	P-0044989	White
+msk_met_2021	P-0044990	White
+msk_met_2021	P-0044991	White
+msk_met_2021	P-0045000	White
+msk_met_2021	P-0045009	White
+msk_met_2021	P-0045042	Asian-far east/indian subcont
+msk_met_2021	P-0045045	White
+msk_met_2021	P-0045047	White
+msk_met_2021	P-0045109	White
+msk_met_2021	P-0045111	White
+msk_met_2021	P-0045114	White
+msk_met_2021	P-0045124	White
+msk_met_2021	P-0045139	White
+msk_met_2021	P-0045148	White
+msk_met_2021	P-0045153	Black or african american
+msk_met_2021	P-0045167	No value entered
+msk_met_2021	P-0045173	White
+msk_met_2021	P-0045185	White
+msk_met_2021	P-0045190	White
+msk_met_2021	P-0045207	White
+msk_met_2021	P-0045218	White
+msk_met_2021	P-0045220	White
+msk_met_2021	P-0045221	White
+msk_met_2021	P-0045223	White
+msk_met_2021	P-0045240	White
+msk_met_2021	P-0045249	White
+msk_met_2021	P-0045280	Asian-far east/indian subcont
+msk_met_2021	P-0045299	White
+msk_met_2021	P-0045318	White
+msk_met_2021	P-0045320	White
+msk_met_2021	P-0045344	White
+msk_met_2021	P-0045359	White
+msk_met_2021	P-0045362	White
+msk_met_2021	P-0045364	Black or african american
+msk_met_2021	P-0045366	White
+msk_met_2021	P-0045417	Asian-far east/indian subcont
+msk_met_2021	P-0045459	Black or african american
+msk_met_2021	P-0045460	White
+msk_met_2021	P-0045463	White
+msk_met_2021	P-0045471	Asian-far east/indian subcont
+msk_met_2021	P-0045496	White
+msk_met_2021	P-0045511	Native hawaiian or pacific isl
+msk_met_2021	P-0045512	No value entered
+msk_met_2021	P-0045514	Other
+msk_met_2021	P-0045518	White
+msk_met_2021	P-0045519	Black or african american
+msk_met_2021	P-0045530	White
+msk_met_2021	P-0045531	White
+msk_met_2021	P-0045538	Other
+msk_met_2021	P-0045547	White
+msk_met_2021	P-0045580	Other
+msk_met_2021	P-0045582	White
+msk_met_2021	P-0045637	White
+msk_met_2021	P-0045660	White
+msk_met_2021	P-0045661	Asian-far east/indian subcont
+msk_met_2021	P-0045696	White
+msk_met_2021	P-0045712	Asian-far east/indian subcont
+msk_met_2021	P-0045713	White
+msk_met_2021	P-0045717	White
+msk_met_2021	P-0045721	White
+msk_met_2021	P-0045724	Asian-far east/indian subcont
+msk_met_2021	P-0045748	White
+msk_met_2021	P-0045823	White
+msk_met_2021	P-0045847	White
+msk_met_2021	P-0045850	Other
+msk_met_2021	P-0045888	Other
+msk_met_2021	P-0045891	White
+msk_met_2021	P-0045896	White
+msk_met_2021	P-0045898	White
+msk_met_2021	P-0045906	White
+msk_met_2021	P-0045909	Other
+msk_met_2021	P-0045919	Black or african american
+msk_met_2021	P-0045920	White
+msk_met_2021	P-0045952	White
+msk_met_2021	P-0045955	White
+msk_met_2021	P-0045983	White
+msk_met_2021	P-0045984	White
+msk_met_2021	P-0045990	White
+msk_met_2021	P-0046018	White
+msk_met_2021	P-0046026	White
+msk_met_2021	P-0046027	White
+msk_met_2021	P-0046028	White
+msk_met_2021	P-0046055	White
+msk_met_2021	P-0046064	Black or african american
+msk_met_2021	P-0046066	White
+msk_met_2021	P-0046111	White
+msk_met_2021	P-0046221	Asian-far east/indian subcont
+msk_met_2021	P-0046229	Asian-far east/indian subcont
+msk_met_2021	P-0046232	Other
+msk_met_2021	P-0046242	White
+msk_met_2021	P-0046244	White
+msk_met_2021	P-0046252	Black or african american
+msk_met_2021	P-0046266	White
+msk_met_2021	P-0046293	White
+msk_met_2021	P-0046311	White
+msk_met_2021	P-0046320	White
+msk_met_2021	P-0046326	White
+msk_met_2021	P-0046340	Black or african american
+msk_met_2021	P-0046342	White
+msk_met_2021	P-0046394	Other
+msk_met_2021	P-0046485	White
+msk_met_2021	P-0046492	White
+msk_met_2021	P-0046529	Asian-far east/indian subcont
+msk_met_2021	P-0046534	Asian-far east/indian subcont
+msk_met_2021	P-0046544	White
+msk_met_2021	P-0046546	White
+msk_met_2021	P-0046547	Black or african american
+msk_met_2021	P-0046548	Asian-far east/indian subcont
+msk_met_2021	P-0046552	White
+msk_met_2021	P-0046571	White
+msk_met_2021	P-0046582	White
+msk_met_2021	P-0046624	White
+msk_met_2021	P-0046631	White
+msk_met_2021	P-0046648	No value entered
+msk_met_2021	P-0046654	White
+msk_met_2021	P-0046670	White
+msk_met_2021	P-0046678	White
+msk_met_2021	P-0046692	Other
+msk_met_2021	P-0046695	White
+msk_met_2021	P-0046698	White
+msk_met_2021	P-0046729	White
+msk_met_2021	P-0046735	Asian-far east/indian subcont
+msk_met_2021	P-0046738	White
+msk_met_2021	P-0046739	White
+msk_met_2021	P-0046742	White
+msk_met_2021	P-0046759	White
+msk_met_2021	P-0046760	Asian-far east/indian subcont
+msk_met_2021	P-0046778	White
+msk_met_2021	P-0046793	White
+msk_met_2021	P-0046811	White
+msk_met_2021	P-0046846	White
+msk_met_2021	P-0046848	White
+msk_met_2021	P-0046855	White
+msk_met_2021	P-0046860	White
+msk_met_2021	P-0046861	White
+msk_met_2021	P-0046879	White
+msk_met_2021	P-0046882	Black or african american
+msk_met_2021	P-0046883	White
+msk_met_2021	P-0046892	White
+msk_met_2021	P-0046910	White
+msk_met_2021	P-0046912	Asian-far east/indian subcont
+msk_met_2021	P-0046939	White
+msk_met_2021	P-0046944	Asian-far east/indian subcont
+msk_met_2021	P-0046952	White
+msk_met_2021	P-0046954	Black or african american
+msk_met_2021	P-0046983	White
+msk_met_2021	P-0046992	White
+msk_met_2021	P-0047054	Black or african american
+msk_met_2021	P-0047056	White
+msk_met_2021	P-0047100	Other
+msk_met_2021	P-0047121	White
+msk_met_2021	P-0047133	White
+msk_met_2021	P-0047151	White
+msk_met_2021	P-0047154	White
+msk_met_2021	P-0047195	White
+msk_met_2021	P-0047196	White
+msk_met_2021	P-0047197	White
+msk_met_2021	P-0047200	White
+msk_met_2021	P-0047205	Asian-far east/indian subcont
+msk_met_2021	P-0047212	Other
+msk_met_2021	P-0047233	White
+msk_met_2021	P-0047239	White
+msk_met_2021	P-0047255	White
+msk_met_2021	P-0047318	Other
+msk_met_2021	P-0047322	White
+msk_met_2021	P-0047377	White
+msk_met_2021	P-0047378	Other
+msk_met_2021	P-0047382	White
+msk_met_2021	P-0047392	White
+msk_met_2021	P-0047394	White
+msk_met_2021	P-0047395	White
+msk_met_2021	P-0047416	White
+msk_met_2021	P-0047431	White
+msk_met_2021	P-0047449	White
+msk_met_2021	P-0047452	Asian-far east/indian subcont
+msk_met_2021	P-0047456	No value entered
+msk_met_2021	P-0047490	White
+msk_met_2021	P-0047512	Pt refused to answer
+msk_met_2021	P-0047513	White
+msk_met_2021	P-0047545	Black or african american
+msk_met_2021	P-0047548	White
+msk_met_2021	P-0047572	Other
+msk_met_2021	P-0047578	White
+msk_met_2021	P-0047599	White
+msk_met_2021	P-0047601	White
+msk_met_2021	P-0047611	Black or african american
+msk_met_2021	P-0047615	Asian-far east/indian subcont
+msk_met_2021	P-0047632	White
+msk_met_2021	P-0047634	White
+msk_met_2021	P-0047635	White
+msk_met_2021	P-0047641	No value entered
+msk_met_2021	P-0047651	White
+msk_met_2021	P-0047704	White
+msk_met_2021	P-0047716	White
+msk_met_2021	P-0047717	Black or african american
+msk_met_2021	P-0047719	White
+msk_met_2021	P-0047720	White
+msk_met_2021	P-0047736	Other
+msk_met_2021	P-0047739	White
+msk_met_2021	P-0047746	White
+msk_met_2021	P-0047747	White
+msk_met_2021	P-0047753	White
+msk_met_2021	P-0047764	White
+msk_met_2021	P-0047770	Black or african american
+msk_met_2021	P-0047790	White
+msk_met_2021	P-0047796	White
+msk_met_2021	P-0047822	White
+msk_met_2021	P-0047845	White
+msk_met_2021	P-0047850	White
+msk_met_2021	P-0047855	Other
+msk_met_2021	P-0047861	Asian-far east/indian subcont
+msk_met_2021	P-0047862	White
+msk_met_2021	P-0047886	White
+msk_met_2021	P-0047888	Black or african american
+msk_met_2021	P-0047893	White
+msk_met_2021	P-0047902	Black or african american
+msk_met_2021	P-0047906	Pt refused to answer
+msk_met_2021	P-0047942	White
+msk_met_2021	P-0047948	White
+msk_met_2021	P-0047950	Asian-far east/indian subcont
+msk_met_2021	P-0047972	White
+msk_met_2021	P-0047975	White
+msk_met_2021	P-0047978	White
+msk_met_2021	P-0047979	Black or african american
+msk_met_2021	P-0048004	Black or african american
+msk_met_2021	P-0048034	Asian-far east/indian subcont
+msk_met_2021	P-0048037	Asian-far east/indian subcont
+msk_met_2021	P-0048038	White
+msk_met_2021	P-0048040	White
+msk_met_2021	P-0048053	White
+msk_met_2021	P-0048055	White
+msk_met_2021	P-0048062	White
+msk_met_2021	P-0048067	White
+msk_met_2021	P-0048081	Asian-far east/indian subcont
+msk_met_2021	P-0048082	White
+msk_met_2021	P-0048083	White
+msk_met_2021	P-0048086	White
+msk_met_2021	P-0048091	White
+msk_met_2021	P-0048108	White
+msk_met_2021	P-0048115	White
+msk_met_2021	P-0048141	White
+msk_met_2021	P-0048161	Other
+msk_met_2021	P-0048174	White
+msk_met_2021	P-0048215	White
+msk_met_2021	P-0048219	White
+msk_met_2021	P-0048220	White
+msk_met_2021	P-0048221	White
+msk_met_2021	P-0048226	Other
+msk_met_2021	P-0048230	Black or african american
+msk_met_2021	P-0048232	White
+msk_met_2021	P-0048240	Pt refused to answer
+msk_met_2021	P-0048242	White
+msk_met_2021	P-0048244	White
+msk_met_2021	P-0048246	White
+msk_met_2021	P-0048250	White
+msk_met_2021	P-0048257	Native american-am ind/alaska
+msk_met_2021	P-0048258	White
+msk_met_2021	P-0048271	White
+msk_met_2021	P-0048299	White
+msk_met_2021	P-0048313	Black or african american
+msk_met_2021	P-0048320	White
+msk_met_2021	P-0048356	White
+msk_met_2021	P-0048375	White
+msk_met_2021	P-0048378	White
+msk_met_2021	P-0048384	White
+msk_met_2021	P-0048394	White
+msk_met_2021	P-0048431	Asian-far east/indian subcont
+msk_met_2021	P-0048481	White
+msk_met_2021	P-0048516	White
+msk_met_2021	P-0048522	White
+msk_met_2021	P-0048551	White
+msk_met_2021	P-0048606	White
+msk_met_2021	P-0048608	White
+msk_met_2021	P-0048613	White
+msk_met_2021	P-0048617	White
+msk_met_2021	P-0048626	White
+msk_met_2021	P-0048649	Asian-far east/indian subcont
+msk_met_2021	P-0048657	Black or african american
+msk_met_2021	P-0048658	White
+msk_met_2021	P-0048660	White
+msk_met_2021	P-0048666	White
+msk_met_2021	P-0048714	White
+msk_met_2021	P-0048720	White
+msk_met_2021	P-0048723	Asian-far east/indian subcont
+msk_met_2021	P-0048751	White
+msk_met_2021	P-0048766	White
+msk_met_2021	P-0048774	White
+msk_met_2021	P-0048784	White
+msk_met_2021	P-0048803	White
+msk_met_2021	P-0048828	White
+msk_met_2021	P-0048834	White
+msk_met_2021	P-0048847	White
+msk_met_2021	P-0048849	White
+msk_met_2021	P-0048850	White
+msk_met_2021	P-0048893	White
+msk_met_2021	P-0048908	White
+msk_met_2021	P-0048911	White
+msk_met_2021	P-0048920	White
+msk_met_2021	P-0048925	White
+msk_met_2021	P-0048934	Black or african american
+msk_met_2021	P-0048949	White
+msk_met_2021	P-0048956	White
+msk_met_2021	P-0048958	White
+msk_met_2021	P-0048970	Asian-far east/indian subcont
+msk_met_2021	P-0048971	White
+msk_met_2021	P-0049000	White
+msk_met_2021	P-0049001	White
+msk_met_2021	P-0049010	White
+msk_met_2021	P-0049027	White
+msk_met_2021	P-0049028	Black or african american
+msk_met_2021	P-0049033	White
+msk_met_2021	P-0049036	No value entered
+msk_met_2021	P-0049037	White
+msk_met_2021	P-0049064	White
+msk_met_2021	P-0049065	Asian-far east/indian subcont
+msk_met_2021	P-0049069	Black or african american
+msk_met_2021	P-0049070	White
+msk_met_2021	P-0049078	White
+msk_met_2021	P-0049087	No value entered
+msk_met_2021	P-0049088	Unknown
+msk_met_2021	P-0049094	Unknown
+msk_met_2021	P-0049122	White
+msk_met_2021	P-0049126	White
+msk_met_2021	P-0049182	White
+msk_met_2021	P-0049184	White
+msk_met_2021	P-0049191	White
+msk_met_2021	P-0049192	White
+msk_met_2021	P-0049193	Other
+msk_met_2021	P-0049202	White
+msk_met_2021	P-0049252	White
+msk_met_2021	P-0049268	White
+msk_met_2021	P-0049272	White
+msk_met_2021	P-0049273	White
+msk_met_2021	P-0049286	White
+msk_met_2021	P-0049327	White
+msk_met_2021	P-0049329	White
+msk_met_2021	P-0049359	White
+msk_met_2021	P-0049372	White
+msk_met_2021	P-0049376	White
+msk_met_2021	P-0049380	White
+msk_met_2021	P-0049388	White
+msk_met_2021	P-0049389	White
+msk_met_2021	P-0049404	White
+msk_met_2021	P-0049407	Asian-far east/indian subcont
+msk_met_2021	P-0049433	Asian-far east/indian subcont
+msk_met_2021	P-0049459	Asian-far east/indian subcont
+msk_met_2021	P-0049476	White
+msk_met_2021	P-0049486	Asian-far east/indian subcont
+msk_met_2021	P-0049490	White
+msk_met_2021	P-0049498	White
+msk_met_2021	P-0049515	White
+msk_met_2021	P-0049521	White
+msk_met_2021	P-0049528	White
+msk_met_2021	P-0049538	White
+msk_met_2021	P-0049545	Asian-far east/indian subcont
+msk_met_2021	P-0049565	White
+msk_met_2021	P-0049567	Asian-far east/indian subcont
+msk_met_2021	P-0049570	Asian-far east/indian subcont
+msk_met_2021	P-0049594	Black or african american
+msk_met_2021	P-0049600	White
+msk_met_2021	P-0049602	White
+msk_met_2021	P-0049620	White
+msk_met_2021	P-0049633	Asian-far east/indian subcont
+msk_met_2021	P-0049638	White
+msk_met_2021	P-0049639	White
+msk_met_2021	P-0049661	Asian-far east/indian subcont
+msk_met_2021	P-0049662	Asian-far east/indian subcont
+msk_met_2021	P-0049679	White
+msk_met_2021	P-0049743	White
+msk_met_2021	P-0049749	White
+msk_met_2021	P-0049762	White
+msk_met_2021	P-0049803	White
+msk_met_2021	P-0049810	White
+msk_met_2021	P-0049849	White
+msk_met_2021	P-0049863	Asian-far east/indian subcont
+msk_met_2021	P-0049896	White
+msk_met_2021	P-0049913	White
+msk_met_2021	P-0049919	White
+msk_met_2021	P-0049924	Other
+msk_met_2021	P-0049956	White
+msk_met_2021	P-0049957	White
+msk_met_2021	P-0049969	Asian-far east/indian subcont
+msk_met_2021	P-0049970	White
+msk_met_2021	P-0049992	White
+msk_met_2021	P-0050006	White
+msk_met_2021	P-0050007	White
+msk_met_2021	P-0050008	Asian-far east/indian subcont
+msk_met_2021	P-0050069	White
+msk_met_2021	P-0050098	White
+msk_met_2021	P-0050121	White
+msk_met_2021	P-0050137	White
+msk_met_2021	P-0050143	White
+msk_met_2021	P-0050152	White
+msk_met_2021	P-0050175	White
+msk_met_2021	P-0050213	White
+msk_met_2021	P-0050238	White
+msk_met_2021	P-0050246	White
+msk_met_2021	P-0050254	White
+msk_met_2021	P-0050259	White
+msk_met_2021	P-0050263	White
+msk_met_2021	P-0050264	Black or african american
+msk_met_2021	P-0050266	Other
+msk_met_2021	P-0050315	White
+msk_met_2021	P-0050356	White
+msk_met_2021	P-0050392	White
+msk_met_2021	P-0050397	White
+msk_met_2021	P-0050429	White
+msk_met_2021	P-0050459	Other
+msk_met_2021	P-0050464	Pt refused to answer
+msk_met_2021	P-0050486	White
+msk_met_2021	P-0050488	Asian-far east/indian subcont
+msk_met_2021	P-0050491	Black or african american
+msk_met_2021	P-0050516	White
+msk_met_2021	P-0050517	Black or african american
+msk_met_2021	P-0050522	White
+msk_met_2021	P-0050567	White

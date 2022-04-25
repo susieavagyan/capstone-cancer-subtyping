@@ -1,0 +1,2 @@
+cancer	survival_significance	race_significance
+Colorectal	0.0042	0.8361
