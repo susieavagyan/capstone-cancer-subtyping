@@ -1,0 +1,14 @@
+,3
+Classification,LR
+Best Parameters,{'penalty': 'l2'}
+Precision,0.8977384660450455
+Recall,0.896551724137931
+Accuracy,0.896551724137931
+F1,0.8963720086196576
+Balanced Accuracy,0.8926131901217287
+Cohen Kappa,0.8646993318485523
+Confusion Matrix,"[[105   0   3   0   0]
+ [  0  51   8   1   0]
+ [ 13   5 158   0   5]
+ [  0   2   6  51   0]
+ [  2   0   1   8 103]]"

@@ -1,0 +1,14 @@
+,1
+Classification,LDA
+Best Parameters,{'solver': 'svd'}
+Precision,0.42448708795231715
+Recall,0.43223443223443225
+Accuracy,0.43223443223443225
+F1,0.42535684037910537
+Balanced Accuracy,0.47117429955411394
+Cohen Kappa,0.23415923117296789
+Confusion Matrix,"[[24 35 20 18  4]
+ [23 98 52 16  2]
+ [13 53 61 11  2]
+ [ 9 25 19 34  3]
+ [ 2  2  1  0 19]]"
