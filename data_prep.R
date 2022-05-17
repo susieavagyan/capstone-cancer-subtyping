@@ -52,7 +52,9 @@ clinp_df <- clinp_df[-(1:4), , drop = FALSE]
 ##filter to only colon cancer samples
 coad_read <- clin_df[clin_df$ONCOTREE_CODE %in% c("COAD", "READ"),]
 ##dist of primary and metastatic cancers
-ggplot(coad_read) + geom_bar(aes(SAMPLE_TYPE), stat="count", fill = "#2986e2") + ggtitle("Distribution of patients by sample type") +  theme_classic() 
+ggplot(coad_read) + geom_bar(aes(SAMPLE_TYPE), stat="count", fill = "#2986e2") + labs(title = "Distribution of patients by sample type", x = "Sample Type",  y = "Patient Count") +  
+  theme(plot.title = element_text(size = 25, face = "italic"), axis.text=element_text(size=18), axis.title=element_text(size=20,face="bold"), panel.background = element_blank())
+                                                                                                                                                
 
 
 ## select only primary
@@ -77,7 +79,7 @@ write_csv(clinp_df, file = "./data/clinical_patients.csv")
 
 # mutations_df <- read.csv("./data/mut_raw.csv")
 # cnv_df <- read.csv("./data/cnv_raw.csv")
-# clin_df <- read.csv("./data/clinical_raw.csv")
+# coad_read <- read.csv("./data/clinical_raw.csv")/\
 # coad_read_p <- read.csv("./data/clinical_primary_raw.csv")
 
 
@@ -250,22 +252,58 @@ write.csv(df_combined, "./data/mut_cnv_onehot.csv", row.names = FALSE)
 
 ##EDA on clinical data
 
+##age
+age <-  read.csv("./data/Age_at_Sequencing.txt", sep = '\t')
+unique(roundage$Age.at.Sequencing)
+ggplot(age, aes(x=Age.at.Sequencing)) +
+  geom_histogram(bins = 20, fill = "#2986e2") +  scale_x_continuous(breaks = seq(0, 100, 5)) + labs(title = "Distribution of patients by age", x = "Age Group",  y = "Patient Count") +  
+  theme(plot.title = element_text(size = 25, face = "italic", hjust = 0.5), axis.text=element_text(size=18), axis.title=element_text(size=20,face="bold"), panel.background = element_blank())
+
+
+##mutation count
+mut_count <-  read.csv("./data/Mutation_Count.txt", sep = '\t')
+mut_count_ <- mut_count %>%  mutate(Mutation.Count = case_when(Mutation.Count > 15 ~ ">15",
+                                                               Mutation.Count <=2 ~ "<=2",
+                                                               TRUE ~ as.character(Mutation.Count))) %>%
+                            mutate(Mutation.Count = factor(Mutation.Count, 
+                                                       levels = c("<=2", "3", "4", "5", "6","7", "8", 
+                                                                  "9","10", "11", "12", "13", "14", "15",
+                                                                  ">15")))
+ggplot(mut_count_, aes(x=Mutation.Count)) +
+  geom_bar(fill = "#2986e2") + labs(title = "Distribution of patients by mutation counts", x = "Mutation Count",  y = "Patient Count") +  
+  theme(plot.title = element_text(size = 25, face = "italic"), axis.text=element_text(size=18), axis.title=element_text(size=20,face="bold"), panel.background = element_blank())
+
+
+##sex
 sex <- read.csv("./data/Sex.txt", sep = '\t')
 sex_ <- group_by(sex, Sex) %>% count() %>% mutate(prop = n/length(sex$Study.ID)*100)
 ggplot(sex_, aes(x="", y=n, fill = Sex)) +
   geom_bar(stat="identity", width=1, color="white") +
   coord_polar("y", start=0) +
-  scale_fill_manual("Sex", values = c("Female"= "#008080", "Male"= "#4363d8")) +
-  theme_void() 
-  
+  scale_fill_manual("Sex", values = c("Female"= "#452075", "Male"= "#2986e2")) +
+  geom_text(aes(label = paste0(round(sex_$prop,2), "%")),
+            position = position_stack(vjust = 0.5), size = 7, colour = "white") +
+  theme(legend.title=element_text(size=20), 
+        legend.text=element_text(size=20),
+        panel.background = element_blank(),
+        axis.ticks = element_blank(),
+        axis.text = element_blank(),
+        axis.title = element_blank()) 
 
+##race
 race <- read.csv("./data/Race_Category.txt", sep = '\t')
 race_ <- as.data.frame(group_by(race, Race.Category) %>% count() %>% mutate(prop = n/length(race$Study.ID)*100))
+group.colors <-  c("Asian-far east/indian subcont"='#0911ac',  "White" = '#8C0EAB',   "Pt refused to answer" = '#34a2f8', "Black or african american"  = '#fbaa30', 
+                   "Other" ='#ffef69', "Native hawaiian or pacific isl"= '#911eb4', "Native american-am ind/alaska" ='#46f0f0', "No value entered"  = '#f032e6', "Unknown"  ='#bcf60c')
 ggplot(race_, aes(x=reorder(Race.Category, -n) , y = n, fill = Race.Category)) +
   geom_bar(stat="identity") +
-  scale_color_manual("Race", c('#e6194b', '#3cb44b', '#ffe119', '#4363d8', '#f58231', '#911eb4', '#46f0f0', '#f032e6', '#bcf60c', '#fabebe', '#008080', '#e6beff', '#9a6324', '#fffac8', '#800000', '#aaffc3', '#808000', '#ffd8b1', '#000075', '#808080', '#ffffff', '#000000')) +
-  theme_classic() +
-  theme(axis.text = element_blank(), axis.title = element_blank(), legend.title = element_text("Race")  ) 
+  scale_fill_manual(values = group.colors) +
+  labs( x = "Race",  y = "Patient Count") +
+  theme(legend.title=element_text(size=15), 
+         legend.text=element_text(size=15),
+         axis.text = element_blank(), 
+        axis.ticks = element_blank(),
+        panel.background = element_blank()) 
 
 
   
