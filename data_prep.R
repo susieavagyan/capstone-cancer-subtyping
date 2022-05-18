@@ -4,26 +4,6 @@ library(HGNChelper)
 library(ggplot2)
 library(dplyr)
 
-# 
-# # library(vivclust)
-# library(HGNChelper)
-# source("../vivclust/R/cbioportal_io.R")
-# source("../vivclust/R/clustering.R")
-# source("../vivclust/R/vis.R") 
-
-
-# explore_url <- "https://www.cbioportal.org/study/summary?id=msk_met_2021"
-# studies_names <- studies_ID_from_url(explore_url)
-# cache_file_mut <- paste(c("C:/Users/susia/AUA/CMHealthcare/final_project", "web", "cbio_portal_msk_met_mut.RData"), collapse = "/")
-# cache_file_cnv <- paste(c("C:/Users/susia/AUA/CMHealthcare/final_project", "web", "cbio_portal_msk_met_cnv.RData"), collapse = "/")
-# curl_cache_dir <- paste(c("C:/Users/susia/AUA/CMHealthcare/final_project", "web"), collapse = "/")
-
-# mutations_df <- get_mutations_from_cBioPortal("msk_met_2021", NULL, url = "https://media.githubusercontent.com/media/cBioPortal/datahub/tree/master/public" ,
-#                                               file_name = "data_mutations.txt")
-#
-# cnv_df <- get_CNA_from_cBioPortal("msk_met_2021", NULL, url =
-# "https://media.githubusercontent.com/media/cBioPortal/tree/master/public" ,
-# file_name = "data_cna.txt") 
 
 ##readin/writing data
 mutations_df <- read.csv("https://media.githubusercontent.com/media/cBioPortal/datahub/master/public/msk_met_2021/data_mutations.txt", sep = "\t", check.names = FALSE)
