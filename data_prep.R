@@ -5,7 +5,7 @@ library(ggplot2)
 library(dplyr)
 
 
-##readin/writing data
+##reading/writing data cBioportal
 mutations_df <- read.csv("https://media.githubusercontent.com/media/cBioPortal/datahub/master/public/msk_met_2021/data_mutations.txt", sep = "\t", check.names = FALSE)
 colnames(mutations_df)[17] <- "patient_id"
 mutations_df <- mutations_df %>% dplyr::rename_all(make.names)
@@ -79,11 +79,7 @@ cnv_df <- cnv_df  %>% filter(CNA == 2 | CNA == -2)
 
 # summary statistics/plots for cnvs and mutations after filtering
 
-
-
 # Map incorrectly labeled gene symbols to correct HUGO symbols using HGNChelper
-# We use a lookup table here instead of correcting every individual entry
-# (which takes a really long time)
 mut_genes_orig <- unique(mutations_df$Hugo_Symbol)
 mut_genes_map <- checkGeneSymbols(mut_genes_orig) %>%
   pull(Suggested.Symbol)
@@ -144,7 +140,6 @@ cnv_df <- cnv_df %>%
 
 
 # # And extra bit of processing for CNVs to label and AMP or HOMDEL
-
 cnv_mapper <- function(input_df){
   output_df <- input_df
   output_df$CNA <- lapply(input_df$CNA, function(input_string){
@@ -195,10 +190,6 @@ write_csv(cnv_df_onehot, file = "./data/cnv_onehot.csv")
 
 ##merging cnv to mut
 
-# mut_df_onehot_ <- column_to_rownames(mut_df_onehot, "patient_id")
-# 
-# cnv_df_onehot_ <- column_to_rownames(cnv_df_onehot, "patient_id")
-
 gene_list <- cancer_list
 genes <- c()
 for (i in colnames(cnv_df_onehot_)[-1]) {
@@ -213,9 +204,6 @@ for (i in colnames(cnv_df_onehot_)[-1]) {
 }
 
 cnv_filtered <- cnv_df_onehot[, c(colnames(cnv_df_onehot[1]),genes)]
-
-# combined <- merge(mut, cnv_filtered, all.x = TRUE, no.dups = TRUE)
-
 
 combined <- merge(x = mut_df_onehot, y = cnv_filtered, by = "patient_id", all.x = TRUE) 
 combined[is.na(combined)] <- 0   

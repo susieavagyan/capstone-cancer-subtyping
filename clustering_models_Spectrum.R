@@ -14,20 +14,10 @@ mut_cnv_df <- mut_cnv_df[rowSums(mut_cnv_df[, -1])>2,] ##remove patients with 0 
 
 
 
-
 ##weighting by the frequency of mutation
 mut_weights <- read.csv("./data/Mutated_Genes.txt", sep = "\t") %>% filter(Freq != "<0.1%")
 colnames(mut_weights)[1] <- "gene"
 mut_weights$weighted_score <- parse_number(mut_weights$Freq)/100
-# cancer_list <- read.csv("./data/cancer_gene_list.csv")
-# mut_weights <- merge(mut_weights, cancer_list, by = "gene", case =FALSE)  %>% filter(weighted_score.y > 0.3) %>% select(gene, weighted_score.x)  %>% arrange(desc(weighted_score.x))
-
-##assigning clustering
-# clusters_list <- cluster_patients_mut(mutations_df,
-#                                       method = args$method,
-#                                       num_clusters = args$k,
-#                                       weights = mutations_weights)
-
 
 
 mutations_colnames <- mut_cnv_df$patient_id
@@ -128,6 +118,8 @@ write.csv(cluster_assignments, file = "./results/spectrum/spec_cluster_assignmen
 
 plot_cluster_stats <- function(input_omics = cluster_stats, num_genes = 50, gene_weights = mut_weights, clusters = NULL){
   
+
+##Summary statistics  
   # Get the list of most frequently mutated genes in the dataset
   top_genes_list <- input_omics %>%
                                select(gene, total_freq) %>%
@@ -157,11 +149,7 @@ plot_cluster_stats <- function(input_omics = cluster_stats, num_genes = 50, gene
       filter(gene %in% top_genes_list) %>%
       arrange(desc(cluster_prop))
   
-  # # Join together separate omics dataframes
-  # omics_plot <- do.call(rbind, omics_plot)
   
-  # Generating the summary text by selecting genes which have a very significant level of mutation frequency
-  # i.e. p value < 0.01 
   
   if(!is.null(clusters)){
     omics_plot <- omics_plot %>%
@@ -216,8 +204,6 @@ plot_cluster_stats <- function(input_omics = cluster_stats, num_genes = 50, gene
   
 }
 
-
-
 cluster_stats_plot_list <- plot_cluster_stats(cluster_stats, num_genes = 50, gene_weights = mut_weights)
 
 pdf(file = "./results/spectrum/cluster_stats_plot.pdf",   # The directory you want to save the file in
@@ -225,8 +211,6 @@ pdf(file = "./results/spectrum/cluster_stats_plot.pdf",   # The directory you wa
     height = 20)
 cluster_stats_plot_list[[2]]
 dev.off()
-
-
 
 write.csv(cluster_stats_plot_list[[1]], file = "./results/spectrum/cluster_stats.csv", row.names = F)
 

@@ -93,14 +93,11 @@ write.table(D, file=outputName, col.names=F, row.names=T, sep="\t", quote=F)
 
 library(survival)
 library(logistf)
-clin_patients = read.csv('./data/clinical_patients.csv')
+clin_patients = read.csv('./data/clinical_patients.csv') ##clinical data
 clin_samples = read.csv('./data/clinical_primary_raw.csv')
 clin = merge(clin_patients, clin_samples, by = "PATIENT_ID")
 
 dat1 = merge(clin, dat, by.x = "SAMPLE_ID", by.y = "patient_id")
-
-
-################# clustering and evaluation
 
 cancerName="Colorectal"
 save_dir <- file.path("./results/xgene")
