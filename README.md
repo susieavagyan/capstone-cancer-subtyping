@@ -34,6 +34,10 @@ Classification models are in the script **classification.ipynb**. It takes 2 inp
 
 Further biologic analysis of clusters was performed via the script **Cluster_Analysis.ipynb**. This script takes as input the cluster assignments file (of a specific clustering method) and the clinical data of samples (*clinical_primary_raw*) and patients (*clinical_patients.csv*). This script performs Batch Effect Counfounding Analysis, and the obtained figures of counfounder distributions per cluster are saved in the **figures** folder (*batch_\*.png*). Kaplan Meier Survival Analysis is also contained in this script. The resulting KM survival curves are saved in the  **figures** folder (*KM_curves\*.png*).
 
+### Paper and accompanying latex 
+
+The .pdf version of the paper summarizing this project as well as the accompanying latex source code and files are present in the directory (paper *SAvagyan_Capstone_22.pdf*, latex folder *SAvagyan_Capstone_22_tex.zip*)
+
 ### *Used packages and libraries
 
 The list of R packages and Python libraries with respective versions used in this project are saved in the files **session_info_R.txt** for R (using the script *session_info.R*) and **requirements_PY.txt** for Python (using pip freeze command from terminal)
